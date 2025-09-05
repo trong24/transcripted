@@ -1,0 +1,9068 @@
+WEBVTT
+
+00:00.000 --> 00:08.520
+Ừ rồi hôm nay chúng ta sẽ cùng nhau chúng ta vào cái buổi học thứ tư của nhóm chúng ta của anh em
+
+00:08.520 --> 00:13.440
+nhóm chúng ta thì trong cái buổi này anh có nói với mọi người là buổi hôm vừa rồi buổi thứ ba là
+
+00:13.440 --> 00:17.640
+chúng ta đã học về cái RSI là cái buổi đầu tiên chúng ta học về cái RSI thì đương nhiên là giai
+
+00:17.640 --> 00:22.020
+đoạn đầu khi mà mọi người học với cái RSI và cái logic khung thời gian đấy anh có nhắc nhắc mọi
+
+00:22.020 --> 00:25.600
+người là về mọi người xem lại cho anh được hai cái video phân tích kỹ thuật nâng cao phần 1 và
+
+00:25.600 --> 00:30.100
+phần 2 đúng không phải phân tích đa khung thời gian để mọi người hiểu và mọi người áp dụng thì
+
+00:30.100 --> 00:35.140
+ở cái buổi ngày hôm nay chúng ta sẽ không học kiến thức gì mới mà chúng ta vẫn đào sâu lại cái
+
+00:35.140 --> 00:40.780
+kiến thức của RSI bởi vì cái này nó sẽ là cái chính yếu khi mà chúng ta tham gia vào cái việc
+
+00:40.780 --> 00:44.860
+chúng ta phân tích thị trường chúng ta nhìn một cái RSI để chúng ta nhìn được xu hướng của thị trường
+
+00:44.860 --> 00:49.120
+là cái thứ nhất này và nhìn được cái lực mua lực bán của thị trường là cái thứ hai và nhìn được cái
+
+00:49.120 --> 00:55.580
+đà giá là cái thứ ba thì từ đó chúng ta ra quyết định vào lệnh thoát lệnh ở cho những cái tài khoản
+
+00:55.580 --> 01:00.680
+của cái quá trình giao dịch của mình thì còn cái công cụ nữa mà mọi người sẽ được học vào buổi sau
+
+01:00.680 --> 01:05.420
+là buổi ngày mai đó là cái công cụ với đường trung bình có nghĩa là khi mà anh em học về cái RSI
+
+01:05.420 --> 01:10.340
+rồi thì mọi người thấy được là RSI cho chúng ta nhìn xu hướng rất tốt
+
+01:10.340 --> 01:14.840
+nhưng mà khi mà anh em mới học RSI thôi có nghĩa là chúng ta chỉ nhìn cái đồ thị chúng ta
+
+01:14.840 --> 01:19.940
+backtest ở trên công cụ RSI thôi thì mọi người thấy một điều
+
+01:19.940 --> 01:25.560
+nhược điểm của RSI là gì một cái nhược điểm của RSI là nó sẽ rất khó chúng ta định lượng được các
+
+01:25.560 --> 01:31.200
+khoảng giá trên đồ thị bởi vì RSI nó là cái thứ công cụ của đường trung bình mà thì nó rất khó
+
+01:31.200 --> 01:35.820
+để chúng ta định lượng được cái khoảng giá trên đồ thị và cái đoạn để chúng ta vào trên đồ thị thì
+
+01:35.820 --> 01:41.880
+chúng ta sẽ có những cái công cụ khác để chúng ta xác định được cái điểm vào trên đồ thị nó
+
+01:41.880 --> 01:46.740
+hiệu quả hơn thì mọi người sẽ học vào buổi ngày mai đấy thì chúng ta sẽ có cái lộ trình
+
+01:46.740 --> 01:51.780
+như vậy ngày hôm nay buổi ngày hôm nay thì chúng ta sẽ đào sâu thêm về cái RSI anh sẽ phân tích
+
+01:51.780 --> 01:55.540
+cho anh em những cái lệnh mà ngày hôm qua ngày hôm kia anh vào lệnh như thế nào
+
+01:55.560 --> 02:09.480
+để anh em hiểu rõ cách vào lệnh và tư duy theo cái
+
+02:09.480 --> 02:15.720
+RSI nó như thế nào và giữ lệnh theo RSI ra sao thì cái đó chúng ta sẽ cùng bàn sâu
+
+02:15.720 --> 02:21.120
+trong những buổi ngày hôm nay và tiếp theo là những cái câu hỏi trong cái thời gian là 12
+
+02:21.120 --> 02:25.560
+ngày vừa rồi khi mọi người học về cái RSI một người nhìn nó trên đồ thị thì mọi người sẽ sinh
+
+02:25.560 --> 02:29.820
+ra từ cái quá trình chúng ta học kiến thức xong bắt đầu chúng ta áp dụng kiến thức vào đồ thị thì từ
+
+02:29.820 --> 02:34.380
+đồ thị bắt đầu nó sinh ra những cái thắc mắc những cái câu hỏi thì anh sẽ nhìn vào cái câu hỏi mọi
+
+02:34.380 --> 02:38.400
+người sẽ đặt câu hỏi ở trên cái buổi live ngày hôm nay để anh giải đáp những cái câu hỏi đó thì làm
+
+02:38.400 --> 02:42.780
+sao mà có thể là giai đoạn đầu mọi người chưa quen nó giống như anh em nhóm cũ ở đây mọi người đã đã
+
+02:42.780 --> 02:47.460
+đã trải nghiệm thì nhưng mà sau đó khi mà dần dần thì bắt đầu kiến thức nó ngẫm vào mình và mình nhìn
+
+02:47.460 --> 02:52.680
+vào đồ thị thị trường làm sao để mình kiểm soát được nó và hiểu được con sóng nó sẽ đi
+
+02:52.680 --> 02:59.940
+như thế nào đó thì đầu tiên chúng ta sẽ phân tích lại cái lệnh những cái lệnh như ví dụ cái lệnh
+
+02:59.940 --> 03:05.280
+ngày hôm qua cái vùng này tại sao được vào lệnh ở cái vùng này cái lệnh ngày hôm qua mình có chia sẻ
+
+03:05.280 --> 03:10.380
+với anh em trên nhóm anh được vào ở cái vùng này thì trước mắt là chúng ta phải nhìn một loạt các
+
+03:10.380 --> 03:15.180
+cái xu hướng như đồ thị trước đã để làm sao quan trọng nhất anh em vẫn nhớ cái yếu tố là quan
+
+03:15.180 --> 03:17.440
+trọng nhất là chúng ta tìm được sự đồng thuận đa khung thời gian
+
+03:17.440 --> 03:24.160
+đồng thuận ở trên các khung thời gian thấy mọi người nhớ chúng ta phải tìm được sự đồng thuận ở
+
+03:24.160 --> 03:37.140
+trên các khung thời gian nếu chúng ta không tìm được cái sự đồng thuận ở trên các
+
+03:37.140 --> 03:42.200
+khung thời gian thì mọi tín hiệu vào lệnh ở trên một khung thời gian bất kỳ mà nó không tìm được
+
+03:42.200 --> 03:46.980
+sự đồng thuận khác thì bỏ đi bởi vì chúng ta phải tìm được sự đồng thuận
+
+03:46.980 --> 03:48.320
+Các con sóng nó phải có sự đồng thuận
+
+03:48.320 --> 03:50.060
+Các khung thời gian nó phải có sự đồng thuận
+
+03:50.060 --> 03:52.620
+Thì bắt đầu cái con sóng nó mới có hiệu lực
+
+03:52.620 --> 03:54.760
+Vậy thì khi mà
+
+03:54.760 --> 03:55.660
+Mọi người nhớ này
+
+03:55.660 --> 03:58.400
+Khi ở trong một cái xu hướng mạnh
+
+03:58.400 --> 04:01.200
+Khi ở trong một cái xu hướng mạnh
+
+04:01.200 --> 04:06.600
+Hòa bảo thầy lùi về cho tụi em
+
+04:06.600 --> 04:07.400
+Theo dõi là sao
+
+04:07.400 --> 04:08.900
+Là sao hòa
+
+04:08.900 --> 04:15.660
+Thì trong một cái xu hướng mạnh
+
+04:15.660 --> 04:16.480
+Mọi người cứ nhớ này
+
+04:16.480 --> 04:18.560
+Khi mà một xu hướng mạnh nó xảy ra
+
+04:18.560 --> 04:21.160
+Ví dụ một cái xu hướng nó tăng thật là mạnh
+
+04:21.160 --> 04:22.600
+Hoặc là giảm thật là mạnh
+
+04:22.600 --> 04:24.400
+Thì chắc chắn khi đó
+
+04:24.400 --> 04:26.860
+Các khung thời gian nó đều đồng thuận
+
+04:26.860 --> 04:27.740
+Theo cái xu hướng đấy
+
+04:27.740 --> 04:29.700
+Chẳng hạn là trong một xu hướng tăng
+
+04:29.700 --> 04:32.000
+Thì cái RSI của các khung thời gian
+
+04:32.000 --> 04:34.060
+Nó sẽ đồng thuận theo cái xu hướng tăng đó
+
+04:34.060 --> 04:36.980
+Trước mắt là nó sẽ ở cái khu vực trên cao này
+
+04:36.980 --> 04:38.740
+Cái thứ hai là cái RSI
+
+04:38.740 --> 04:41.280
+Nó sẽ nằm trên hai cái đường trung bình của nó
+
+04:41.280 --> 04:42.760
+Là đường 9 và đường 45
+
+04:42.760 --> 04:43.700
+Đó
+
+04:43.700 --> 04:45.300
+Thì đấy là cái đặc điểm
+
+04:45.300 --> 04:46.460
+Của cái khung thời gian
+
+04:46.460 --> 04:49.260
+Nó sẽ có cái sự đồng thuận
+
+04:49.260 --> 04:50.340
+Chúng ta nhìn vào RSI
+
+04:50.340 --> 04:52.740
+Khi mà nó đồng thuận trong một xu hướng tăng
+
+04:52.740 --> 04:54.660
+Hoặc là khi ở trong một xu hướng giảm
+
+04:54.660 --> 04:55.720
+Thì các khung thời gian
+
+04:55.720 --> 04:56.700
+Một xu hướng giảm mạnh
+
+04:56.700 --> 04:58.020
+Thì các khung thời gian
+
+04:58.020 --> 05:00.520
+Nó sẽ đồng thuận cho cái xu hướng giảm đấy
+
+05:00.520 --> 05:02.820
+Nó sẽ đồng thuận cho cái xu hướng giảm đấy
+
+05:02.820 --> 05:03.680
+Có nghĩa là cái RSI
+
+05:03.680 --> 05:06.120
+Nó sẽ nằm ở dưới hai đường trung bình của nó
+
+05:06.120 --> 05:07.540
+Và nó mở xuống dưới như thế này
+
+05:07.540 --> 05:09.540
+Thì đấy là cái sự đồng thuận trong xu hướng
+
+05:09.540 --> 05:10.460
+Thì đấy
+
+05:10.460 --> 05:11.880
+Cái giai đoạn xu hướng
+
+05:11.880 --> 05:13.680
+Thì hôm trước anh đừng có ví von anh em là gì
+
+05:13.680 --> 05:15.680
+Ở trong cái giai đoạn xu hướng
+
+05:15.680 --> 05:16.680
+Anh đừng có ví von anh em là gì
+
+05:16.680 --> 05:17.800
+Cái giai đoạn xu hướng là giai đoạn gì
+
+05:17.800 --> 05:19.780
+giai đoạn đoàn tàu tăng tốc đúng không
+
+05:19.780 --> 05:22.540
+Có nghĩa là những cái giai đoạn mà xu hướng nó chạy mạnh như thế này này
+
+05:22.540 --> 05:24.900
+Thì đấy là những cái giai đoạn mà đoàn tàu nó đang
+
+05:24.900 --> 05:26.140
+Nhiên liệu nó rất là căng
+
+05:26.140 --> 05:27.580
+Các khung thời gian nó đang đồng thuận
+
+05:27.580 --> 05:28.760
+Nhiên liệu nó rất là căng
+
+05:28.760 --> 05:31.180
+Và bắt đầu nó có sự di chuyển rất là mạnh
+
+05:31.180 --> 05:32.300
+Ở trên cái xu hướng đó
+
+05:32.300 --> 05:34.140
+Nó có sự di chuyển rất là mạnh
+
+05:34.140 --> 05:35.060
+Ở trên cái xu hướng đó
+
+05:35.060 --> 05:38.740
+Thế khi nào chúng ta phát hiện được rằng là
+
+05:38.740 --> 05:40.920
+Các cái đoàn tàu đó
+
+05:40.920 --> 05:42.580
+Khi nào chúng ta phát hiện là
+
+05:42.580 --> 05:44.960
+Đoàn tàu đó nó đến cái giai đoạn nó cần phải bơm nhiên liệu
+
+05:44.960 --> 05:46.180
+Trước khi nó tiếp tục xu hướng
+
+05:46.180 --> 05:48.020
+Hoặc là nó đảo chiều xu hướng
+
+05:48.020 --> 05:50.540
+Cái đặc điểm nào để chúng ta phát hiện ra là
+
+05:50.540 --> 05:52.100
+Đoàn tàu bắt đầu vào cái giai đoạn
+
+05:52.100 --> 05:53.460
+Những cái giai đoạn như thế này
+
+05:53.460 --> 05:55.520
+Những cái giai đoạn như thế này
+
+05:55.520 --> 05:56.420
+Đặc điểm là
+
+05:56.420 --> 06:00.440
+Đặc điểm là khi đó chúng ta thấy rằng là
+
+06:00.440 --> 06:02.580
+Các khung thời gian nó có sự
+
+06:02.580 --> 06:04.220
+Ngược pha và các tín hiệu
+
+06:04.220 --> 06:05.040
+Ở các khung nó không
+
+06:05.040 --> 06:05.860
+Nó không hề đồng thuận với nhau
+
+06:05.860 --> 06:07.540
+Nó không hề đồng thuận với nhau
+
+06:07.540 --> 06:10.260
+Ví dụ nhé, trong cái giai đoạn từ dưới này
+
+06:10.260 --> 06:11.360
+Lên lên trên này
+
+06:11.360 --> 06:14.420
+Chúng ta xác định đây nó là một cái xu hướng tăng lớn
+
+06:14.420 --> 06:16.560
+Của khung thời gian từ 1D trở lên đúng không
+
+06:16.560 --> 06:17.780
+Thế nhưng mà
+
+06:17.780 --> 06:19.620
+Ở trong cái giai đoạn này
+
+06:19.620 --> 06:21.960
+Trong cái giai đoạn điều chỉnh của khung 1D này
+
+06:21.960 --> 06:23.980
+Thì rõ ràng cái đoạn này
+
+06:23.980 --> 06:25.300
+Tuy với khung thời gian 1D
+
+06:25.300 --> 06:27.400
+Nó chỉ là một xu hướng điều chỉnh
+
+06:27.400 --> 06:30.260
+Không phải là xu hướng điều chỉnh mà nó chỉ là một đoạn điều chỉnh
+
+06:30.260 --> 06:32.200
+Trong xu hướng tăng của khung thời gian 1D
+
+06:34.200 --> 06:34.600
+Với
+
+06:34.600 --> 06:36.340
+Khung 1D nó là đoạn điều chỉnh
+
+06:36.340 --> 06:37.840
+Nhưng mà rõ ràng cái đoạn này
+
+06:37.840 --> 06:39.920
+Nó lại là xu hướng giảm
+
+06:39.920 --> 06:41.380
+Của những khung thời gian nhỏ này
+
+06:41.380 --> 06:43.620
+Vậy thì xu hướng giảm của những khung thời gian nhỏ nó sẽ thể hiện
+
+06:43.620 --> 06:44.280
+Trên cái đoạn này
+
+06:44.280 --> 06:47.620
+Thì khi đó cái đoạn này, những cái đoạn điều chỉnh như này
+
+06:47.620 --> 06:48.880
+Mà nó không đồng thuận với xu hướng
+
+06:48.880 --> 06:50.760
+Những cái đoạn nghỉ của xu hướng
+
+06:50.760 --> 06:52.540
+Hoặc là những cái đoạn chuẩn bị đảo chiều xu hướng
+
+06:52.540 --> 06:55.620
+Thì mọi người sẽ nhìn rất rõ ra một cái hiện tượng
+
+06:55.620 --> 06:57.260
+Đó là sự lệch pha của khung thời gian
+
+06:57.260 --> 07:00.260
+Và khi mà nó xảy ra cái sự lệch pha đó
+
+07:00.260 --> 07:02.520
+Thì chúng ta chọn cái phương án là chúng ta làm cái gì
+
+07:02.520 --> 07:04.560
+Chọn phương án là gì
+
+07:04.560 --> 07:05.400
+Thì đương nhiên
+
+07:05.400 --> 07:07.760
+Chúng ta đã có một cái chiến thuật cho mình rồi
+
+07:07.760 --> 07:09.560
+Là những cái đoạn này
+
+07:09.560 --> 07:11.460
+Là những cái đoạn chúng ta kiếm thật nhiều tiền
+
+07:11.460 --> 07:13.760
+Kiếm thật nhiều tiền, kiếm thật nhiều tiền, kiếm thật nhiều tiền
+
+07:13.760 --> 07:14.700
+Và kiếm thật nhiều tiền
+
+07:14.700 --> 07:17.440
+Còn cái đoạn mà khi bắt đầu các khung thời gian
+
+07:17.440 --> 07:19.480
+Nó lệch pha với nhau, thì chúng ta đứng ngoài
+
+07:19.480 --> 07:21.760
+Để làm sao, chờ một cái đoạn đồng thuận
+
+07:21.760 --> 07:23.960
+Nó giống như là chúng ta vừa chạy một cái chiếc xe
+
+07:23.960 --> 07:25.820
+Trên cao tốc, tôi đẩy, tôi đổi đầy
+
+07:25.820 --> 07:27.380
+Bình xăng, tôi chạy đến 300km
+
+07:27.380 --> 07:29.640
+Thì đến cái trạm xăng
+
+07:29.640 --> 07:30.880
+Thích cái trạm nhiên liệu của tôi
+
+07:30.880 --> 07:33.400
+Cái bình xăng đó của tôi nó cạn rồi
+
+07:33.400 --> 07:35.360
+Thì tôi phải vào, tôi bơm nhiên liệu cho cái xe
+
+07:35.360 --> 07:36.920
+Cho đến khi nào cái nhiên liệu nó đầy
+
+07:36.920 --> 07:39.020
+Thì tôi mới đi tiếp, chứ không ai vào
+
+07:39.020 --> 07:42.040
+Nhảy vào để đạp ga cái đoạn mà khi xe nó đang bơm xăng cả
+
+07:42.040 --> 07:43.480
+Thì lúc đó
+
+07:43.480 --> 07:44.880
+Chúng ta vừa phải mất thời gian chờ đợi
+
+07:44.880 --> 07:46.320
+Mà chúng ta vừa chịu cái sự rủi ro
+
+07:46.320 --> 07:48.160
+Thì điều đơn giản là gì
+
+07:48.160 --> 07:50.380
+Khi bắt đầu thấy sự lệch pha của khung thời gian
+
+07:50.380 --> 07:53.400
+Thì mình đứng ngoài và chờ một sự đồng thuận
+
+07:53.400 --> 07:55.280
+Có nghĩa là cái xăng của đoàn tàu
+
+07:55.280 --> 07:56.140
+Nó bơm xong rồi
+
+07:56.140 --> 07:57.360
+Ô, nó sập kìa
+
+07:57.360 --> 08:00.180
+Cái xăng của đoàn tàu nó bơm xong rồi
+
+08:00.180 --> 08:02.060
+Vậy thì điều đơn giản là như vậy thôi
+
+08:02.060 --> 08:04.620
+Chúng ta không phải nghĩ nhiều, chúng ta cũng không phải đoán
+
+08:04.620 --> 08:07.560
+À, sắp tới là thị trường nó đi lên hay đi xuống
+
+08:07.560 --> 08:09.480
+Sắp tới là thị trường nó đi xuống hay đi lên
+
+08:09.480 --> 08:11.380
+Chúng ta đừng đoán, chúng ta không đoán làm gì cả
+
+08:11.380 --> 08:13.560
+Bởi vì nếu chúng ta cố tình
+
+08:13.560 --> 08:14.800
+Chúng ta dự đoán thị trường
+
+08:14.800 --> 08:17.520
+Ở cái giai đoạn đó, khi mà nó chưa có sự đồng thuận với nhau
+
+08:17.520 --> 08:19.540
+Thì cái sự đoán đó
+
+08:19.540 --> 08:20.700
+Cái sự dự đoán của chúng ta
+
+08:23.400 --> 08:24.660
+Theo hướng thiên kiến cá nhân thôi
+
+08:24.660 --> 08:26.840
+Đương nhiên, cái sự dự đoán đó
+
+08:26.840 --> 08:29.080
+Khi mà chẳng hạn là chúng ta dự đoán theo cái xu hướng
+
+08:29.080 --> 08:31.060
+Chẳng hạn, à, thằng H1 nó điều chỉnh
+
+08:31.060 --> 08:32.800
+Thằng H4, thằng H12
+
+08:32.800 --> 08:34.240
+Nó vẫn giữ nguyên cái tính chất tăng
+
+08:34.240 --> 08:36.760
+Thì có thể là chúng ta sẽ dự đoán được là
+
+08:36.760 --> 08:39.420
+Đến 80% khả năng là sau cái đoạn
+
+08:39.420 --> 08:41.580
+Điều chỉnh này, sau cái đoạn nhiễu này
+
+08:41.580 --> 08:43.140
+Nó sẽ tiếp tục tăng
+
+08:43.140 --> 08:45.320
+Theo cái xu hướng của khung lớn
+
+08:45.320 --> 08:47.120
+Thì đương nhiên, cái tỉnh bản đấy
+
+08:47.120 --> 08:48.620
+Cái tỉ lệ xảy ra nó sẽ cao hơn
+
+08:48.620 --> 08:51.100
+Và khi đó chúng ta ở trong cái vị thế là
+
+08:51.100 --> 08:53.300
+Chúng ta chờ để có cái sự đồng thuận
+
+08:53.300 --> 08:54.240
+Cho một cái xu hướng tăng
+
+08:54.240 --> 08:56.240
+Có một cái sự đồng thuận cho một xu hướng tăng
+
+08:56.240 --> 08:59.560
+Đây nhé, anh em nhóm cũ để ý này
+
+08:59.560 --> 09:01.460
+Cái đoạn này, khi mà
+
+09:01.460 --> 09:02.860
+Ở trong một cái song 4
+
+09:02.860 --> 09:05.340
+Thì mọi người sẽ thấy xảy ra cái hiện tượng này rất là nhiều
+
+09:05.340 --> 09:07.460
+Có nghĩa là nó cứ giật lên, giật xuống, giật lên, giật xuống
+
+09:07.460 --> 09:08.860
+Thì ở đây anh em để ý
+
+09:08.860 --> 09:10.580
+Cái đường trung bình của khung thời gian
+
+09:10.580 --> 09:13.320
+M15, nếu nó xảy ra cái điểm giao cắt
+
+09:13.320 --> 09:15.180
+Ở khung giờ 15 và retest lại điểm giao cắt
+
+09:15.180 --> 09:15.960
+Đấy thì chúng ta mới lo
+
+09:15.960 --> 09:19.160
+Chứ đoạn này, cái khung, bây giờ anh em nhìn
+
+09:19.160 --> 09:21.300
+Nhìn cái khung thời gian M15 này
+
+09:21.300 --> 09:23.000
+Là bắt đầu thấy hiện tượng gì chưa
+
+09:23.000 --> 09:25.600
+Anh em nhóm mới này, khung M15 mọi người thấy gì chưa
+
+09:25.600 --> 09:26.920
+Có nghĩa là
+
+09:26.920 --> 09:28.900
+Nó ở trong một cái biên độ này
+
+09:28.900 --> 09:30.640
+Là cái khung thời gian này nó sai way
+
+09:30.640 --> 09:33.000
+Thì không, không, không, không, không
+
+09:33.000 --> 09:34.300
+Nhìn vào cái vùng đó nữa
+
+09:34.300 --> 09:37.080
+Thì cái đoạn này, thì chuẩn bị
+
+09:37.080 --> 09:39.040
+Song 1, sau khi mà hát 1 nó xong
+
+09:39.040 --> 09:41.160
+Thì nó cuộn lên, nó thành song 5
+
+09:41.160 --> 09:42.180
+Xong rồi nó tụt ra song 4
+
+09:42.180 --> 09:44.320
+Đó, vừa có nói đến đâu rồi nhỉ
+
+09:44.320 --> 09:46.060
+Nó đến cái đoạn
+
+09:46.060 --> 09:48.460
+Nếu chúng ta dự báo
+
+09:48.460 --> 09:49.140
+Chúng ta dự báo
+
+09:49.160 --> 09:50.780
+Chúng ta dự báo thôi, chúng ta dự báo
+
+09:50.780 --> 09:52.620
+Đây không phải là dự báo, mà chúng ta
+
+09:52.620 --> 09:54.260
+Lên cái tịch bản cho thị trường
+
+09:54.260 --> 09:56.820
+À bây giờ thằng H4, thằng H12, nó vẫn lúc đó
+
+09:56.820 --> 09:57.920
+Nó vẫn giữ nguyên cái tính chất
+
+09:57.920 --> 10:00.700
+Thì thằng H1 này điều chỉnh, sau đó nó nếu mà vòng lên
+
+10:00.700 --> 10:03.220
+Đồng thuận cái xu hướng tăng với thằng H1 và thằng H12
+
+10:03.220 --> 10:05.240
+Thì chúng ta tìm cái điểm
+
+10:05.240 --> 10:05.840
+Lo
+
+10:05.840 --> 10:08.660
+Thì đây chính là cái đoạn, ngày hôm qua mình vào lệnh
+
+10:08.660 --> 10:10.680
+Cái đoạn này, và cái lệnh lo của đoạn này
+
+10:10.680 --> 10:12.180
+Ăn được khoảng 3.000 giá
+
+10:12.180 --> 10:15.020
+Từ cái vùng 43K mấy này, 43K6 này
+
+10:15.020 --> 10:17.380
+Ăn lên đến 46K6
+
+10:19.160 --> 10:20.500
+Thì cái đoạn này
+
+10:20.500 --> 10:21.900
+Chúng ta thấy này, khi mà
+
+10:21.900 --> 10:24.320
+Ngày hôm qua ở cái giai đoạn này, chúng ta thấy
+
+10:24.320 --> 10:26.280
+Khung H4, chúng ta phải check
+
+10:26.280 --> 10:28.140
+Các khung thời gian lớn hơn, thằng H4
+
+10:28.140 --> 10:29.880
+Rõ ràng là nó
+
+10:29.880 --> 10:32.360
+Đang điều chỉnh xuống, nhưng cái đoạn đó đi
+
+10:32.360 --> 10:34.440
+Nó chưa điều chỉnh xuống, nằm sâu
+
+10:34.440 --> 10:35.460
+Ở dưới 2 đường trung bình
+
+10:35.460 --> 10:38.500
+Đó là cái thứ nhất, thì nếu chúng ta nhận định rằng là
+
+10:38.500 --> 10:40.820
+Thằng H1, nó có 1 cái mô hình giá
+
+10:40.820 --> 10:42.220
+Có 1 cái mô hình
+
+10:42.220 --> 10:44.300
+Nó đang cuộn lên như thế này, nó thu hẹp
+
+10:44.300 --> 10:46.540
+Khoảng cách với 2 đường trung bình của nó như thế này
+
+10:46.540 --> 10:47.340
+Để kéo lên
+
+10:47.340 --> 10:50.120
+Và tiếp tục chúng ta check cái thằng H12
+
+10:50.120 --> 10:52.900
+Khung H12, cái RSI của nó
+
+10:52.900 --> 10:54.240
+Nó vẫn đang nằm trên
+
+10:54.240 --> 10:55.900
+2 cái đường trung bình
+
+10:55.900 --> 10:58.640
+H12, cái RSI nó vẫn nằm trên 2 đường trung bình
+
+10:58.640 --> 11:00.080
+Vẫn đảm bảo tính chất tăng
+
+11:00.080 --> 11:02.700
+Khung H12 như vậy, chắc chắn khung 1D
+
+11:02.700 --> 11:04.160
+Cũng vậy rồi, khung 1D
+
+11:04.160 --> 11:06.420
+Nằm trên 2 đường trung bình, vẫn đảm bảo tính chất tăng
+
+11:06.420 --> 11:08.540
+Vậy thì rõ ràng bây giờ nếu cái thằng
+
+11:08.540 --> 11:10.280
+H1 này, nó cuộn lên
+
+11:10.280 --> 11:11.780
+Và nó kéo ra thằng H4 lên trên
+
+11:11.780 --> 11:14.220
+Thì tất cả chúng nó đồng thuận
+
+11:14.220 --> 11:16.060
+Trong 1 xu hướng tăng, vậy là chúng ta
+
+11:16.060 --> 11:17.280
+Sẽ có cái điểm
+
+11:17.340 --> 11:19.380
+Để tiếp tục chúng ta long theo cái xu hướng đó
+
+11:19.380 --> 11:21.040
+Chúng ta bay theo cái xu hướng đó
+
+11:21.040 --> 11:23.060
+Thì hôm qua Nân đẩy thêm cái thằng
+
+11:23.060 --> 11:25.340
+M15 như này
+
+11:25.340 --> 11:27.500
+Tại sao Nân vào ở cái đoạn 43K6
+
+11:27.500 --> 11:29.400
+Anh em có thể xem lại cái lệnh ngày hôm qua của An Nân
+
+11:29.400 --> 11:31.140
+An Nân vào cái lệnh 43K6
+
+11:31.140 --> 11:33.040
+Khi nó vừa đóng cái cây nến M15 này
+
+11:33.040 --> 11:35.260
+Khi nó vừa đóng cái cây nến M15 này
+
+11:35.260 --> 11:36.920
+Tại sao Nân lại vào cây nến này
+
+11:36.920 --> 11:39.320
+Thứ nhất là do cái mô hình
+
+11:39.320 --> 11:41.180
+Cuộn lên của thằng
+
+11:41.180 --> 11:42.680
+H1 như thế này
+
+11:42.680 --> 11:45.320
+Và thứ 2 là mọi người
+
+11:45.320 --> 11:46.380
+Phải nhớ cho An Nân là
+
+11:46.380 --> 11:47.100
+Cái RSI
+
+11:47.100 --> 11:49.880
+Nó cũng có cái tính chất là kháng cự hỗ trợ
+
+11:49.880 --> 11:52.980
+Giống như cái đồ thị giá
+
+11:52.980 --> 11:54.680
+Có cái đoạn này An Nân thấy là
+
+11:54.680 --> 11:55.860
+Cái cây nến M15 này
+
+11:55.860 --> 11:56.880
+Nó đóng nến ở đây
+
+11:56.880 --> 11:59.020
+Thế nhưng mà cái RSI mọi người thấy là
+
+11:59.020 --> 12:00.700
+Nó đóng nến ở trên cái cảng này
+
+12:00.700 --> 12:03.640
+Thì bắt đầu thể hiện là có một cái lực mua
+
+12:03.640 --> 12:05.160
+Bắt đầu tham gia vào thị trường rồi
+
+12:05.160 --> 12:07.720
+Thì An Nân bắt sớm từ cái đoạn M15 này
+
+12:07.720 --> 12:09.540
+Bắt sớm từ cái đoạn M15 này
+
+12:09.540 --> 12:11.580
+Bởi vì nó có khả năng nó kéo thằng H1 lên
+
+12:11.580 --> 12:13.320
+Bởi vì thằng H1 nó đang bấp mé
+
+12:13.320 --> 12:14.440
+Cái đoạn bắt đầu nó cuộn lên
+
+12:14.440 --> 12:16.140
+Cuối cái xu hướng này
+
+12:16.140 --> 12:17.180
+Cuối cái đoạn này
+
+12:17.180 --> 12:19.520
+Đó thì bắt đầu nó kéo thằng H4 lên
+
+12:19.520 --> 12:21.520
+Thì đấy là lý do An Nân vào được cái lận
+
+12:21.520 --> 12:22.860
+Ở cái đoạn này
+
+12:22.860 --> 12:24.340
+Thì tiếp theo chúng ta sẽ
+
+12:24.340 --> 12:27.980
+Và khi đó An Nân sẽ SL theo cái khung M15 này
+
+12:27.980 --> 12:30.580
+An Nân vào ở đây và SL dưới cái đáy gần nhất của nó như này
+
+12:30.580 --> 12:32.380
+Thì tiếp theo sau khi nó vào
+
+12:32.380 --> 12:34.380
+Chúng ta vào lận bắt đầu giá nó chạy
+
+12:34.380 --> 12:36.480
+Thì chúng ta phải làm cái bước là quản lý lận
+
+12:36.480 --> 12:37.720
+Quản lý lận
+
+12:37.720 --> 12:39.060
+Thì khi giá nó tăng lên như này
+
+12:39.060 --> 12:40.620
+Bắt đầu chúng ta bật các cái khung nhỏ ra
+
+12:40.620 --> 12:42.380
+Để xem là mọi người nhớ này
+
+12:42.380 --> 12:44.480
+Cái này nhắc lại nhé
+
+12:44.480 --> 12:46.360
+Đó là khi mà xu hướng nó chạy
+
+12:46.360 --> 12:48.640
+Thì chúng ta phải nhìn vào bản chất của con sóng đó
+
+12:48.640 --> 12:50.480
+Ví dụ trong một con sóng tăng
+
+12:50.480 --> 12:51.440
+Thì cái
+
+12:51.440 --> 12:54.380
+Cái con sóng tăng đó
+
+12:54.380 --> 12:56.660
+Nó có tồn tại cái lực mua thực sự hay không
+
+12:56.660 --> 12:58.280
+Hay là trong một con sóng giảm
+
+12:58.280 --> 13:00.900
+Thì cái con sóng giảm đó nó có tồn tại lực bán thực sự hay không
+
+13:00.900 --> 13:02.860
+Vậy thì lực mua thực sự nó là cái gì
+
+13:02.860 --> 13:05.240
+Chúng ta nhìn vào đâu để biết là
+
+13:05.240 --> 13:07.160
+Cái con sóng đó nó có lực mua thực sự
+
+13:07.160 --> 13:08.700
+Anh em comment cho em có nhớ bài không
+
+13:08.700 --> 13:13.520
+Đúng rồi
+
+13:14.480 --> 13:15.940
+Cái con sóng nhỏ có quán tính tăng
+
+13:15.940 --> 13:18.580
+Không phải nó đi cao cao thì nó như thế nào là cao
+
+13:18.580 --> 13:21.080
+Mà các cái khung nhỏ nó phải xuất hiện là
+
+13:21.080 --> 13:24.980
+Thế rồi nó đi nó đóng nến ở trên cái vùng 80 trở lên
+
+13:24.980 --> 13:27.800
+Đó trên vùng 80% trở lên
+
+13:27.800 --> 13:30.100
+Thì chúng ta khi mà con sóng này nó xảy ra chúng ta nhìn này
+
+13:30.100 --> 13:31.640
+Chúng ta bắt đầu bật từ những khung nhỏ ra
+
+13:31.640 --> 13:32.920
+À đừng lưu ý anh em này
+
+13:32.920 --> 13:36.240
+Chúng ta không chơi những khung thời gian từ dưới khung M15
+
+13:36.240 --> 13:39.820
+Chúng ta chỉ vào lệnh theo những khung thời gian từ M15 trở lên thôi
+
+13:39.820 --> 13:43.160
+Và các khung nhỏ này chúng ta xem là để chúng ta quản lý lệnh thôi
+
+13:43.160 --> 13:46.240
+Chứ chúng ta không xem để chúng ta vào lệnh
+
+13:46.240 --> 13:48.020
+Chúng ta chỉ xem để quản lý lệnh thôi
+
+13:48.020 --> 13:49.060
+Thì
+
+13:49.060 --> 13:52.860
+Đó bật lại cái đoạn này
+
+13:52.860 --> 13:53.780
+Đây
+
+13:53.780 --> 13:58.160
+Chúng ta chỉ xem các cái này để chúng ta quản lý lệnh thôi
+
+13:58.160 --> 14:00.660
+Chứ chúng ta không được vào lệnh theo cái
+
+14:00.660 --> 14:03.240
+Theo các khung thời gian nhỏ
+
+14:03.240 --> 14:05.880
+Bởi vì mọi người chưa đủ kỹ năng để mọi người quản lý những cái lệnh
+
+14:05.880 --> 14:07.260
+Khung thời gian nhỏ như vậy
+
+14:07.260 --> 14:10.300
+Đấy
+
+14:10.300 --> 14:13.760
+Sau khi nó lên như thế này
+
+14:13.760 --> 14:16.160
+Thì chúng ta bật các khung thời gian nhỏ ra
+
+14:16.160 --> 14:18.120
+Chúng ta bật các khung thời gian nhỏ ra
+
+14:18.120 --> 14:18.460
+Thì thằng
+
+14:18.460 --> 14:20.220
+Bắt đầu từ thằng M1
+
+14:20.220 --> 14:23.480
+À M1 có quán tính đoạn này nó tăng lên là bắt đầu đã có
+
+14:23.480 --> 14:25.280
+Cái quán tính tăng rồi
+
+14:25.280 --> 14:27.360
+Thằng 3M có không
+
+14:27.360 --> 14:29.940
+3M có
+
+14:29.940 --> 14:31.300
+RSI từ 80 trở lên
+
+14:31.300 --> 14:32.120
+Ok
+
+14:32.120 --> 14:33.680
+5M sao
+
+14:33.680 --> 14:34.460
+5M có
+
+14:34.460 --> 14:35.600
+RSI 80 trở lên
+
+14:35.600 --> 14:38.220
+Và hôm qua là nó lên đến tận khung M15
+
+14:38.220 --> 14:39.260
+M10 có
+
+14:39.260 --> 14:40.280
+M10 có
+
+14:40.300 --> 14:40.820
+M15 có
+
+14:40.820 --> 14:45.360
+Vậy thì chúng ta sẽ quản lý theo cái khung lớn nhất
+
+14:45.360 --> 14:48.380
+Có thể là cái khung H1 này nó là cái khung dưới
+
+14:48.380 --> 14:50.040
+Cái khung H1 thực ra là
+
+14:50.040 --> 14:52.120
+Ngày hôm qua nếu mà chính xác ra
+
+14:52.120 --> 14:53.360
+Thì cái lệnh đó
+
+14:53.360 --> 14:55.300
+Nếu mà cái khung thời gian này chúng ta vào lệnh
+
+14:55.300 --> 14:57.000
+Rõ ràng nó là khung 1H
+
+14:57.000 --> 14:58.620
+Bởi vì thằng 1H
+
+14:58.620 --> 15:00.620
+Cái quá trình điều chỉnh này này
+
+15:00.620 --> 15:03.800
+Cái quá trình điều chỉnh của thằng 1H này này
+
+15:03.800 --> 15:07.380
+Sau khi đây là con sóng điều chỉnh của thằng 1H
+
+15:07.380 --> 15:09.620
+Và thằng 1H nó cuộn lên thì chúng ta mua một điểm này
+
+15:09.620 --> 15:10.280
+Thì thực ra là
+
+15:10.300 --> 15:13.960
+Chúng ta vào lệnh theo 15M là bắt sớm được cái điểm vào lệnh của thằng 1H thôi
+
+15:13.960 --> 15:16.160
+Thực chất là chúng ta đang vào lệnh cho thằng 1H
+
+15:16.160 --> 15:17.940
+Bởi vì nó có cái mô hình
+
+15:17.940 --> 15:19.880
+Sau khi nó điều chỉnh bắt đầu nó cuộn lên
+
+15:19.880 --> 15:21.460
+Để nó đi tiếp cái sóng tiếp diễn
+
+15:21.460 --> 15:23.460
+Theo cái xu hướng của thằng H4 và thằng H12
+
+15:23.460 --> 15:25.900
+Thì hiện tại
+
+15:25.900 --> 15:27.240
+Là chúng ta 30M có không
+
+15:27.240 --> 15:28.980
+30M chưa có
+
+15:28.980 --> 15:31.380
+Thì rõ ràng là chúng ta sẽ quản lý lệnh
+
+15:31.380 --> 15:32.780
+Chúng ta thoát lệnh theo
+
+15:32.780 --> 15:35.900
+Cái khung thời gian lớn nhất có quán tính tặng
+
+15:35.900 --> 15:37.580
+Là thằng 15M
+
+15:37.580 --> 15:39.420
+Đúng không là thằng 15M
+
+15:39.420 --> 15:40.140
+Vậy thì
+
+15:40.300 --> 15:42.260
+Ở đây là cái giai đoạn
+
+15:42.260 --> 15:44.220
+Số 1 của thằng 15M đúng không
+
+15:44.220 --> 15:46.620
+Là cái giai đoạn xác nhận là có quán tính tặng
+
+15:46.620 --> 15:48.060
+Bởi vì RSI nó ở vùng
+
+15:48.060 --> 15:49.800
+80 trở lên
+
+15:49.800 --> 15:51.440
+Vậy thì chúng ta cần
+
+15:51.440 --> 15:53.160
+Đến đoạn này chúng ta chốt chưa
+
+15:53.160 --> 15:55.040
+Đương nhiên chúng ta chưa chốt
+
+15:55.040 --> 15:58.320
+Bởi vì chúng ta phải chờ 1 trong 2 trường hợp
+
+15:58.320 --> 16:01.100
+Một là cái quán tính tặng của thằng 15M này
+
+16:01.100 --> 16:01.740
+Nó hoàn thành
+
+16:01.740 --> 16:04.440
+Có nghĩa là nó kéo được giá lên tiết thì chúng ta chốt
+
+16:04.440 --> 16:06.760
+Hai là nó phải có một tín hiệu xấu
+
+16:06.760 --> 16:08.420
+Từ cái đà tăng này
+
+16:08.420 --> 16:09.660
+Có nghĩa là thằng 15M chẳng hạn
+
+16:09.660 --> 16:10.260
+Nó kéo RSI
+
+16:10.300 --> 16:12.260
+RSI của thằng 15M xuống dưới vùng 40
+
+16:12.260 --> 16:13.440
+Là cái quán tính này nó fail
+
+16:13.440 --> 16:15.440
+Thì lúc đó chúng ta sẽ tìm điểm chúng ta chốt
+
+16:15.440 --> 16:17.260
+Đấy chúng ta sẽ có 2 trường hợp như vậy
+
+16:17.260 --> 16:19.020
+Vậy thì bây giờ chúng ta xử xem nào
+
+16:19.020 --> 16:20.420
+Bắt đầu nó chạy như thế nào
+
+16:20.420 --> 16:23.140
+Đấy như thế này là bắt đầu vào giai đoạn 2 rồi nhé
+
+16:23.140 --> 16:24.720
+Bắt đầu vào giai đoạn 2 này
+
+16:24.720 --> 16:26.820
+Cái nhịp này anh em mới lưu ý này
+
+16:26.820 --> 16:28.100
+Anh em cũ thì thừa biết rồi
+
+16:28.100 --> 16:31.680
+Cái nhịp này khi mà nó tụt xuống đây
+
+16:31.680 --> 16:33.780
+Xong nó kéo 1 phát giật lên như thế này
+
+16:33.780 --> 16:36.280
+Và giá nó kéo lên
+
+16:36.280 --> 16:37.700
+Cao hơn so với cái đỉnh cũ này
+
+16:38.080 --> 16:39.800
+Đỉnh tương đương vùng 80 như thế này
+
+16:39.800 --> 16:40.900
+Thì nhiều anh em sẽ thắc mắc
+
+16:40.900 --> 16:43.200
+Thế ơi cái đoạn này nó hoàn thành quán tính chưa
+
+16:43.200 --> 16:45.700
+Thì cái đoạn này là chưa hoàn thành quán tính
+
+16:45.700 --> 16:47.600
+Bởi vì nó chưa có cái giai đoạn số 2
+
+16:47.600 --> 16:50.040
+Là cái giai đoạn RSI và đường trung bình
+
+16:50.040 --> 16:51.860
+Nó mở ra để điều chỉnh
+
+16:51.860 --> 16:53.560
+Nó mở ra để điều chỉnh
+
+16:53.560 --> 16:55.160
+Đấy thì đây mới là giai đoạn số 2 này
+
+16:55.160 --> 16:57.280
+Đây mới là giai đoạn số 2 này
+
+16:57.280 --> 16:59.820
+Đó đây mới là giai đoạn số 2
+
+16:59.820 --> 17:01.640
+Có nghĩa là cái RSI
+
+17:01.640 --> 17:02.760
+Nó mở xuống dưới
+
+17:02.760 --> 17:05.220
+Ở 2 đường trung bình
+
+17:05.220 --> 17:07.500
+Đó thì bắt đầu nó cuộn lên
+
+17:07.500 --> 17:09.780
+Nó cuộn lên
+
+17:09.780 --> 17:10.620
+Thì khi mà
+
+17:10.620 --> 17:13.840
+Nó cuộn lên rồi
+
+17:13.840 --> 17:14.640
+Có nghĩa là nó
+
+17:14.640 --> 17:17.500
+Có giá nó quay trở về cái đỉnh cũ rồi
+
+17:17.500 --> 17:19.560
+Sau đó cái RSI nó tụt xuống như thế này
+
+17:19.560 --> 17:21.240
+RSI nó tụt xuống như thế này
+
+17:21.240 --> 17:21.880
+Là nó chốt
+
+17:21.880 --> 17:24.900
+Thì nó chốt được cái giá này hơn 46k
+
+17:24.900 --> 17:27.520
+Vậy thì cái lệnh ngày hôm qua ăn được 3.000 giá
+
+17:27.520 --> 17:29.280
+Cái lệnh ngày hôm qua ăn được 3.000 giá
+
+17:29.280 --> 17:30.760
+Và cái thứ 2 là tại sao bình thường
+
+17:30.760 --> 17:33.660
+Ngày mai mọi người sẽ học thêm 1 công cụ nữa là cái đường trung bình
+
+17:33.660 --> 17:35.620
+Thì mọi người sẽ có cái điểm
+
+17:35.620 --> 17:37.400
+Để mọi người chốt nhìn nó dễ hơn
+
+17:37.400 --> 17:39.620
+Là nếu mọi người nhìn cái đồ thị chay như thế này
+
+17:39.780 --> 17:41.880
+Đó thì trước mắt là chúng ta cứ
+
+17:41.880 --> 17:43.200
+Hiểu là khi mà RSI
+
+17:43.200 --> 17:45.200
+Cái đoạn này chính là giai đoạn số 3
+
+17:45.200 --> 17:46.980
+Có nghĩa là cái giai đoạn nó hoàn thành quán tính rồi
+
+17:46.980 --> 17:49.720
+Nó điều chỉnh xong nó cuộn lên để hoàn thành
+
+17:49.720 --> 17:51.100
+Cái quán tính ở cái đỉnh số 3 này
+
+17:51.100 --> 17:53.200
+Thì lúc đó là cái giá này
+
+17:53.200 --> 17:54.560
+Nó đã vượt cái đỉnh cũ rồi
+
+17:54.560 --> 17:56.400
+Thì khi đó là quán tính hoàn thành
+
+17:56.400 --> 17:57.980
+Thế nhưng mà mọi người lưu ý này
+
+17:57.980 --> 18:00.720
+Có những lúc mọi người sẽ thấy là
+
+18:00.720 --> 18:02.540
+Cái đoạn số 2 này nó điều chỉnh
+
+18:02.540 --> 18:05.280
+Xong nó cắt cái RSI này lên trên cái đường trung bình
+
+18:05.280 --> 18:06.580
+Thế nhưng mà ví dụ
+
+18:06.580 --> 18:08.200
+Ví dụ là cái đỉnh số 1
+
+18:08.200 --> 18:09.960
+Cái giá nó đây nhé
+
+18:09.960 --> 18:10.920
+Đây là cái đoạn này
+
+18:10.920 --> 18:13.040
+Thì bắt đầu cái đỉnh cũ nó đây
+
+18:13.040 --> 18:14.760
+Cái đỉnh quán tính 1 ở đây nhé
+
+18:14.760 --> 18:17.420
+Thì có thể là cái RSI nó cuộn lên như này
+
+18:17.420 --> 18:18.200
+Xong nó tụt xuống
+
+18:18.200 --> 18:20.360
+Xong nó điều chỉnh thêm 1 đoạn
+
+18:20.360 --> 18:22.480
+Nó lại điều chỉnh thêm 1 đoạn nữa
+
+18:22.480 --> 18:24.680
+Nhưng mà nó chưa tụt xuống dưới vùng 40
+
+18:24.680 --> 18:27.180
+Và bắt đầu nó lại cuộn lên phát nữa
+
+18:27.180 --> 18:29.240
+Thì nếu mà cái đoạn này
+
+18:29.240 --> 18:31.780
+Giá nó chưa về cái đỉnh cũ
+
+18:31.780 --> 18:33.320
+Thì rất có thể cái nhịp tiếp theo này
+
+18:33.320 --> 18:35.060
+Nó sẽ kéo để giá
+
+18:35.060 --> 18:37.640
+Nó tiếp tục vượt cái đỉnh cũ hoặc bằng cái đỉnh cũ
+
+18:37.640 --> 18:38.180
+Đó
+
+18:38.200 --> 18:38.900
+Thì chúng ta phải
+
+18:38.900 --> 18:39.900
+Cái này thì chúng ta linh động
+
+18:39.900 --> 18:42.060
+Bởi vì chúng ta phải qua cái quá trình thực tế
+
+18:42.060 --> 18:44.900
+Chúng ta sẽ nhìn ra nhiều cái trường hợp khác nhau
+
+18:44.900 --> 18:45.520
+Đó
+
+18:45.520 --> 18:48.600
+Thì đây là cái đoạn mà mình đã chốt lệnh ngày hôm qua
+
+18:48.600 --> 18:51.080
+Cái thứ 2 là tại sao mình lại chốt luôn ở cái vùng này
+
+18:51.080 --> 18:52.800
+Khi mà giá nó vượt cái đỉnh cũ rồi
+
+18:52.800 --> 18:53.540
+Đấy là yếu tố thứ nhất
+
+18:53.540 --> 18:57.100
+Yếu tố thứ 2 là chúng ta có 1 cái kháng cự khá quan trọng ở đây
+
+18:57.100 --> 18:59.080
+Mà mình đã vẽ cho anh em
+
+18:59.080 --> 19:02.360
+Chúng ta có 1 cái kháng cự khá quan trọng ở đây
+
+19:02.360 --> 19:02.660
+Đấy
+
+19:02.660 --> 19:05.240
+Thì thôi nó mấp mé kháng cự thì cứ chốt cho nó lại
+
+19:05.240 --> 19:07.840
+Đấy nó mấp mé kháng cự thì chúng ta cứ chốt cho nó lại
+
+19:07.840 --> 19:08.500
+Đấy
+
+19:08.500 --> 19:11.840
+Thì hôm qua mình vào và quản lý lại như thế
+
+19:11.840 --> 19:14.640
+Thì đấy là những cái bước mà anh em sẽ làm theo
+
+19:14.640 --> 19:16.260
+Trong suốt cái quá trình chúng ta chơi
+
+19:16.260 --> 19:18.940
+Thì hiện tại anh em nhóm cũ có thể thấy là
+
+19:18.940 --> 19:22.680
+Cái giai đoạn này là cái giai đoạn mà khi mà xu hướng nó đi rất là mạnh như vậy
+
+19:22.680 --> 19:24.960
+Khi mà cái xu hướng nó đi rất là mạnh như vậy
+
+19:24.960 --> 19:26.740
+Thì chúng ta chơi nó rất là dễ
+
+19:26.740 --> 19:28.200
+Bởi vì sóng nó có xu hướng
+
+19:28.200 --> 19:30.000
+Cái đoạn tàu nó đang chạy ở trên cái cao tốc
+
+19:30.000 --> 19:33.820
+Chứ còn anh em nhóm cũ vừa trải qua cái giai đoạn vừa rồi
+
+19:33.820 --> 19:34.660
+Là cái giai đoạn này
+
+19:35.240 --> 19:36.700
+Khi mà chúng ta thấy có thể là cả tuần
+
+19:36.700 --> 19:38.160
+Chúng ta không vào được cái lệnh nào
+
+19:38.160 --> 19:39.440
+Cho nó ra hồn
+
+19:39.440 --> 19:40.340
+Bởi vì sao
+
+19:40.340 --> 19:41.460
+Bởi vì đoạn này
+
+19:41.460 --> 19:44.440
+Anh em bật các cái khung thời gian nó lên
+
+19:44.440 --> 19:45.980
+Sẽ thấy liên tục cái sự ngược pha
+
+19:45.980 --> 19:49.480
+Bởi vì đoàn tàu nó cần một cái sự chuyển giao xu hướng lên đây
+
+19:49.480 --> 19:50.400
+Đó
+
+19:50.400 --> 19:52.160
+Thì có những cái giai đoạn khó như này
+
+19:52.160 --> 19:53.400
+Anh em nhóm cũ đã trải qua rồi
+
+19:53.400 --> 19:55.640
+Nhưng mà anh em nhóm mới thì chưa trải qua cái giai đoạn khó
+
+19:55.640 --> 19:58.120
+Thì khi mà mọi người học cái kiến thức
+
+19:58.120 --> 20:00.340
+Một bắt đầu mọi người vào cái giai đoạn này
+
+20:00.340 --> 20:02.400
+Mọi người trải nghiệm được một cái kiểu khác
+
+20:02.400 --> 20:04.220
+Vào đoạn này trải nghiệm được một kiểu khác
+
+20:04.220 --> 20:07.100
+Và khi chúng ta trải nghiệm ra các cái giai đoạn thị trường rồi
+
+20:07.100 --> 20:08.220
+Thì lần sau chúng ta gặp
+
+20:08.220 --> 20:09.240
+Chúng ta sẽ rất biết
+
+20:09.240 --> 20:11.660
+Chúng ta có kinh nghiệm thì chúng ta sẽ hiểu là
+
+20:11.660 --> 20:13.380
+À mình phải làm gì ở cái giai đoạn này
+
+20:13.380 --> 20:14.940
+Đấy thì cứ như vậy thôi
+
+20:14.940 --> 20:16.820
+Thì đấy là cái lệnh ở đây
+
+20:16.820 --> 20:18.460
+Đơn giản là gì
+
+20:18.460 --> 20:20.560
+Khi đó chúng ta thấy là các khung thời gian
+
+20:20.560 --> 20:22.420
+Thì khung H4, khung H12, khung 1D
+
+20:22.420 --> 20:24.580
+Nó vẫn giữ được cái
+
+20:24.580 --> 20:27.240
+Nó vẫn giữ được cái tính chức tăng của nó
+
+20:27.240 --> 20:29.300
+Và thằng cái đoạn này của thằng H1
+
+20:29.300 --> 20:30.840
+Cái đoạn này của thằng H1
+
+20:30.840 --> 20:32.900
+Nó là cái đoạn điều chỉnh trong xu hướng tăng
+
+20:32.900 --> 20:34.340
+Của thằng H4 và thằng H12
+
+20:34.340 --> 20:36.960
+Và khi thằng H1 nó điều chỉnh xong
+
+20:36.960 --> 20:37.920
+Nó điều chỉnh xong
+
+20:37.920 --> 20:39.060
+Nó quay trở lại
+
+20:39.060 --> 20:40.540
+Chúng ta thấy cái lực mô nó quay trở lại
+
+20:40.540 --> 20:44.400
+Thì khi đó là chúng ta bay để ăn theo cái xu hướng
+
+20:44.400 --> 20:46.480
+Bởi vì khi đó bắt đồ thị trường nó có sự đồng thuận
+
+20:46.480 --> 20:48.560
+Vậy lực mô nó nhảy lại vào thị trường
+
+20:48.560 --> 20:50.180
+Nhưng mô nó quay trở lại vào thị trường
+
+20:50.180 --> 20:52.340
+Đó thì cái thứ 2
+
+20:52.340 --> 20:53.360
+Lá đừng nhắc anh em là
+
+20:53.360 --> 20:56.000
+Vẫn nhắc đi nhắc lại là tuyệt đối chúng ta không bao giờ
+
+20:56.000 --> 20:58.060
+Chúng ta được nghĩ là đánh ngược xu hướng
+
+20:58.060 --> 21:00.060
+Tuyệt đối chúng ta không bao giờ nghĩ đánh ngược xu hướng
+
+21:00.060 --> 21:00.640
+Bởi vì sao?
+
+21:01.120 --> 21:04.440
+Bởi vì các khung lớn nó vẫn giữ cho chúng ta một cái tính chất
+
+21:04.440 --> 21:05.260
+Là xu hướng tăng
+
+21:05.260 --> 21:07.800
+Cái xu hướng này nó chưa có tín hiệu gì yếu cả
+
+21:07.800 --> 21:10.600
+Cho đến khi nào chúng ta thấy là thằng H12 này
+
+21:10.600 --> 21:12.120
+Cái RSI nó cắt xuống dưới này
+
+21:12.120 --> 21:13.920
+Thì lúc đó chúng ta mới xác nhận là
+
+21:13.920 --> 21:15.260
+Cái khung thời gian này nó yếu
+
+21:15.260 --> 21:16.720
+Chứ đừng có đoán nha
+
+21:16.720 --> 21:18.280
+Anh thường sợ nhất là ông nào thích đoán
+
+21:18.280 --> 21:20.440
+Có nghĩa là cái RSI nó đang ở trên này
+
+21:20.440 --> 21:24.060
+Ông cứ đoán là dễ là RSI 12h nó sẽ xuống
+
+21:24.060 --> 21:25.180
+Bây giờ thằng H1 mà
+
+21:25.180 --> 21:27.360
+Có cái mô hình nó cuộn
+
+21:27.360 --> 21:29.760
+Cái RSI đi xuống thì có khi là short trước đi
+
+21:29.760 --> 21:31.040
+Để bắt trước cái con sóng tăng này
+
+21:31.040 --> 21:33.360
+Thế đấy chúng ta lại rơi vào cái trường hợp là gì?
+
+21:33.900 --> 21:34.380
+Chúng ta lại
+
+21:34.380 --> 21:36.260
+Chúng ta lại bắt đỉnh nó
+
+21:36.260 --> 21:38.080
+Đấy là trường hợp chúng ta bắt đỉnh nó
+
+21:38.080 --> 21:41.400
+Thì đấy là cái mà đơn giản là thôi
+
+21:41.400 --> 21:42.440
+Chúng ta nhìn thấy cái gì
+
+21:42.440 --> 21:45.140
+đồ thị nó cho chúng ta thấy cái gì thì chúng ta nghĩ theo cái đấy
+
+21:45.140 --> 21:47.460
+Chứ chúng ta không đoán, không có dự đoán gì cả
+
+21:47.460 --> 21:48.140
+Đơn giản là
+
+21:48.140 --> 21:51.720
+Nó cho chúng ta dự kiện gì thì chúng ta hành động theo cái dự kiện đấy
+
+21:51.720 --> 21:52.720
+Để làm sao
+
+21:52.720 --> 21:54.920
+Nó tìm được cái sự đồng thuận
+
+21:54.920 --> 21:56.060
+Ở trên cái đồ thị đây thôi
+
+21:56.060 --> 21:58.120
+Và đây mọi người nhìn nhé
+
+21:58.120 --> 22:00.880
+Một cái bài học, ví dụ như cái khung 15M ngày hôm qua
+
+22:00.880 --> 22:02.460
+Anh em thấy câu chuyện gì à
+
+22:02.460 --> 22:03.980
+Ví dụ như cái
+
+22:03.980 --> 22:06.400
+Bài học là 15M ngày hôm qua
+
+22:06.400 --> 22:08.580
+Mọi người thấy rõ ràng
+
+22:08.580 --> 22:10.680
+Đây là cái giai đoạn 2 của RSI
+
+22:10.680 --> 22:13.100
+Đúng không? Có nghĩa là cái RSI nó điều chỉnh xuống
+
+22:13.100 --> 22:15.060
+Cái RSI nó điều chỉnh xuống
+
+22:15.060 --> 22:16.280
+Nhưng mà giá nó lại đi ngang cơ
+
+22:16.280 --> 22:17.720
+Thậm chí là nó còn giật lên nó tăng
+
+22:17.720 --> 22:19.740
+Thì có phải là cái đoạn này
+
+22:19.740 --> 22:22.560
+Mà khi RSI nó tụt xuống, ông nào đánh ngược trên
+
+22:22.560 --> 22:24.700
+Nó bắt đầu làm gì? Short, Sell
+
+22:24.700 --> 22:24.900
+Nó bắt đầu làm gì? Short, Sell
+
+22:24.900 --> 22:26.460
+Thì có phải là đoạn này
+
+22:26.460 --> 22:28.300
+Ông ăn SL normal rồi đúng không?
+
+22:29.420 --> 22:31.280
+Đoạn này ông dính stop loss normal rồi đúng không?
+
+22:32.400 --> 22:32.760
+Bởi vì
+
+22:32.760 --> 22:33.480
+Ông đánh ngược trên
+
+22:33.480 --> 22:36.080
+Thì những cái đoạn như thế này, là những cái đoạn mà
+
+22:36.080 --> 22:38.240
+Khi mà mọi người để ý này, chúng ta nhìn
+
+22:38.240 --> 22:40.280
+Nó có thể cho chúng ta những cái dự kiện, đó là
+
+22:40.280 --> 22:43.140
+Khi mọi người thấy này, cái RSI nó điều chỉnh xuống
+
+22:43.140 --> 22:44.420
+Có nghĩa là
+
+22:44.420 --> 22:47.060
+Cái lực mua nó đã giảm dần
+
+22:47.060 --> 22:48.780
+Cái lực mua ở giai đoạn này thôi nhé
+
+22:48.780 --> 22:49.980
+Nó đã giảm dần
+
+22:49.980 --> 22:53.040
+RSI điều chỉnh xuống, có nghĩa là cái lực mua nó giảm dần
+
+22:53.420 --> 22:54.680
+Mà giá nó đi ngang
+
+22:54.680 --> 22:57.020
+Thì chứng tỏ là không hề
+
+22:57.020 --> 22:58.860
+Có sự tham gia của lực bán ở đó
+
+22:58.860 --> 23:01.040
+RSI điều chỉnh
+
+23:01.040 --> 23:02.820
+Có nghĩa là lực mua giảm dần, bởi vì
+
+23:02.820 --> 23:04.940
+Cái phần trăm của RSI này
+
+23:04.940 --> 23:07.120
+Nó thể hiện cho sự tương quan của lực mua, lực bán mà
+
+23:07.120 --> 23:09.220
+Đoạn càng ở trên cao, lực mua càng mạnh
+
+23:09.220 --> 23:11.180
+Mà càng dây thấp, thì lực mua càng yếu
+
+23:11.180 --> 23:13.100
+Thì đây nó là cái đoạn điều chỉnh của lực mua
+
+23:13.100 --> 23:15.280
+Điều chỉnh của lực mua mà đáng ngẽ
+
+23:15.280 --> 23:18.160
+Nếu có lực bán xuất hiện ở đó, thì giá nó cũng phải điều chỉnh
+
+23:18.160 --> 23:18.740
+Thế nhưng mà
+
+23:18.740 --> 23:21.120
+RSI điều chỉnh, mà giá không hề điều chỉnh
+
+23:21.120 --> 23:22.500
+Mà còn đi ngang, thì thể hiện là
+
+23:22.500 --> 23:24.260
+Không hề có sự tham gia của lực bán
+
+23:24.260 --> 23:27.220
+Mà đấy, ông nào nhảy vào để mà
+
+23:27.220 --> 23:28.780
+Short ở cái giai đoạn đấy
+
+23:28.780 --> 23:30.660
+Để đánh ngược xu hướng giai đoạn đấy, thì chỉ có chết rồi
+
+23:30.660 --> 23:32.560
+Đơn giản là gì, trong một xu hướng tăng
+
+23:32.560 --> 23:35.140
+Chúng ta chỉ có buy và chờ buy
+
+23:35.140 --> 23:36.540
+Đây là những cái đoạn điều chỉnh
+
+23:36.540 --> 23:38.780
+Chúng ta chờ để chúng ta buy theo cái xu hướng đó
+
+23:38.780 --> 23:40.900
+Đơn giản vậy thôi, và nếu mọi người giữ được
+
+23:40.900 --> 23:42.400
+Cái nhịp, mọi người trade như vậy
+
+23:42.400 --> 23:44.260
+Mọi người giữ được cái nhịp giao dịch như vậy
+
+23:44.260 --> 23:46.040
+Thì mọi người sẽ luôn thắng ở trên thị trường
+
+23:46.040 --> 23:47.720
+Những cái giai đoạn này, chúng ta
+
+23:47.720 --> 23:50.160
+Khi mà các khung thời gian nó đang đồng thuận
+
+23:50.160 --> 23:51.720
+Thì chúng ta đánh theo cái xu hướng đó
+
+23:51.720 --> 23:53.860
+Khi mà xu hướng nó tạm yếu
+
+23:53.860 --> 23:55.520
+Chúng ta ao ra ngoài, vào tiếp
+
+23:55.520 --> 23:57.460
+Chạy xu hướng vào tiếp
+
+23:57.460 --> 23:59.660
+Điều chỉnh, ao ra ngoài, đợi tiếp
+
+23:59.660 --> 24:01.660
+Cho đến khi nào mà chúng ta thấy là
+
+24:01.660 --> 24:04.360
+Các khung thời gian nó sạch ra cái sự ngược pha
+
+24:04.360 --> 24:06.440
+Thì tốt nhất đứng ngoài chờ đợi
+
+24:06.440 --> 24:08.100
+Cứ nhớ là khi
+
+24:08.100 --> 24:10.120
+Các khung đặc điểm của cái giai đoạn
+
+24:10.120 --> 24:11.400
+Mà đoàn tàu nó bơm như liệu
+
+24:11.400 --> 24:13.860
+Của cái giai đoạn mà thị trường nó sai uê
+
+24:13.860 --> 24:15.800
+Điều chỉnh, đặc điểm rõ nhất là
+
+24:15.800 --> 24:17.820
+Các khung thời gian nó ngược nhau loạn sạc
+
+24:17.820 --> 24:20.060
+Thì đơn giản nhất là cái giai đoạn đấy
+
+24:20.060 --> 24:20.700
+Đừng có đoán
+
+24:20.700 --> 24:23.820
+Thì nếu mọi người giữ được cái nhịp như vậy
+
+24:23.820 --> 24:25.260
+Là chúng ta sẽ chiến thắng
+
+24:25.260 --> 24:28.080
+Chỉ khổ cái là sợ nhất ông nào là cứ nhảy vào
+
+24:28.080 --> 24:29.820
+Đoán là thị trường đi lên hay đi xuống rồi
+
+24:29.820 --> 24:31.800
+Nhưng cái lúc đấy là rất nguy hiểm
+
+24:31.800 --> 24:34.100
+Và khả năng là
+
+24:34.100 --> 24:36.000
+Sắp tới anh em nhóm mới
+
+24:36.000 --> 24:37.860
+Cũng sẽ vào một cái giai đoạn mà thị trường
+
+24:37.860 --> 24:38.520
+Nó sẽ sai uê
+
+24:38.520 --> 24:41.500
+Thị trường nó sẽ sai uê một thời gian
+
+24:41.500 --> 24:44.060
+Để nó quyết định là nó sẽ đi lên hay đi xuống
+
+24:44.060 --> 24:45.780
+Đoạn này chúng ta chưa đoán nó uptrend
+
+24:45.780 --> 24:47.620
+Hay không nhưng cái tại sao lại như vậy
+
+24:47.620 --> 24:48.740
+Thì anh đừng nói với anh em rồi
+
+24:48.740 --> 24:50.780
+Bởi vì nó phải có một cái sự tích lũy
+
+24:50.780 --> 24:52.600
+Ở cái vùng giá trên này trong một khoảng thời gian
+
+24:52.600 --> 24:54.900
+Để chúng ta mới xác nhận được là
+
+24:54.900 --> 24:57.600
+À đây nó là con sóng bê lớn
+
+24:57.600 --> 24:59.920
+Hay nó là một cái con sóng chuẩn bị cho thị trường đi lên
+
+24:59.920 --> 25:00.940
+Đó
+
+25:00.940 --> 25:02.320
+Thì mọi người phải chú ý cái đó
+
+25:02.320 --> 25:04.860
+Rồi thì cái lệnh lâu qua
+
+25:04.860 --> 25:06.220
+Đừng đã review vào cho anh em
+
+25:06.220 --> 25:07.500
+Thì mọi người đã hiểu hơn rồi
+
+25:07.500 --> 25:10.780
+Thì mọi người nhiều anh em thắc mắc
+
+25:10.780 --> 25:12.900
+Giai đoạn mới nhiều anh em thắc mắc như sao
+
+25:12.900 --> 25:14.840
+Mà thầy ơi nhiều lúc là
+
+25:14.840 --> 25:15.600
+Em thấy nó
+
+25:15.600 --> 25:19.220
+Nó cứ chọc ra chọc vào cái đường trung bình này
+
+25:19.220 --> 25:20.300
+Thì nhìn
+
+25:20.300 --> 25:22.880
+Nhìn vào như thế nào để thầy vào lệnh
+
+25:22.880 --> 25:24.460
+Thì loại loại là cái này mọi người chơi nhiều
+
+25:24.460 --> 25:26.020
+Mà sẽ quen nó giống như là
+
+25:26.020 --> 25:28.360
+Giai đoạn đầu mọi người vẽ cái kháng cư hỗ trợ
+
+25:28.360 --> 25:30.420
+Mọi người vẽ kháng cư hỗ trợ
+
+25:30.420 --> 25:32.300
+Mọi người thấy giai đoạn đầu chả biết vẽ như thế nào
+
+25:32.300 --> 25:34.000
+Nhưng mà vẽ nhiều nó thành quen
+
+25:34.000 --> 25:35.740
+Thì khi nó mọi người thấy này
+
+25:35.740 --> 25:38.640
+Cái rời đi chúng ta sẽ không nhìn vào cái nhịp cắt ra cắt vào này
+
+25:38.640 --> 25:39.980
+Bởi vì anh em nói với anh em rồi
+
+25:39.980 --> 25:42.040
+Nếu mà nhìn vào cái rời đi này
+
+25:42.040 --> 25:43.880
+Mà cứ cắt lên là bai cắt xuống là sao
+
+25:43.880 --> 25:44.640
+Thì chỉ có chết rồi
+
+25:44.640 --> 25:47.940
+Mà cái nhịp vòng vòng như thế này
+
+25:47.940 --> 25:49.960
+Những cái nhịp mà nó vòng như thế này
+
+25:49.960 --> 25:51.760
+Thực ra
+
+25:51.760 --> 25:54.020
+Nó không phải là nói vòng cho nó vui
+
+25:54.020 --> 25:55.960
+Mà những cái nhịp như thế này
+
+25:55.960 --> 25:58.320
+Nó gọi là cái sự tích lũy
+
+25:58.320 --> 25:59.040
+Của lực mua
+
+25:59.040 --> 26:01.560
+Sự tích lũy và sự điều chỉnh của lực mua
+
+26:01.560 --> 26:03.660
+Và khi nó có một cái nhịp hợp lý như thế này
+
+26:03.660 --> 26:05.480
+Và bắt đầu những cái đoạn ở cuối
+
+26:05.480 --> 26:06.340
+Cái đoạn điều chỉnh này
+
+26:06.340 --> 26:09.000
+Nó kéo được cái đường trung bình nhanh
+
+26:09.000 --> 26:10.640
+Nó cắt dần lên cái đường trung bình chậm
+
+26:10.640 --> 26:12.020
+Có nghĩa là nó thu hẹp khoảng cách lại
+
+26:12.020 --> 26:14.460
+Thì lúc đó là cái mô hình này nó hình thành
+
+26:14.460 --> 26:16.320
+Và lúc đó chúng ta tìm cái điểm chúng ta bai được
+
+26:16.320 --> 26:17.920
+Đó rồi ok
+
+26:17.920 --> 26:19.320
+Đến bây giờ là cái
+
+26:19.320 --> 26:23.280
+Đến cái phần là anh em nhóm mới sẽ đặt câu hỏi
+
+26:23.280 --> 26:25.180
+Cho những cái gì mà người vừa học
+
+26:25.180 --> 26:27.120
+Ở cái buổi trước và buổi ngày hôm nay
+
+26:27.120 --> 26:30.040
+Một người đặt câu hỏi đi
+
+26:30.040 --> 26:31.200
+Bây giờ anh em đặt câu hỏi đi
+
+26:31.200 --> 26:32.140
+Anh em sẽ trả lời dần dần
+
+26:32.140 --> 26:35.840
+Đầu tiên là Nam hỏi là
+
+26:35.840 --> 26:36.920
+Vậy em thấy sau
+
+26:36.920 --> 26:39.120
+18h42
+
+26:39.120 --> 26:40.680
+M1 có quán tinh tăng
+
+26:40.680 --> 26:42.800
+Khi ấy quản lý lệnh theo M1 đúng không
+
+26:42.800 --> 26:45.700
+Các khung M3, M5 không còn
+
+26:45.700 --> 26:46.300
+Có nghĩa là
+
+26:46.300 --> 26:49.120
+Chẳng hạn là em nhớ cái lý thuyết của anh không
+
+26:49.120 --> 26:51.200
+Có nghĩa là các sóng nó sẽ đẩy dần
+
+26:51.200 --> 26:53.340
+Từ những thằng nhỏ lên những thằng lớn dần
+
+26:53.340 --> 26:55.320
+Có nghĩa là đầu tiên cái con sóng nó chạy
+
+26:55.320 --> 26:58.040
+Nó phải chạy từ những thằng nhỏ đi đã
+
+26:58.040 --> 26:59.820
+Có nghĩa là em sẽ nhìn thấy là
+
+26:59.820 --> 27:02.220
+Cái đoạn đầu là đoạn là lúc nó xuất hiện
+
+27:02.220 --> 27:03.800
+Chẳng hạn là nó xuất hiện cái quán tinh tăng
+
+27:03.800 --> 27:04.800
+Của thằng 1M chẳng hạn
+
+27:04.800 --> 27:07.440
+Nhưng lúc đấy quán tinh tăng thằng 5M nó chưa xuất hiện
+
+27:07.440 --> 27:09.420
+Thì bắt đầu thằng 1M nó xuất hiện
+
+27:09.420 --> 27:10.980
+Nó hoàn thành quán tinh tăng của nó
+
+27:10.980 --> 27:13.060
+Thì bắt đầu tạo ra quán tinh tăng của 5M
+
+27:13.060 --> 27:15.940
+5M hoàn thành quán tinh tăng tạo ra quán tinh tăng của 15M
+
+27:15.940 --> 27:18.300
+Nó cứ đẩy sóng dần dần lên như vậy
+
+27:18.300 --> 27:21.860
+Nó cứ con sóng trước nó rồi con sóng sau như vậy
+
+27:21.860 --> 27:25.260
+Thì cứ khi nào bắt đầu xuất hiện quán tinh
+
+27:25.260 --> 27:26.380
+Đến cái khung lớn nhất
+
+27:26.380 --> 27:28.060
+Thì chúng ta sẽ quản lý theo cái khung đó
+
+27:28.060 --> 27:30.560
+Họ hỏi là vậy
+
+27:30.560 --> 27:32.140
+Khi quản lý lệnh theo 15M
+
+27:32.140 --> 27:34.380
+Nhưng chạy theo khung H1, H4
+
+27:34.800 --> 27:37.500
+Thì sẽ check chart 15M liên tục cho đến khi TP hả thầy
+
+27:37.500 --> 27:40.040
+Thì đây nhé, anh lấy ví dụ với em nhé
+
+27:40.040 --> 27:40.940
+Anh lấy ví dụ với em
+
+27:40.940 --> 27:42.720
+Không phải em check chart liên tục
+
+27:42.720 --> 27:44.980
+Chẳng hạn là ví dụ cái giai đoạn này
+
+27:44.980 --> 27:47.200
+Thì rõ ràng chẳng hạn là
+
+27:47.200 --> 27:48.440
+Anh nói với thọ
+
+27:48.440 --> 27:51.020
+Giai đoạn này em thấy là à nó xuất hiện
+
+27:51.020 --> 27:52.660
+Có nghĩa là cái điểm số 1 của
+
+27:52.660 --> 27:55.220
+Của khung 15M đúng không
+
+27:55.220 --> 27:57.240
+Của khung 15M đúng không
+
+27:57.240 --> 27:59.260
+Thì em phải xác định rõ ràng là
+
+27:59.260 --> 28:01.600
+À cái đoạn này nó có tụt
+
+28:01.600 --> 28:03.060
+Có nghĩa là từ đây khi mà em chơi
+
+28:03.060 --> 28:04.360
+Thì em sẽ quen với cái thời gian ấy
+
+28:04.360 --> 28:05.880
+Có nghĩa là cái đoạn này nếu nó có tụt
+
+28:05.880 --> 28:08.100
+Ít nhất nó cũng phải mất đến tầm khoảng
+
+28:08.100 --> 28:09.800
+15-20 cái nến
+
+28:09.800 --> 28:11.420
+M15
+
+28:11.420 --> 28:14.220
+Thì lúc đó nó mới sang được cái giai đoạn 2
+
+28:14.220 --> 28:16.060
+Và sang hoàn thành cái giai đoạn 3 nếu mà nhanh
+
+28:16.060 --> 28:17.720
+Có những đoạn nó còn điều chỉnh
+
+28:17.720 --> 28:20.640
+Mất mấy chục cái nến ở đây thì bắt đầu như kiểu thằng H1 này
+
+28:20.640 --> 28:22.260
+Như kiểu thằng H1 này
+
+28:22.260 --> 28:23.800
+Có nghĩa là cái đoạn này em nhìn này
+
+28:23.800 --> 28:26.020
+Thằng H1 nó điều chỉnh
+
+28:26.020 --> 28:27.560
+Mất mấy chục cái nến H1 này
+
+28:27.560 --> 28:30.620
+Thì bắt đầu nó mới hoàn thành, nó mới lên tiếp được cái giai đoạn này
+
+28:30.620 --> 28:32.660
+Thì khi đó em nhìn cái thằng M15 này
+
+28:32.660 --> 28:34.380
+Khi mà nó hình thành giai đoạn 1 này
+
+28:34.380 --> 28:36.120
+À xác định là ít nhất cũng phải tầm
+
+28:36.120 --> 28:37.760
+Chục nến, hai chục nến
+
+28:37.760 --> 28:40.380
+Thì bắt đầu nó mới sang được giai đoạn 1, 2 và 3
+
+28:40.380 --> 28:42.300
+Thì có thể là
+
+28:42.300 --> 28:43.620
+Một tiếng em vào em xem một lần
+
+28:43.620 --> 28:46.380
+Ví dụ đến đoạn này, một tiếng là 4 cái nến
+
+28:46.380 --> 28:48.160
+Mà M15, đoạn này em vào em xem
+
+28:48.160 --> 28:50.460
+Đó, cứ nếu mà em
+
+28:50.460 --> 28:52.120
+Em muốn thì một tiếng em vào em xem một lần
+
+28:52.120 --> 28:53.400
+Hoặc là tiếng rưỡi em vào em xem một lần
+
+28:53.400 --> 28:55.500
+Thì em cứ trích dần trích dần như vậy
+
+28:55.500 --> 28:58.120
+Chẳng hạn nó đến đoạn này, chẳng hạn mà thấy bắt đầu nó khung khung lên rồi
+
+28:58.120 --> 29:00.220
+À đoạn này có thể là nó sắp xong lên ra đoạn 2 rồi
+
+29:00.220 --> 29:02.320
+Thì cứ tỉnh thoảng là khoảng 15-30 phút
+
+29:02.320 --> 29:04.260
+Em vào em xem một lần để em chốt cái lệnh đó
+
+29:04.260 --> 29:05.440
+Hoặc em đặt cái alert
+
+29:05.440 --> 29:07.860
+Thì có thể là
+
+29:07.860 --> 29:10.680
+Ngày mai em sẽ học cái công cụ là được cái đường trung bình
+
+29:10.680 --> 29:12.020
+Thì em sẽ dịch cái SL
+
+29:12.020 --> 29:14.020
+Theo cái đường trung bình đấy, thì nhiều khi là có thể là
+
+29:14.020 --> 29:15.200
+Em không theo dõi được
+
+29:15.200 --> 29:17.460
+Thì khi mà nó tụt cái đường trung bình đấy
+
+29:17.460 --> 29:18.540
+Thì nó SL lại cho em
+
+29:18.540 --> 29:25.120
+Thầy ơi, thầy ôn lại đoạn hoàn thành quán tính
+
+29:25.120 --> 29:26.900
+Không, anh không nhắc lại kiến thức đâu
+
+29:26.900 --> 29:27.680
+Bởi vì
+
+29:27.680 --> 29:29.100
+Ít nhất là trong những buổi đầu này
+
+29:29.100 --> 29:30.100
+Anh sẽ không nhắc lại kiến thức
+
+29:30.100 --> 29:33.160
+Bởi vì những cái buổi đầu này anh sẽ chỉ giải thích
+
+29:33.160 --> 29:34.220
+Và nói những cái điều mới thôi
+
+29:34.220 --> 29:36.340
+Nếu mà ôn lại kiến thức và nhắc lại kiến thức
+
+29:36.340 --> 29:37.580
+Thì sẽ ở những cái buổi sau
+
+29:37.580 --> 29:40.140
+Bởi vì sao, những cái buổi đầu này có thể là sau này
+
+29:40.140 --> 29:42.300
+Anh em sẽ xem lại và ôn lại kiến thức rất là nhiều
+
+29:42.300 --> 29:44.400
+Mà ôn lại kiến thức mà xong cứ nhắc đi nhắc lại
+
+29:44.400 --> 29:46.660
+Trong những cái buổi đầu này thì nó sẽ rất mất thời gian
+
+29:46.660 --> 29:47.640
+Của mọi người
+
+29:47.640 --> 29:49.800
+Nếu mà
+
+29:49.800 --> 29:52.240
+Cái phần hoàn thành quán tính đấy
+
+29:52.240 --> 29:54.000
+Nếu mà mai chiều không nhớ
+
+29:54.000 --> 29:56.900
+Thì sau khi mà anh kết thúc cái live này
+
+29:56.900 --> 29:57.660
+Em bật cái
+
+29:57.660 --> 30:00.060
+Buổi học số 3 lên, anh có nói rất kỹ
+
+30:00.060 --> 30:01.600
+Về 3 cái giai đoạn để hoàn thành quán tính
+
+30:01.600 --> 30:03.500
+Thứ nhất là hoàn thành quán tính như thế nào
+
+30:03.500 --> 30:04.840
+Và nếu quán tính nó mất hiệu lực
+
+30:04.840 --> 30:05.920
+Thì cái đặc điểm của nó là gì
+
+30:05.920 --> 30:10.500
+Hiển hỏi là
+
+30:10.500 --> 30:13.140
+Trong buổi vừa rồi, trong khung 3D
+
+30:13.140 --> 30:15.140
+RSI đi từ 80%
+
+30:15.140 --> 30:17.340
+Về 40% xác nhận quán tính tăng khung 3D
+
+30:17.340 --> 30:18.140
+Đã fail, chính xác
+
+30:18.140 --> 30:19.940
+Đây, như thế này
+
+30:19.940 --> 30:22.620
+Quán tính tăng khung 3D rõ ràng là fail rồi
+
+30:22.620 --> 30:24.660
+Bởi vì nó ở dưới vùng 40 rồi
+
+30:24.660 --> 30:27.180
+Trong khi đó khung 1W
+
+30:27.180 --> 30:27.640
+Em thấy rồi
+
+30:27.640 --> 30:30.180
+Đặc điểm vẫn ở trên 40%
+
+30:30.180 --> 30:30.980
+Đúng rồi
+
+30:30.980 --> 30:33.220
+Quán tính của khung 1W thì vẫn còn nguyên hiệu lực
+
+30:33.220 --> 30:35.680
+Quán tính của khung 1W vẫn còn nguyên hiệu lực
+
+30:35.680 --> 30:39.200
+Và cắt lên đường trung bình nhanh
+
+30:39.200 --> 30:40.700
+Em chưa cài đường trung bình chậm
+
+30:40.700 --> 30:41.780
+Nên chưa biết đã cắt chưa
+
+30:41.780 --> 30:44.140
+Nhưng nếu cắt rồi thì có vượt vào đỉnh cũ
+
+30:44.140 --> 30:45.620
+Có nghĩa là em phải nhìn này
+
+30:45.620 --> 30:47.780
+Thực tế là
+
+30:47.780 --> 30:49.860
+Mà cái quán tính tăng của khung
+
+30:49.860 --> 30:51.520
+1W
+
+30:51.520 --> 30:52.880
+Thì nó vẫn còn
+
+30:52.880 --> 30:54.680
+Đến thời điểm này em vẫn xác định vẫn còn hiệu lực
+
+30:54.680 --> 30:56.020
+Nhưng mà cách nến 1 tuần
+
+30:56.020 --> 30:57.260
+Nó là cái nến rất là to
+
+30:57.640 --> 30:59.180
+Và để đi xong cái mô hình này
+
+30:59.180 --> 31:01.520
+Nó sẽ loằng ngoằng từ giờ đến
+
+31:01.520 --> 31:04.120
+Cuối năm mới có thể uptrend được
+
+31:04.120 --> 31:05.740
+Và sang đầu năm sau mới có thể uptrend được
+
+31:05.740 --> 31:08.060
+Cái này thì anh sẽ bổ sung thêm 1 cái lợi điểm nữa
+
+31:08.060 --> 31:09.000
+Tại khung thời gian 3D
+
+31:09.000 --> 31:10.260
+Anh em trong cũ thì biết rồi
+
+31:10.260 --> 31:13.360
+Về cái sự di chuyển của giá và 2 đường trung bình
+
+31:13.360 --> 31:15.820
+Đó thì nó phải cấu thành
+
+31:15.820 --> 31:17.920
+Từ những khung nhỏ này xong bắt đầu nó mới kéo khung này lên
+
+31:17.920 --> 31:19.640
+Còn cái chuyện mà quán tính nó fail
+
+31:19.640 --> 31:20.940
+Cũng là chuyện hết sức bình thường
+
+31:20.940 --> 31:23.260
+Nên chúng ta nhìn vào
+
+31:23.260 --> 31:24.560
+Ở cái quán tính của khung 1W này
+
+31:24.560 --> 31:27.460
+Đến bây giờ chúng ta vẫn không được phép khẳng định là
+
+31:27.460 --> 31:28.540
+Nó có vượt đỉnh được không
+
+31:28.540 --> 31:31.040
+Và nếu vượt đỉnh được chúng ta kết hợp thêm những khung nhỏ
+
+31:31.040 --> 31:32.800
+Như khung 1D, khung 3D
+
+31:32.800 --> 31:35.060
+Thì chúng ta thấy là nếu có vượt đỉnh được
+
+31:35.060 --> 31:36.260
+Thì cũng phải từ giờ đến cuối năm
+
+31:36.260 --> 31:38.360
+Và trong quá khứ thì em thấy là
+
+31:38.360 --> 31:39.140
+Ví dụ đoạn này
+
+31:39.140 --> 31:43.040
+Đoạn này cái sóng 2017 nó uptrend xong
+
+31:43.040 --> 31:45.360
+Mọi người nhìn cái RSI của thằng 1W
+
+31:45.360 --> 31:46.040
+Nhìn nó kinh khủng
+
+31:46.040 --> 31:48.700
+Nó lên đến vùng 90 mà nó liên tục
+
+31:48.700 --> 31:49.680
+Nó chọc những cái đỉnh như này
+
+31:49.680 --> 31:51.120
+Nhưng mà rõ ràng là sau đó
+
+31:51.120 --> 31:53.640
+Nó vẫn fail
+
+31:53.640 --> 31:55.520
+Nó không vượt được cái đỉnh này
+
+31:55.520 --> 31:58.520
+Bởi vì nó không chỉ có yếu tố kỹ thuật ở đó
+
+31:58.520 --> 32:00.900
+Nếu mà về dài hạn nó không chỉ có yếu tố kỹ thuật ở đó
+
+32:00.900 --> 32:02.160
+Nếu trong ngắn hạn
+
+32:02.160 --> 32:04.500
+Nếu trong ngắn hạn em có thể thấy là
+
+32:04.500 --> 32:07.060
+Hoàn toàn yếu tố kỹ thuật nó có thể kiểm soát được hết thị trường
+
+32:07.060 --> 32:09.200
+Nhưng nếu ở trong 1 con sóng lớn
+
+32:09.200 --> 32:11.220
+1 con sóng trung hạn và dài hạn trở ra
+
+32:11.220 --> 32:13.260
+Nó phải có câu chuyện thị trường ở đó
+
+32:13.260 --> 32:14.560
+Nó phải có cái game thị trường ở đó
+
+32:14.560 --> 32:16.680
+Nó phải xây dựng được 1 cái story mới
+
+32:16.680 --> 32:18.340
+Như thị trường để nó kéo lên
+
+32:18.340 --> 32:20.160
+Nghĩa là nếu bây giờ uptrend được
+
+32:20.160 --> 32:21.860
+Thì ít cũng phải cuối năm và sang đầu sang năm
+
+32:21.860 --> 32:23.240
+Còn nếu bây giờ nó giật lên trên này
+
+32:23.240 --> 32:24.980
+Thì nó chỉ là những con sóng 35 rồi
+
+32:24.980 --> 32:26.320
+Nó không phải là uptrend đâu
+
+32:26.320 --> 32:28.980
+Chưa thể vượt được đỉnh 64.000 ngay lập tức
+
+32:28.980 --> 32:31.060
+Đó
+
+32:31.060 --> 32:36.260
+Mình mà anh giải thích lại câu hỏi được không
+
+32:36.260 --> 32:37.080
+Em chưa nghe kịp
+
+32:37.080 --> 32:38.220
+Không anh không giải thích lại đâu
+
+32:38.220 --> 32:41.180
+Muốn nghe lại thì phải xem lại video
+
+32:41.180 --> 32:42.600
+Để làm sao đến
+
+32:42.600 --> 32:44.660
+Có nghĩa là ví dụ trong mỗi buổi live
+
+32:44.660 --> 32:47.060
+Anh không ngại kéo thêm thời gian để nói chuyện với anh em
+
+32:47.060 --> 32:48.060
+Để giải thích cho anh em hiểu
+
+32:48.060 --> 32:49.980
+Nhưng những cái video đầu tiên này
+
+32:49.980 --> 32:51.520
+Nó là những cái video mà có thể sau này
+
+32:51.520 --> 32:52.760
+Mọi người sẽ xem lại rất là nhiều
+
+32:52.760 --> 32:54.780
+Mọi người sẽ xem lại rất là nhiều
+
+32:54.780 --> 32:56.040
+Nên là cái thời gian sau này
+
+32:56.040 --> 32:56.600
+Mọi người xem lại
+
+32:56.600 --> 32:58.320
+Thì chúng ta sẽ không nhắc lại những cái câu hỏi nữa
+
+32:58.320 --> 32:59.600
+Anh em xem lại cho nó cô đọc
+
+32:59.600 --> 33:03.100
+Biết hỏi thầy cho em hỏi
+
+33:03.100 --> 33:04.260
+Nếu áp dụng quản lý như thế này
+
+33:04.260 --> 33:06.000
+Thì chơi x-chain thì ra vào như thế nào
+
+33:06.000 --> 33:06.920
+Nếu mà x-chain
+
+33:06.920 --> 33:08.320
+Thì mọi người không được phép
+
+33:08.320 --> 33:09.620
+Là mọi người chơi sóng ngắn
+
+33:09.620 --> 33:10.860
+Có nghĩa là x-chain
+
+33:10.860 --> 33:12.460
+Thì không bao giờ mọi người có cái định nghĩa
+
+33:12.460 --> 33:14.180
+Là mọi người sẽ ra vào lận trong ngày được
+
+33:14.180 --> 33:15.620
+Nếu mà chúng ta mua x-chain
+
+33:15.620 --> 33:16.900
+Nếu mà mua x-chain
+
+33:16.900 --> 33:18.500
+Tốt nhất là nếu mà trong ngày
+
+33:18.500 --> 33:19.740
+Chúng ta vẫn mua x-chain được
+
+33:19.740 --> 33:21.740
+Chúng ta vẫn mua x-chain trong ngày được
+
+33:21.740 --> 33:22.580
+Nếu mà con sóng tăng
+
+33:22.580 --> 33:24.660
+Nhưng mà chúng ta vẫn làm
+
+33:24.660 --> 33:25.340
+Có nghĩa là dưới
+
+33:25.340 --> 33:27.200
+Nếu như cái time frame dưới 1D
+
+33:27.200 --> 33:28.980
+Thì chúng ta vẫn làm cái phương pháp đó được
+
+33:28.980 --> 33:29.820
+Là chúng ta quan sát
+
+33:29.820 --> 33:30.860
+Để chúng ta giữ cái lệnh
+
+33:30.860 --> 33:32.380
+Theo cái quan tính là những khung nhỏ
+
+33:32.380 --> 33:34.720
+Thế nhưng mà nếu mà mua x-chain
+
+33:34.720 --> 33:36.440
+Mua để mà hâu dài dài hơn
+
+33:36.440 --> 33:38.560
+Thì rõ ràng là chúng ta phải nhìn những con sóng lớn
+
+33:38.560 --> 33:40.680
+Chúng ta phải nhìn những con sóng lớn
+
+33:40.680 --> 33:41.280
+Để chúng ta mua
+
+33:41.280 --> 33:43.100
+Thì hiện tại là mọi người thấy là
+
+33:43.100 --> 33:45.580
+Cái giai đoạn đầu của cái sóng 3D như thế này
+
+33:45.580 --> 33:46.860
+Bắt đầu nó hồi lên như thế này
+
+33:46.860 --> 33:47.640
+Thì nếu có mua
+
+33:47.640 --> 33:49.080
+Chúng ta mua từ đây theo sóng tăng của
+
+33:49.080 --> 33:50.300
+Theo sóng tăng của
+
+33:50.300 --> 33:51.640
+Của Bitcoin
+
+33:51.640 --> 33:53.320
+Thế nhưng đến bây giờ
+
+33:53.320 --> 33:55.820
+Khi mà thị trường nó ở ngay dưới cản như thế này
+
+33:55.820 --> 33:58.840
+Thị trường nó ở ngay dưới những cái cản cứng như thế này
+
+33:58.840 --> 34:01.100
+Thì hiện tại chiến lược của chúng ta
+
+34:01.100 --> 34:02.760
+Nếu mà có ông nào
+
+34:02.760 --> 34:04.860
+Thực ra Adam không khuyến khích anh em chơi Ancoin
+
+34:04.860 --> 34:06.460
+Và Adam vẫn nói quan điểm với mọi người này
+
+34:06.460 --> 34:08.320
+Adam không khuyến khích anh em chơi Ancoin
+
+34:08.320 --> 34:09.320
+Bởi vì
+
+34:09.320 --> 34:10.980
+Cái rủi ro thì nó lớn hơn Bitcoin
+
+34:10.980 --> 34:12.820
+Và lợi nhuận thì nó tương đương Bitcoin
+
+34:12.820 --> 34:14.580
+Nếu như ta quản lý rủi ro đúng không
+
+34:14.580 --> 34:15.640
+Thế nhưng mà
+
+34:15.640 --> 34:16.940
+Rõ ràng ở thời điểm hiện tại
+
+34:16.940 --> 34:19.040
+Để chúng ta có một cái target dài hạn
+
+34:19.040 --> 34:19.960
+Thì là không hợp lý rồi
+
+34:19.960 --> 34:23.340
+Bởi vì nó đang ở dưới một cái cản cứng của thị trường
+
+34:23.340 --> 34:24.460
+Có nghĩa là đoạn này nhé
+
+34:24.460 --> 34:25.180
+Nếu
+
+34:25.180 --> 34:26.680
+Anh cứ cho rằng là nếu đoạn này
+
+34:26.680 --> 34:28.440
+Bắt đầu thằng Bitcoin nó sinh ra cái sóng 4
+
+34:28.440 --> 34:28.980
+Nó sai quây
+
+34:28.980 --> 34:31.500
+Và bắt đầu Ancoin nó pump thêm một nhịp nữa
+
+34:31.500 --> 34:33.840
+Ancoin nó pump thêm một nhịp nữa
+
+34:33.840 --> 34:34.980
+Thì rõ ràng là
+
+34:34.980 --> 34:36.360
+Cứ cho lên cái vùng này đi
+
+34:36.360 --> 34:38.020
+Thì
+
+34:38.020 --> 34:39.960
+Khi đó
+
+34:39.960 --> 34:41.380
+Ở thời điểm hiện tại
+
+34:41.380 --> 34:41.960
+Chúng ta
+
+34:41.960 --> 34:44.020
+Ancoin chúng ta chỉ được phép chơi
+
+34:44.020 --> 34:45.720
+Theo những nhịp ngắn ngắn như vậy thôi
+
+34:45.720 --> 34:48.680
+Chứ không ai mà đi mua ở cái đoạn này
+
+34:48.680 --> 34:50.900
+Để hy vọng một cái target dài hạn được
+
+34:50.900 --> 34:52.220
+Cho đến khi nào
+
+34:52.220 --> 34:55.420
+Cho đến khi nào thằng Bitcoin nó giữ được cái vùng giá này
+
+34:55.420 --> 34:57.980
+Thì lúc đó chúng ta mới nghĩ
+
+34:57.980 --> 34:59.640
+Có nghĩa là từ giờ đến cái đoạn này
+
+34:59.640 --> 35:00.340
+Cuối năm
+
+35:00.340 --> 35:02.340
+Thì chúng ta mới được phép nghĩ đến cái chuyện là
+
+35:02.340 --> 35:03.120
+Mua Ancoin
+
+35:03.120 --> 35:05.960
+Và nó giữ được tính chất của xu hướng tăng nhé
+
+35:05.960 --> 35:07.620
+Bitcoin nó giữ được tính chất của xu hướng tăng
+
+35:07.620 --> 35:08.680
+Thì đến cuối năm
+
+35:08.680 --> 35:09.900
+Chúng ta mới được phép nghĩ
+
+35:09.900 --> 35:11.520
+Đến cái chuyện mua Ancoin để ăn dài hạn
+
+35:11.520 --> 35:13.720
+Còn hiện tại mua Ancoin
+
+35:13.720 --> 35:14.860
+Chỉ ăn theo sóng ngắn thôi
+
+35:14.860 --> 35:17.540
+Chứ không mà sóng ngắn thì chúng ta chơi
+
+35:17.540 --> 35:19.440
+Thì vẫn sử dụng cái nguyên lý như trên
+
+35:19.440 --> 35:21.660
+Đó
+
+35:21.660 --> 35:23.800
+Thì đơn giản là chúng ta chơi trong thời gian lớn thôi
+
+35:23.800 --> 35:25.520
+Và chúng ta khi mà đơn giản nhé
+
+35:25.520 --> 35:28.260
+Thì anh cứ coi cái thằng 3D này nó giống cái thằng 15M
+
+35:28.260 --> 35:29.020
+Với thằng H1 đi
+
+35:29.020 --> 35:31.440
+Giống cái thằng 15M với thằng H1 đi
+
+35:31.440 --> 35:33.340
+Thì rõ ràng là khi bây giờ
+
+35:33.340 --> 35:35.860
+Nếu em mua theo khung thời gian 3D
+
+35:35.860 --> 35:38.580
+Nếu em mua theo khung thời gian 3D
+
+35:38.580 --> 35:39.580
+Em mua ở đây
+
+35:39.900 --> 35:41.260
+Bởi vì nó đang xu hướng tăng đúng không
+
+35:41.260 --> 35:43.860
+Thứ nhất là em mua ở đây
+
+35:43.860 --> 35:44.760
+Em phải SL ở đây
+
+35:44.760 --> 35:47.720
+Em có chấp nhận câu chuyện là
+
+35:47.720 --> 35:49.000
+Em phải chịu một khoảng SL ở đây không
+
+35:49.000 --> 35:51.400
+Nếu mà em chấp nhận được và em kỳ vọng
+
+35:51.400 --> 35:53.220
+Con sóng target dài hạn được
+
+35:53.220 --> 35:56.140
+Thì ok, cái tỷ lệ risk reward nó vẫn ok
+
+35:56.140 --> 35:57.680
+Thế nhưng mà
+
+35:57.680 --> 35:59.380
+Ở khung thời gian này
+
+35:59.380 --> 36:01.720
+Thì cái này em có chịu được cái khoảng này không
+
+36:01.720 --> 36:03.580
+Thì em chơi, ok đúng không
+
+36:03.580 --> 36:06.280
+Bởi vì cái tỷ lệ ăn của em là vẫn có
+
+36:06.280 --> 36:08.740
+Nếu em chịu được khoảng rủi ro này
+
+36:08.740 --> 36:09.880
+Thì em chơi cho khung thời gian 3D
+
+36:09.880 --> 36:11.540
+Thì đấy là cái yếu tố đầu tiên
+
+36:11.540 --> 36:12.880
+Và cái thứ 2 là cái RDI này
+
+36:12.880 --> 36:14.280
+Nó đã mở rộng, nó căng rồi
+
+36:14.280 --> 36:16.060
+Mà cái đường giá hay là cái đường RDI
+
+36:16.060 --> 36:17.320
+Phản ứng với đường trung bình cũng vậy
+
+36:17.320 --> 36:20.140
+Khi mà giá nó đang ở quá xa so với đường trung bình
+
+36:20.140 --> 36:22.800
+Hoặc là cái RDI nó đang ở quá xa so với đường trung bình
+
+36:22.800 --> 36:24.580
+Thì nó sẽ có xu hướng
+
+36:24.580 --> 36:27.260
+Nó hút lại gần với đường trung bình
+
+36:27.260 --> 36:29.220
+Sau đó nó quyết định nó có đi tiếp hay không
+
+36:29.220 --> 36:31.480
+Đấy, nghĩa là đơn giản là gì
+
+36:31.480 --> 36:33.160
+Mình tư duy theo cái khung lớn
+
+36:33.160 --> 36:34.180
+Nó cũng như khung nhỏ thôi
+
+36:34.180 --> 36:35.920
+Đoạn này mình bay được
+
+36:35.920 --> 36:38.080
+Nhưng mình phải chấp nhận một khoảng SL như thế này
+
+36:39.880 --> 36:40.860
+Baguette của mình như thế này
+
+36:40.860 --> 36:42.900
+Đó, mình chấp nhận, mình chơi được thì mình chơi
+
+36:42.900 --> 36:43.940
+Còn không thì thôi
+
+36:43.940 --> 36:47.200
+Chứ không ông nào mà nhảy vào đây để bay ăn cái đoạn này đâu
+
+36:47.200 --> 36:51.120
+Rồi, tiếp theo này
+
+36:51.120 --> 36:53.660
+Hoàng hỏi là vậy
+
+36:53.660 --> 36:55.740
+Cái đoạn H1 em hỏi hôm thầy
+
+36:55.740 --> 36:58.420
+Hôm nọ là thời gian tích lũy để bật lên
+
+36:58.420 --> 36:59.860
+H1 đâu nhỉ
+
+36:59.860 --> 37:02.140
+H1, H1, H1
+
+37:02.140 --> 37:05.100
+H1
+
+37:05.100 --> 37:09.140
+Đoạn này hả em
+
+37:09.880 --> 37:10.880
+Hay đoạn nào
+
+37:10.880 --> 37:17.900
+Có phải H1 không
+
+37:17.900 --> 37:19.620
+Hay là cái gì chứ
+
+37:19.620 --> 37:24.320
+Vùng 29K hả
+
+37:24.320 --> 37:26.180
+À đây hả
+
+37:26.180 --> 37:27.860
+Đây đúng không
+
+37:27.860 --> 37:30.440
+Đây nhá, cái đoạn này
+
+37:30.440 --> 37:31.780
+À đâu, đây là vùng 37 chứ
+
+37:31.780 --> 37:35.200
+29K bật lên
+
+37:35.200 --> 37:35.220
+Đây
+
+37:35.220 --> 37:39.240
+Không
+
+37:39.240 --> 37:41.000
+Cái đoạn này, cái đoạn này
+
+37:41.000 --> 37:43.180
+Cái vùng của cái vùng 29K mà H1
+
+37:43.180 --> 37:45.900
+Cái đoạn này, có phải đoạn này không
+
+37:45.900 --> 37:50.960
+Cái đoạn nào em
+
+37:50.960 --> 37:55.240
+Ngày bao nhiêu, ngày bao nhiêu
+
+37:55.240 --> 37:59.600
+Ngày bao nhiêu giờ nào
+
+37:59.600 --> 38:08.440
+Giữa ngày 21 và ngày 23
+
+38:08.440 --> 38:09.220
+Giữa ngày 21 và ngày 23
+
+38:09.240 --> 38:17.320
+Giữa ngày 21 và ngày... Đây hả em
+
+38:17.320 --> 38:20.820
+Phải đoạn này không
+
+38:20.820 --> 38:28.440
+Đây á
+
+38:28.440 --> 38:32.980
+Đây á
+
+38:32.980 --> 38:38.140
+Đoạn này cái gì
+
+38:38.140 --> 38:39.220
+Thì đơn, đơn là đoạn này
+
+38:39.240 --> 38:40.520
+Đơn giản cái đoạn này là gì
+
+38:40.520 --> 38:42.060
+Em nhìn, em nhìn đơn giản thôi
+
+38:42.060 --> 38:43.080
+Nó có phải là đoạn tích lũy gì
+
+38:43.080 --> 38:45.640
+Đây nó là đoạn điều chỉnh của khung thời gian H1
+
+38:45.640 --> 38:47.440
+Đây là đoạn điều chỉnh của khung thời gian H1
+
+38:47.440 --> 38:51.520
+Đây nó là cái giai đoạn 1 này
+
+38:51.520 --> 38:53.060
+Đây là cái giai đoạn 1 này
+
+38:53.060 --> 38:54.340
+Đúng không
+
+38:54.340 --> 38:57.420
+Là xác nhận là có quan tính tăng
+
+38:57.420 --> 39:00.740
+Xong đây nó là cái giai đoạn số 2 này
+
+39:00.740 --> 39:01.760
+Đấy đơn giản vậy thôi
+
+39:01.760 --> 39:04.320
+Đây cái trường hợp này là lúc cái trường hợp nãy anh nói này
+
+39:04.320 --> 39:06.640
+Có nghĩa là cái đoạn đi nó có kéo lên
+
+39:06.640 --> 39:09.200
+Mình cứ tưởng rằng là nó hoàn thành cái đoạn số 3 rồi
+
+39:09.240 --> 39:11.260
+Không, đoạn này là mở rộng rồi
+
+39:11.260 --> 39:13.360
+Có nghĩa là nó tụt xuống dưới 2 đường trung bình rồi
+
+39:13.360 --> 39:16.020
+Có nghĩa là mình cứ tưởng rằng đoạn này nó hoàn thành cái đoạn số 3 rồi
+
+39:16.020 --> 39:16.980
+Nhưng nó tụt
+
+39:16.980 --> 39:19.380
+Nó tụt xuống thêm 1 nhịp nữa
+
+39:19.380 --> 39:21.600
+Nhưng nó không phá xuống dưới cùng 40
+
+39:21.600 --> 39:24.680
+Có nghĩa là cái đoạn này nó vẫn còn giữ nguyên hiệu lực
+
+39:24.680 --> 39:26.340
+Và khi nó cuộn lên nhiều nhịp nữa
+
+39:26.340 --> 39:29.140
+Thì khi đó nó băng thêm 1 cái phát nữa như thế này
+
+39:29.140 --> 39:30.740
+Nó băng thêm 1 nhịp nữa như thế này
+
+39:30.740 --> 39:32.120
+Thì đấy là cái trường hợp lúc nãy anh nói
+
+39:32.120 --> 39:33.820
+Ở cái khung thời gian lúc nãy
+
+39:33.820 --> 39:36.340
+Đó, đoạn này thì là
+
+39:36.340 --> 39:38.820
+Đoạn số 2 nhưng nó có thêm 2 nhịp
+
+39:38.820 --> 39:40.300
+Cái đoạn này nó kéo 1 nhịp rồi
+
+39:40.300 --> 39:43.000
+Để đoạn này giá nó quay về cái đỉnh cũ rồi đấy
+
+39:43.000 --> 39:43.340
+Đúng không?
+
+39:43.740 --> 39:46.060
+Thế nhưng mà nó kéo nó điều chỉnh thêm 1 nhịp nữa
+
+39:46.060 --> 39:47.920
+Nhưng nó không phá xuống dưới 40
+
+39:47.920 --> 39:50.560
+Tức là nó vẫn giữ cái tính chất ở cái đỉnh số 1
+
+39:50.560 --> 39:52.180
+Thì nó cuộn thêm phát nữa
+
+39:52.180 --> 39:54.380
+Thì lúc đó nó băng thêm 1 nhịp nữa
+
+39:54.380 --> 39:56.100
+Đó
+
+39:56.100 --> 39:57.560
+Trả lời tiếp câu hỏi nào
+
+40:06.340 --> 40:14.740
+Hiền hỏi là đoạn hát 1 lúc nãy không có quán tính
+
+40:14.740 --> 40:18.480
+Nhưng mà con đẹp vẫn vào
+
+40:18.480 --> 40:20.160
+Đoạn hát 1 nào nhỉ?
+
+40:21.520 --> 40:22.560
+Đoạn hát 1 này á
+
+40:22.560 --> 40:26.060
+Đoạn hát 1 này đúng không?
+
+40:26.660 --> 40:27.740
+Có nghĩa là đoạn này
+
+40:27.740 --> 40:29.240
+Tuy nó không phải quán tính
+
+40:29.240 --> 40:30.280
+Có nghĩa là
+
+40:30.280 --> 40:31.420
+Em hiểu không?
+
+40:31.780 --> 40:32.760
+Có nghĩa là cái quán tính
+
+40:32.760 --> 40:34.280
+Đơn giản là như này
+
+40:34.280 --> 40:35.260
+Cái quán tính
+
+40:35.260 --> 40:36.320
+Nó là 1 cái đà tính
+
+40:36.340 --> 40:37.220
+Nó là cái đà tăng mạnh của giá
+
+40:37.220 --> 40:38.420
+Mọi người nhớ này
+
+40:38.420 --> 40:39.120
+Cái quán tính
+
+40:39.120 --> 40:40.600
+Nó là cái đà tăng mạnh của giá
+
+40:40.600 --> 40:41.660
+Vậy thì
+
+40:41.660 --> 40:44.520
+Anh ơn lấy 1 cái hình ảnh đoàn tàu nhé
+
+40:44.520 --> 40:45.080
+Đoàn tàu
+
+40:45.080 --> 40:46.420
+Bắt đầu nó đi
+
+40:46.420 --> 40:46.940
+Dần
+
+40:46.940 --> 40:48.520
+Từ cái điểm xuất phát như này
+
+40:48.520 --> 40:50.540
+Thì cái giai đoạn đầu
+
+40:50.540 --> 40:52.060
+Cái gia tốc của đoàn tàu
+
+40:52.060 --> 40:52.580
+Nó đang mạnh
+
+40:52.580 --> 40:54.280
+Và cái nhiên liệu của đoàn tàu
+
+40:54.280 --> 40:55.100
+Nó đang lớn
+
+40:55.100 --> 40:55.800
+Thì khi đó
+
+40:55.800 --> 40:57.380
+Liên tục cái tốc độ đoàn tàu
+
+40:57.380 --> 40:58.160
+Nó được đẩy dần lên
+
+40:58.160 --> 40:59.040
+Thì khi đó
+
+40:59.040 --> 41:00.680
+Cái gia tốc nó mới xuất hiện
+
+41:00.680 --> 41:01.900
+Và cái quán tính nó xuất hiện
+
+41:06.340 --> 41:08.300
+Có cái đà nó đẩy cái đoàn tàu
+
+41:08.300 --> 41:09.880
+Nó đi lên với cái tốc độ cao
+
+41:09.880 --> 41:10.560
+Và đến đây
+
+41:10.560 --> 41:11.820
+Khi mà cái đoàn tàu
+
+41:11.820 --> 41:13.280
+Nó đã hết cái nhiên liệu của nó rồi
+
+41:13.280 --> 41:14.940
+Nó hết cái nhiên liệu của nó rồi
+
+41:14.940 --> 41:16.600
+Thì nó cần phải nó dừng nghỉ
+
+41:16.600 --> 41:18.060
+Nó dừng nghỉ
+
+41:18.060 --> 41:19.660
+Ở 1 cái trạng
+
+41:19.660 --> 41:20.180
+Để nó
+
+41:20.180 --> 41:21.960
+Bơm cái nhiên liệu vào
+
+41:21.960 --> 41:23.220
+Thì khi đó
+
+41:23.220 --> 41:23.840
+Cái đoạn này
+
+41:23.840 --> 41:24.640
+Nó đã hết
+
+41:24.640 --> 41:25.420
+Có thể là
+
+41:25.420 --> 41:26.700
+Nó đã hết cái quán tính rồi
+
+41:26.700 --> 41:28.180
+Nó hết cái gia tốc của đoàn tàu rồi
+
+41:28.180 --> 41:28.920
+Thế nhưng mà
+
+41:28.920 --> 41:29.920
+Khi bắt đầu đoàn tàu
+
+41:29.920 --> 41:31.220
+Nó lại đi thêm 1 nhịp nữa
+
+41:31.220 --> 41:32.360
+Khi đó
+
+41:32.360 --> 41:32.940
+Có thể
+
+41:32.940 --> 41:34.400
+Đoạn này có quán tính thì tốt
+
+41:34.400 --> 41:35.320
+Nhưng
+
+41:35.320 --> 41:36.760
+Nó không có quán tính
+
+41:36.760 --> 41:37.800
+Thì bắt đầu nó cuộn lên
+
+41:37.800 --> 41:38.240
+Nhưng
+
+41:38.240 --> 41:39.360
+Phải yếu tố là
+
+41:39.360 --> 41:40.820
+Nó đồng thuận cái xu hướng
+
+41:40.820 --> 41:42.200
+Với các khung thời gian lớn này
+
+41:42.200 --> 41:43.480
+Có nghĩa là thằng H4
+
+41:43.480 --> 41:44.060
+Thằng H12
+
+41:44.060 --> 41:45.240
+Nó vẫn giữ nguyên tính chất tăng
+
+41:45.240 --> 41:46.260
+Thì khi đó
+
+41:46.260 --> 41:46.860
+Thằng H1
+
+41:46.860 --> 41:47.660
+Nó điều chỉnh xong
+
+41:47.660 --> 41:48.780
+Nó quay trở lại
+
+41:48.780 --> 41:49.400
+H1
+
+41:49.400 --> 41:50.520
+Nó đồng thuận với H4
+
+41:50.520 --> 41:51.560
+Đồng thuận với H12
+
+41:51.560 --> 41:52.320
+Ở xu hướng tăng
+
+41:52.320 --> 41:53.300
+Thì lúc đó
+
+41:53.300 --> 41:53.960
+Chúng ta vẫn lo
+
+41:53.960 --> 41:55.460
+Chứ không nhất thiết là
+
+41:55.460 --> 41:56.300
+Phải có
+
+41:56.300 --> 41:56.880
+Cái
+
+41:56.880 --> 41:57.940
+Quán tính tăng
+
+41:57.940 --> 41:58.680
+Ở cái đoạn này
+
+41:58.680 --> 42:00.600
+Không nhất thiết là
+
+42:00.600 --> 42:01.480
+Phải có quán tính tăng đoạn này
+
+42:01.480 --> 42:01.960
+Thực ra
+
+42:01.960 --> 42:02.640
+Cái đoạn này
+
+42:02.640 --> 42:03.460
+Nếu mà chúng ta
+
+42:03.460 --> 42:04.660
+Xem xét kỹ ra
+
+42:04.660 --> 42:06.780
+Thì nó vẫn có thể coi
+
+42:06.780 --> 42:07.900
+Đoạn này nó mất mẻ
+
+42:07.900 --> 42:08.500
+Đây nó còn
+
+42:08.500 --> 42:09.260
+Một cái quán tính tăng
+
+42:09.260 --> 42:10.100
+Và cái đây
+
+42:10.100 --> 42:10.960
+Nó giống như cái nhịp
+
+42:10.960 --> 42:11.480
+Lúc nãy
+
+42:11.480 --> 42:12.420
+Mà
+
+42:12.420 --> 42:14.400
+Mà hoàng họ
+
+42:14.400 --> 42:15.280
+Đó là
+
+42:15.280 --> 42:16.120
+Đoạn này nó tụt xuống
+
+42:16.120 --> 42:17.540
+Nhưng mà nó chưa tụt xuống dưới
+
+42:17.540 --> 42:18.020
+Vùng 40
+
+42:18.020 --> 42:19.320
+Đoạn này nó chỉ là chớ một phát
+
+42:19.320 --> 42:19.920
+Nó giống như là
+
+42:19.920 --> 42:20.780
+Một cái tín hiệu fail break
+
+42:20.780 --> 42:21.840
+Đó
+
+42:21.840 --> 42:22.620
+Thì nó vẫn còn
+
+42:22.620 --> 42:23.740
+Nhưng mà kể cả đoạn này
+
+42:23.740 --> 42:24.720
+Không có quán tính cũng được
+
+42:24.720 --> 42:25.800
+Bởi vì nó quay trở lại
+
+42:25.800 --> 42:26.360
+Cái sự đồng tuận
+
+42:26.360 --> 42:27.060
+Với thằng H4
+
+42:27.060 --> 42:27.660
+Với thằng H12
+
+42:27.660 --> 42:28.900
+Đó
+
+42:28.900 --> 42:36.000
+Rồi
+
+42:36.000 --> 42:36.840
+Hiểu chưa Hiền
+
+42:36.840 --> 42:40.660
+Ok
+
+42:40.660 --> 42:41.620
+Tiếp tục câu hỏi nào
+
+42:45.140 --> 42:45.940
+Tiếp tục câu hỏi
+
+42:45.940 --> 42:48.880
+Minh Trang hỏi
+
+42:48.880 --> 42:50.640
+Mình vẫn kết hợp thêm kháng cự hỗ trợ vào
+
+42:50.640 --> 42:51.220
+Có em ạ
+
+42:51.220 --> 42:52.480
+Vẫn phải nhìn kháng cự hỗ trợ chứ
+
+42:52.480 --> 42:57.600
+Tăng số lượng á
+
+42:57.600 --> 42:59.700
+Trây x trên để tăng số lượng á
+
+42:59.700 --> 43:00.800
+Thường là
+
+43:00.800 --> 43:01.740
+Thường là ông nào
+
+43:01.740 --> 43:01.960
+Ông
+
+43:01.960 --> 43:03.600
+Thực ra nhé
+
+43:03.600 --> 43:04.180
+Nếu mà
+
+43:04.180 --> 43:04.820
+Nếu mà
+
+43:04.820 --> 43:05.840
+Theo quan điểm của anh đừng
+
+43:05.840 --> 43:06.840
+Ông nào đã hâu ấy
+
+43:06.840 --> 43:07.940
+Thì mua hâu vứt đấy thôi
+
+43:07.940 --> 43:09.480
+Đừng có táy máy
+
+43:09.480 --> 43:10.340
+Hâu và chây
+
+43:10.340 --> 43:11.320
+Nó khác nhau hoàn toàn
+
+43:11.320 --> 43:12.480
+Hâu
+
+43:12.480 --> 43:13.380
+Đơn giản là gì
+
+43:13.380 --> 43:14.120
+Mua vào
+
+43:14.120 --> 43:15.040
+Và quên nó đi
+
+43:15.040 --> 43:16.740
+Và đặt niềm tin vào cái tiềm năng của nó
+
+43:16.740 --> 43:18.700
+Đặt niềm tin vào con sóng lớn
+
+43:18.700 --> 43:20.020
+Con sóng
+
+43:20.020 --> 43:20.700
+Theo
+
+43:20.700 --> 43:21.320
+Năm
+
+43:21.320 --> 43:23.020
+Theo vài năm
+
+43:23.020 --> 43:24.380
+Thì đấy là hâu
+
+43:24.380 --> 43:25.580
+Còn nếu
+
+43:25.580 --> 43:26.800
+Chúng ta chẳng hạn là
+
+43:26.800 --> 43:28.120
+Mọi người mua theo cái sóng tăng
+
+43:28.120 --> 43:30.060
+Ví dụ như mua theo cái sóng tăng 0.3D
+
+43:30.060 --> 43:31.300
+Đợt vừa rồi chẳng hạn
+
+43:31.300 --> 43:32.620
+Thì rõ ràng là
+
+43:32.620 --> 43:33.300
+Chúng ta
+
+43:33.300 --> 43:34.220
+Vẫn là chây
+
+43:34.220 --> 43:35.640
+Vẫn là chây
+
+43:35.640 --> 43:36.780
+Thì đã mua ấy
+
+43:36.780 --> 43:38.080
+Thì tốt nhất là mua từ đây
+
+43:38.080 --> 43:38.980
+Lên đến đây
+
+43:38.980 --> 43:39.920
+Cái khoảng nào
+
+43:39.920 --> 43:40.760
+Chúng ta thấy chốt lờ
+
+43:40.760 --> 43:41.520
+Chúng ta chốt ra
+
+43:41.520 --> 43:42.840
+Chứ không có chuyện
+
+43:42.840 --> 43:43.780
+Mọi người nhảy ra
+
+43:43.780 --> 43:44.200
+Nhảy vào
+
+43:44.200 --> 43:45.040
+Ở cái giai đoạn này
+
+43:45.040 --> 43:45.800
+Bởi vì
+
+43:45.800 --> 43:47.060
+Mọi người không làm cái kiểu này đâu
+
+43:47.060 --> 43:48.580
+Không ai làm cái kiểu này đâu
+
+43:48.580 --> 43:49.060
+Mua để
+
+43:49.060 --> 43:50.020
+Chây để tăng xu hướng
+
+43:50.020 --> 43:50.360
+Thì đừng
+
+43:50.360 --> 43:51.180
+Ăn hẳn khuyên là
+
+43:51.180 --> 43:52.360
+Mọi người không nên mua để tăng
+
+43:52.360 --> 43:53.360
+Chây để tăng xu hướng
+
+43:53.360 --> 43:53.880
+À không
+
+43:53.880 --> 43:55.680
+Không nên chây để tăng
+
+43:55.680 --> 43:56.600
+Cái số lượng đó
+
+43:56.600 --> 43:58.640
+Nó sẽ lợi bất cập hại đấy
+
+43:58.640 --> 44:02.840
+Tiếp theo câu hỏi nào
+
+44:07.800 --> 44:08.800
+Anh Mỹ hỏi là
+
+44:08.800 --> 44:09.400
+Đường cáng cự
+
+44:09.400 --> 44:09.900
+Thầy vẽ
+
+44:09.900 --> 44:10.920
+Nó còn một cái đáy
+
+44:10.920 --> 44:11.860
+Bên trái thấp hơn
+
+44:11.860 --> 44:13.220
+Mình không quan tâm
+
+44:13.220 --> 44:14.060
+Vùng cáng cự đó
+
+44:14.060 --> 44:15.560
+Thực ra mọi người phải hiểu này
+
+44:15.560 --> 44:16.620
+Cáng cự hỗ trợ
+
+44:16.620 --> 44:17.560
+Nó là một vùng
+
+44:17.560 --> 44:18.460
+Chứ nó không phải
+
+44:18.460 --> 44:18.980
+Là một điểm
+
+44:18.980 --> 44:19.860
+Đấy
+
+44:19.860 --> 44:20.520
+Một nó là
+
+44:20.520 --> 44:20.960
+Bởi vì
+
+44:20.960 --> 44:22.020
+Cáng cự hỗ trợ nó là cái gì
+
+44:22.020 --> 44:23.520
+Nó là tâm lý thị trường
+
+44:23.520 --> 44:25.080
+Cáng cự hỗ trợ
+
+44:25.080 --> 44:26.100
+Nó là tâm lý thị trường
+
+44:26.100 --> 44:26.820
+Nó là một vùng
+
+44:26.820 --> 44:27.840
+Chứ nó không phải là một điểm
+
+44:27.840 --> 44:28.660
+Nên mọi người đừng
+
+44:28.660 --> 44:29.700
+So đo tính toán
+
+44:29.700 --> 44:30.400
+Là
+
+44:30.400 --> 44:31.540
+Một cái
+
+44:31.540 --> 44:32.840
+Điểm nào đó
+
+44:32.840 --> 44:33.860
+Mà cái đáy này
+
+44:33.860 --> 44:34.780
+Nhiều khi nó thuộc
+
+44:34.780 --> 44:35.420
+Vào cái vùng này
+
+44:35.420 --> 44:36.860
+Cái đáy mà
+
+44:36.860 --> 44:37.120
+Mà
+
+44:37.120 --> 44:38.300
+Mỹ hỏi là
+
+44:38.300 --> 44:39.280
+Nó thuộc vào cái vùng dưới này
+
+44:39.280 --> 44:40.740
+Cái vùng nó đã vượt rồi
+
+44:40.740 --> 44:41.600
+Đấy
+
+44:41.600 --> 44:42.180
+Còn trên này
+
+44:42.180 --> 44:43.300
+Nó là cái vùng 4647
+
+44:43.300 --> 44:43.780
+Cái vùng này
+
+44:43.780 --> 44:45.060
+Đấy
+
+44:45.060 --> 44:46.100
+Cái vùng hôm qua nó chạm lên
+
+44:46.100 --> 44:49.400
+Trang hỏi là
+
+44:49.400 --> 44:50.460
+Chốt ăn không?
+
+44:50.460 --> 44:50.960
+Còn gọi lời?
+
+44:50.960 --> 44:51.780
+Xong chốt tiếp còn?
+
+44:51.780 --> 44:52.480
+Ok
+
+44:52.480 --> 44:56.240
+Anh Hùng hỏi là
+
+44:56.240 --> 44:57.400
+Ví dụ như lệnh
+
+44:57.400 --> 44:58.360
+Nên đừng tìm điểm vào lệnh
+
+44:58.360 --> 44:59.100
+Là giai đoạn 2
+
+44:59.100 --> 44:59.440
+Của
+
+44:59.440 --> 45:00.720
+Của khung lớn
+
+45:00.720 --> 45:01.520
+Không
+
+45:01.520 --> 45:02.600
+Nó không phải là giai đoạn 2
+
+45:02.600 --> 45:03.220
+Của khung lớn này
+
+45:03.220 --> 45:04.120
+Đơn giản là gì
+
+45:04.120 --> 45:05.020
+Mọi người cứ tư duy
+
+45:05.020 --> 45:05.460
+Không phải
+
+45:05.460 --> 45:06.160
+Đoạn này
+
+45:06.160 --> 45:06.880
+Đơn giản là
+
+45:06.880 --> 45:08.360
+Thằng H4 nó vẫn giữ
+
+45:08.360 --> 45:09.380
+Cái
+
+45:09.380 --> 45:11.740
+Cái quan tích tăng
+
+45:11.740 --> 45:12.380
+À quên
+
+45:12.380 --> 45:13.420
+Nó vẫn giữ cái xu hướng tăng
+
+45:13.420 --> 45:14.480
+Vẫn giữ cái tính chất tăng
+
+45:14.480 --> 45:15.520
+Thằng 12
+
+45:15.520 --> 45:17.240
+Thằng 12H này có thể là
+
+45:17.240 --> 45:18.340
+Là nó
+
+45:18.340 --> 45:19.620
+Nó cũng đang giữ
+
+45:19.620 --> 45:20.240
+Cái tính chất tăng
+
+45:20.240 --> 45:21.160
+Thì đơn giản là vậy thôi
+
+45:21.160 --> 45:22.140
+Chứ không bắt buộc là
+
+45:22.140 --> 45:23.240
+Có thể
+
+45:23.240 --> 45:24.280
+Nó không bắt buộc là
+
+45:24.280 --> 45:24.540
+Là
+
+45:24.540 --> 45:24.700
+Là
+
+45:24.700 --> 45:25.660
+Là cái
+
+45:25.660 --> 45:27.420
+Thằng lớn này
+
+45:27.420 --> 45:28.440
+Nó cũng phải có quan tích tăng
+
+45:28.440 --> 45:29.120
+Bởi vì sao
+
+45:29.120 --> 45:29.840
+Mọi người hiểu này
+
+45:29.840 --> 45:31.760
+Đơn giản là gì
+
+45:31.760 --> 45:32.460
+Cái đoạn này
+
+45:32.460 --> 45:33.400
+Nó là một cái đoạn
+
+45:33.400 --> 45:36.700
+Hoàn thành quan tính
+
+45:36.700 --> 45:37.280
+Của đoạn trước
+
+45:37.280 --> 45:37.980
+Thế nhưng mà
+
+45:37.980 --> 45:38.960
+Nếu không có đoạn này đi
+
+45:38.960 --> 45:40.040
+Mà thằng H4 nó lên
+
+45:40.040 --> 45:41.380
+Thì chúng ta chỉ xác định là
+
+45:41.380 --> 45:42.620
+Đấy nó là một con sóng lên
+
+45:43.420 --> 45:44.320
+Thế mạnh
+
+45:44.320 --> 45:45.560
+Là mạnh với những thằng nhỏ
+
+45:45.560 --> 45:46.760
+Còn thằng H4
+
+45:46.760 --> 45:47.660
+Nó không lên là quan tính
+
+45:47.660 --> 45:48.520
+Thì nó không phải là mạnh
+
+45:48.520 --> 45:49.200
+Với những thằng lớn
+
+45:49.200 --> 45:49.860
+Thế nhưng mà
+
+45:49.860 --> 45:51.200
+Nó vẫn là một con sóng lên
+
+45:51.200 --> 45:51.880
+Để chúng ta chơi
+
+45:51.880 --> 45:52.960
+Ở những cái thằng dưới
+
+45:52.960 --> 45:53.720
+Đó
+
+45:53.720 --> 45:55.860
+Những đoạn này
+
+45:55.860 --> 45:56.440
+Cái nhịp này
+
+45:56.440 --> 45:57.540
+Là cái nhịp
+
+45:57.540 --> 45:59.040
+Như ví dụ nhé
+
+45:59.040 --> 46:00.320
+Cũng có những cái trường hợp như sau
+
+46:00.320 --> 46:01.040
+Bởi vì
+
+46:01.040 --> 46:01.920
+Mọi người nhớ này
+
+46:01.920 --> 46:02.840
+Nó luôn luôn có
+
+46:02.840 --> 46:03.760
+Những cái lực mua lực bán
+
+46:03.760 --> 46:05.080
+Nó bất thường tham gia vào thị trường
+
+46:05.080 --> 46:05.580
+Nó chưa
+
+46:05.580 --> 46:06.880
+Nó chưa thống kê trên đồ thi
+
+46:06.880 --> 46:08.260
+Thế nếu mà rõ ràng
+
+46:08.260 --> 46:08.760
+Cái đoạn này
+
+46:08.760 --> 46:10.100
+Rõ ràng cái đoạn này
+
+46:10.100 --> 46:10.740
+Chúng ta nhìn này
+
+46:10.740 --> 46:11.860
+Thằng H4
+
+46:11.860 --> 46:12.880
+Nó có quan tính tăng ở đây
+
+46:12.880 --> 46:14.640
+Và đây là cái nhịp điều chỉnh
+
+46:14.640 --> 46:15.400
+Giai đoạn 2 của nó
+
+46:15.400 --> 46:16.460
+Và đoạn này
+
+46:16.460 --> 46:17.020
+Chúng ta thấy này
+
+46:17.020 --> 46:18.120
+Nó tụt dưới 40 rồi
+
+46:18.120 --> 46:19.700
+Nó tụt dưới 40 rồi
+
+46:19.700 --> 46:20.540
+Thế nên
+
+46:20.540 --> 46:21.120
+Cái đoạn này
+
+46:21.120 --> 46:21.940
+Nó cuộn lên
+
+46:21.940 --> 46:22.760
+Chúng ta vào
+
+46:22.760 --> 46:23.380
+Theo các khung
+
+46:23.380 --> 46:24.720
+Nó bắt đầu nó cuộn lên như thế này
+
+46:24.720 --> 46:25.920
+Là chúng ta xác định là
+
+46:25.920 --> 46:26.940
+Có thể nó không vượt được
+
+46:26.940 --> 46:27.540
+Cái đỉnh trước đó
+
+46:27.540 --> 46:28.700
+Nó không vượt được
+
+46:28.700 --> 46:29.480
+Cái đỉnh trước đó ở đây
+
+46:29.480 --> 46:30.660
+Thế
+
+46:30.660 --> 46:31.940
+Ban đầu
+
+46:31.940 --> 46:32.640
+Cái gì
+
+46:32.640 --> 46:33.180
+Cái
+
+46:33.180 --> 46:33.360
+Cái
+
+46:33.360 --> 46:33.940
+Cái
+
+46:33.940 --> 46:34.120
+Cái
+
+46:34.120 --> 46:34.140
+Cái
+
+46:34.140 --> 46:34.340
+Cái
+
+46:34.340 --> 46:34.400
+Cái
+
+46:34.400 --> 46:34.480
+Cái
+
+46:34.480 --> 46:34.580
+Cái
+
+46:34.580 --> 46:34.600
+Cái
+
+46:34.600 --> 46:34.860
+Cái
+
+46:34.860 --> 46:34.920
+Cái
+
+46:34.920 --> 46:34.940
+Cái
+
+46:34.940 --> 46:35.000
+Cái
+
+46:35.000 --> 46:35.020
+Cái
+
+46:35.020 --> 46:35.080
+Cái
+
+46:35.080 --> 46:35.860
+Là chúng ta chỉ
+
+46:35.860 --> 46:37.440
+Target nó là 1 con sóng hồi thôi
+
+46:37.440 --> 46:38.660
+Thế nhưng mà
+
+46:38.660 --> 46:40.060
+Khi mà bắt đầu nó lại kéo lên
+
+46:40.060 --> 46:40.960
+Có cái sự đồng thuận
+
+46:40.960 --> 46:42.060
+Thì chúng ta
+
+46:42.060 --> 46:43.460
+Lại tiếp tục chúng ta vào
+
+46:43.460 --> 46:45.260
+Chúng ta lại tiếp tục chúng ta vào
+
+46:45.260 --> 46:45.960
+Đó
+
+46:45.960 --> 46:47.860
+Hôm vừa rồi anh em cũng
+
+46:47.860 --> 46:48.420
+Cứ
+
+46:48.420 --> 46:49.660
+Cứ đu đu theo sóng này
+
+46:49.660 --> 46:50.520
+Đây 1 nhịp này
+
+46:50.520 --> 46:51.320
+Đây 1 nhịp
+
+46:51.320 --> 46:52.100
+Đây 1 nhịp này
+
+46:52.100 --> 46:53.440
+Cứ lên đến đâu anh em đấy thôi
+
+46:53.440 --> 46:54.360
+Đơn giản là
+
+46:54.360 --> 46:55.320
+Trong 1 xu hướng
+
+46:55.320 --> 46:56.220
+Đừng có nghĩ nhiều
+
+46:56.220 --> 46:57.760
+Chỉ chờ 1 cái sự đồng thuận
+
+46:57.760 --> 46:58.200
+Là vào
+
+46:58.200 --> 47:00.680
+Bởi vì sự đồng thuận
+
+47:00.680 --> 47:01.840
+Nó thể hiện cho là
+
+47:01.840 --> 47:02.380
+Cái lực 3
+
+47:02.380 --> 47:03.720
+Các cung đề là đồng thuận với nhau
+
+47:03.720 --> 47:16.800
+Nam hỏi là
+
+47:16.800 --> 47:17.600
+Sau khi điều chỉnh
+
+47:17.600 --> 47:18.940
+Khi MAA chưa cắt xuống
+
+47:18.940 --> 47:20.100
+VKMA
+
+47:20.100 --> 47:20.860
+Từ dưới đi lên
+
+47:20.860 --> 47:21.900
+Cũng xác nhận giai đoạn 3
+
+47:21.900 --> 47:22.700
+Chưa hoàn thành hay không
+
+47:22.700 --> 47:24.340
+Đúng rồi em
+
+47:24.340 --> 47:25.300
+Đúng rồi em
+
+47:25.300 --> 47:25.740
+À đâu
+
+47:25.740 --> 47:28.340
+Sau khi điều chỉnh
+
+47:28.340 --> 47:29.280
+Chưa cắt lên
+
+47:29.280 --> 47:30.380
+Cũng xác nhận ra đồng 3
+
+47:30.380 --> 47:31.620
+Em đơn giản là gì
+
+47:31.620 --> 47:32.420
+Cái đoạn này
+
+47:32.420 --> 47:32.960
+Chẳng hạn là
+
+47:32.960 --> 47:34.360
+Cho dù nhé
+
+47:34.360 --> 47:34.840
+Cái đoạn này đi
+
+47:34.840 --> 47:36.100
+Nó cắt lên trên 2 đường trung bình
+
+47:36.100 --> 47:37.320
+Nhưng lúc đó
+
+47:37.320 --> 47:38.080
+Cái đường nhanh
+
+47:38.080 --> 47:39.160
+Nó chưa cắt lên đường chậm
+
+47:39.160 --> 47:39.960
+Nhưng
+
+47:39.960 --> 47:40.640
+Nếu
+
+47:40.640 --> 47:41.760
+Cái đoạn đấy
+
+47:41.760 --> 47:42.340
+Nó cắt lên
+
+47:42.340 --> 47:44.000
+Mà giá nó quay trở về
+
+47:44.000 --> 47:44.660
+Bằng đỉnh cũ
+
+47:44.660 --> 47:45.120
+Hoặc
+
+47:45.120 --> 47:46.660
+Cao hơn đỉnh cũ
+
+47:46.660 --> 47:47.720
+Thì chúng ta có thể xác định
+
+47:47.720 --> 47:48.800
+Đoạn ấy là hoàn thành quan tính rồi
+
+47:48.800 --> 47:49.520
+Sau đó cái đoạn này
+
+47:49.520 --> 47:50.100
+Nó tụt xuống
+
+47:50.100 --> 47:51.620
+Sau khi hoàn thành giai đoạn 3 rồi
+
+47:51.620 --> 47:52.400
+Nó tụt xuống
+
+47:52.400 --> 47:53.680
+Thì có thể là coi là hoàn thành rồi
+
+47:53.680 --> 47:54.720
+Và nếu sau đó
+
+47:54.720 --> 47:55.160
+Tiếp tục
+
+47:55.160 --> 47:56.140
+Nó có thêm 1 nhịp nữa
+
+47:56.140 --> 47:56.740
+Để nó cuộn lên
+
+47:56.740 --> 47:57.780
+Thì lúc này chúng ta lại vào
+
+47:57.780 --> 47:59.020
+Đơn giản là thôi
+
+47:59.020 --> 47:59.860
+Bởi vì cái đoạn này
+
+47:59.860 --> 48:00.800
+Cái đoạn này
+
+48:00.800 --> 48:02.640
+Nếu nó hoàn thành giai đoạn 3 rồi
+
+48:02.640 --> 48:03.700
+Mà nó tụt xuống
+
+48:03.700 --> 48:04.520
+Chúng ta không thoát
+
+48:04.520 --> 48:05.980
+Mà chúng ta lại
+
+48:05.980 --> 48:07.060
+Hy vọng vào
+
+48:07.060 --> 48:08.660
+Nó cuộn thêm 1 nhịp nữa
+
+48:08.660 --> 48:09.980
+Để nó lên
+
+48:09.980 --> 48:11.380
+Thì lúc đó chúng ta lại
+
+48:11.380 --> 48:12.720
+Vướng vào cái suy nghĩ là gì
+
+48:12.720 --> 48:14.280
+Chúng ta đang bị dự đoán
+
+48:14.280 --> 48:15.320
+Và cố chấp theo phương
+
+48:15.320 --> 48:17.120
+Chứ hoàn toàn có thể đoạn này
+
+48:17.120 --> 48:18.020
+Nó tụt thẳng ở đây mà
+
+48:18.020 --> 48:18.980
+Thì đơn giản là gì
+
+48:18.980 --> 48:19.460
+Chốt lại
+
+48:19.460 --> 48:20.360
+Và nếu có tiếc
+
+48:20.360 --> 48:21.000
+Lại vào sau
+
+48:21.000 --> 48:29.840
+Nghĩa hỏi là
+
+48:29.840 --> 48:31.140
+Thường có phải
+
+48:31.140 --> 48:32.240
+Những giai đoạn hoàn thành quán tính
+
+48:32.240 --> 48:33.340
+Thường rơi vào những nơi
+
+48:33.340 --> 48:34.680
+Có vùng giá tranh chấp mạnh
+
+48:34.680 --> 48:36.660
+Như những vùng
+
+48:36.660 --> 48:39.120
+Kháng cự hoặc hỗ trợ
+
+48:39.120 --> 48:39.400
+Không
+
+48:39.400 --> 48:40.500
+Không phải em ạ
+
+48:40.500 --> 48:41.280
+Bởi vì
+
+48:41.280 --> 48:43.060
+Em chỉ tư duy đơn giản là gì
+
+48:43.060 --> 48:43.660
+Quán tính
+
+48:43.660 --> 48:44.820
+Nó là cái đà
+
+48:44.820 --> 48:46.120
+Để tiếp tục đẩy giá đi lên
+
+48:46.120 --> 48:47.940
+Quán tính
+
+48:47.940 --> 48:48.620
+Nó là cái đà
+
+48:48.620 --> 48:49.160
+Để tiếp tục
+
+48:49.160 --> 48:50.360
+Nó đẩy cái giá đi lên
+
+48:50.360 --> 48:51.380
+Theo cái xu hướng đó
+
+48:51.380 --> 48:52.380
+Chẳng hạn là
+
+48:52.380 --> 48:53.260
+Một cái con sóng này
+
+48:53.260 --> 48:54.160
+Em vào lệnh ở đây
+
+48:54.160 --> 48:55.300
+Bắt đầu giá nó tăng lên
+
+48:55.300 --> 48:56.200
+Thế nhưng mà
+
+48:56.200 --> 48:57.360
+Em bật ra
+
+48:57.360 --> 48:58.000
+Ngay cả từ
+
+48:58.000 --> 48:59.040
+Cái thằng 1M trở đi
+
+48:59.040 --> 49:00.180
+Thằng 1M
+
+49:00.180 --> 49:01.260
+Nó là cái thằng nhỏ nhất rồi
+
+49:01.260 --> 49:02.540
+Mà nó không xuất hiện
+
+49:02.540 --> 49:03.360
+Cái đó đi
+
+49:03.360 --> 49:04.040
+Ở vùng 80
+
+49:04.040 --> 49:04.680
+Có nghĩa là
+
+49:04.680 --> 49:06.100
+Cái lực mua nó không hề mạnh
+
+49:06.100 --> 49:07.340
+Nó không xuất hiện cái lực mua
+
+49:07.340 --> 49:08.460
+Thì thằng 1M
+
+49:08.460 --> 49:09.600
+Nó còn không lên được vùng 80
+
+49:09.600 --> 49:10.860
+Xong bắt đầu nó cuộn xuống như này
+
+49:10.860 --> 49:11.960
+Thì chắc chắn là
+
+49:11.960 --> 49:12.960
+Những cái thằng lớn hơn của nó
+
+49:12.960 --> 49:13.640
+Cũng không lên được
+
+49:13.640 --> 49:14.480
+Thì khi đó
+
+49:14.480 --> 49:15.280
+Mình thoát lệnh ra
+
+49:15.280 --> 49:17.440
+Chứ không phải là vùng kháng cư hỗ trợ gì đâu
+
+49:17.440 --> 49:18.080
+Đơn giản là gì
+
+49:18.080 --> 49:18.860
+Những cái đoạn đó
+
+49:18.860 --> 49:19.600
+Những cái đà
+
+49:19.600 --> 49:20.700
+Những cái đà quán tính
+
+49:20.700 --> 49:21.620
+Nó là những cái
+
+49:21.620 --> 49:22.760
+Lực để nó tiếp tục
+
+49:22.760 --> 49:23.740
+Đẩy cái thị trường đi lên
+
+49:23.740 --> 49:26.360
+Thọ
+
+49:26.360 --> 49:27.400
+Thọ bảo là
+
+49:27.400 --> 49:29.440
+Em xác định J0H4
+
+49:29.440 --> 49:31.220
+Xác định xu hướng tăng
+
+49:31.220 --> 49:32.680
+Một là xác định xu hướng tăng giả
+
+49:32.680 --> 49:33.740
+Chết khung
+
+49:33.740 --> 49:34.520
+H4
+
+49:34.520 --> 49:35.460
+H8V12
+
+49:35.460 --> 49:36.420
+Một D2D
+
+49:36.420 --> 49:37.880
+Đồng thuận xu hướng tăng
+
+49:37.880 --> 49:39.020
+Tìm điểm long
+
+49:39.020 --> 49:39.440
+Ok
+
+49:39.440 --> 49:39.940
+Chính xác
+
+49:39.940 --> 49:42.440
+Xác định điểm inchai
+
+49:42.440 --> 49:43.560
+Tìm lại cái khung nhỏ hơn
+
+49:43.560 --> 49:44.480
+Xem rồi ấy đi cắt lên
+
+49:44.480 --> 49:45.180
+H1
+
+49:45.180 --> 49:45.500
+H2
+
+49:45.500 --> 49:46.840
+Rồi ấy đi chưa cắt lên 2 đường
+
+49:46.840 --> 49:48.360
+EMA
+
+49:48.360 --> 49:49.120
+VKMA
+
+49:49.120 --> 49:51.880
+M15
+
+49:51.880 --> 49:53.220
+M15 chưa cắt lên hoàn toàn
+
+49:53.220 --> 49:54.420
+Vừa chạm 2 đường
+
+49:54.420 --> 49:55.560
+Mà có dấu hiệu đảo chiều
+
+49:55.560 --> 49:59.460
+Anh không
+
+49:59.460 --> 50:00.160
+Không hiểu
+
+50:00.160 --> 50:01.140
+Không hiểu câu hỏi
+
+50:01.140 --> 50:02.600
+Của thọ lắm
+
+50:02.600 --> 50:04.260
+Nếu mà em chơi khung H4
+
+50:04.260 --> 50:05.280
+Thì cùng lắm là
+
+50:05.280 --> 50:06.800
+Em nhìn cho anh đến tầng H1 thôi
+
+50:06.800 --> 50:08.760
+Chứ không thể nhìn đến tầng
+
+50:08.760 --> 50:09.580
+Thằng 15M
+
+50:09.580 --> 50:10.480
+Với thằng 3M được
+
+50:10.480 --> 50:12.240
+Nếu em chơi khung H4
+
+50:12.240 --> 50:12.920
+Em chỉ nhìn cho anh
+
+50:12.920 --> 50:13.560
+Thằng H1 thôi
+
+50:13.560 --> 50:14.260
+Ví dụ
+
+50:14.260 --> 50:15.000
+Đoạn này
+
+50:15.000 --> 50:16.480
+Nếu mà đoạn này
+
+50:16.480 --> 50:17.620
+Theo mọi người nhé
+
+50:17.620 --> 50:18.560
+Ở cái nhịp này
+
+50:18.560 --> 50:19.800
+À đừng
+
+50:19.800 --> 50:20.700
+Ví dụ với anh em
+
+50:20.700 --> 50:21.820
+Theo mọi người
+
+50:21.820 --> 50:22.880
+Nếu chúng ta xác định
+
+50:22.880 --> 50:23.620
+Cái target là
+
+50:23.620 --> 50:24.900
+Chúng ta chơi theo thằng H4
+
+50:24.900 --> 50:27.000
+Chúng ta chơi theo thằng H4
+
+50:27.000 --> 50:27.840
+Thì
+
+50:27.840 --> 50:28.920
+Ở cái nhịp này
+
+50:28.920 --> 50:30.640
+Ơ
+
+50:30.640 --> 50:31.280
+Đi quá rồi
+
+50:31.280 --> 50:31.720
+Thôi
+
+50:31.720 --> 50:32.940
+Chúng ta đánh dấu vào nhé
+
+50:32.940 --> 50:33.820
+Ở cái nhịp này
+
+50:33.820 --> 50:34.780
+Khi mà thằng
+
+50:34.780 --> 50:36.160
+H4 nó cắt lên ở đây
+
+50:36.160 --> 50:37.540
+Thì
+
+50:37.540 --> 50:38.280
+Theo mọi người
+
+50:38.280 --> 50:39.500
+Chúng ta có vào lại
+
+50:39.500 --> 50:40.400
+Theo thằng H4
+
+50:40.400 --> 50:41.020
+Ở đoạn này được không
+
+50:41.020 --> 50:43.860
+Theo mọi người
+
+50:43.860 --> 50:44.940
+Anh em trả lời câu hỏi này
+
+50:44.940 --> 50:46.300
+Đoạn này
+
+50:46.300 --> 50:47.040
+Thằng H4
+
+50:47.040 --> 50:47.780
+Chúng ta thấy ở đấy
+
+50:47.780 --> 50:48.560
+Nó cắt xuống rồi
+
+50:48.560 --> 50:49.700
+Nhưng nó cắt ngược lên lại
+
+50:49.700 --> 50:50.800
+Thì theo mọi người
+
+50:50.800 --> 50:51.580
+Chúng ta có vào
+
+50:51.580 --> 50:52.160
+Ở cái điểm này
+
+50:52.160 --> 50:53.420
+Theo thằng H4 được hay không
+
+50:53.420 --> 50:58.460
+Cả những anh em
+
+50:58.460 --> 50:59.540
+Nhóm cũ cũng trả lời câu hỏi này
+
+50:59.540 --> 50:59.920
+Giúp anh ạ
+
+50:59.920 --> 51:00.120
+Được không
+
+51:00.120 --> 51:02.120
+Được không
+
+51:02.120 --> 51:04.120
+Được không
+
+51:04.780 --> 51:07.100
+Người bảo có
+
+51:07.100 --> 51:07.720
+Người bảo không
+
+51:07.720 --> 51:15.460
+Không
+
+51:15.460 --> 51:16.720
+Chính xác
+
+51:16.720 --> 51:17.720
+Nếu
+
+51:17.720 --> 51:18.900
+Cái RID này cắt lên
+
+51:18.900 --> 51:19.980
+Rõ ràng
+
+51:19.980 --> 51:21.760
+Đây không phải là một lệnh
+
+51:21.760 --> 51:22.560
+Để chúng ta vào
+
+51:22.560 --> 51:23.600
+Theo khung thời gian H4
+
+51:23.600 --> 51:25.380
+Ví dụ chẳng hạn là
+
+51:25.380 --> 51:26.440
+Ông Thọ
+
+51:26.440 --> 51:27.340
+Ông ấy chơi
+
+51:27.340 --> 51:28.260
+Theo khung thời gian H4
+
+51:28.260 --> 51:29.280
+Thì cái vùng
+
+51:29.280 --> 51:30.280
+Tìm điểm vào lệnh
+
+51:30.280 --> 51:30.700
+Của ông Thọ
+
+51:30.700 --> 51:31.680
+Nó phải ở đoạn này
+
+51:31.680 --> 51:33.820
+Nó phải ở cái đoạn này
+
+51:33.820 --> 51:34.360
+Có nghĩa là
+
+51:34.360 --> 51:34.760
+Đây là cái vùng tìm điểm
+
+51:34.780 --> 51:35.180
+Vùng giá này
+
+51:35.180 --> 51:36.220
+Là cái vùng giá
+
+51:36.220 --> 51:37.080
+Ông Thọ sẽ mua vào
+
+51:37.080 --> 51:39.180
+Còn đến cái đoạn này
+
+51:39.180 --> 51:40.320
+Mặc kệ anh em
+
+51:40.320 --> 51:41.060
+Có vào lệnh
+
+51:41.060 --> 51:42.020
+Theo thằng 15M
+
+51:42.020 --> 51:42.820
+Hay thằng H1
+
+51:42.820 --> 51:43.460
+Đi chăng nữa
+
+51:43.460 --> 51:44.580
+Ông Thọ không quan tâm
+
+51:44.580 --> 51:45.480
+Đơn giản là gì
+
+51:45.480 --> 51:46.380
+Target của ông là
+
+51:46.380 --> 51:47.120
+Khung thời gian H4
+
+51:47.120 --> 51:48.620
+Và cái vùng vào lệnh
+
+51:48.620 --> 51:49.680
+Của ông là từ đoạn này rồi
+
+51:49.680 --> 51:50.680
+Đoạn này
+
+51:50.680 --> 51:52.140
+Kể cả thằng H1
+
+51:52.140 --> 51:54.160
+À kể kể cả thằng
+
+51:54.160 --> 51:54.860
+M15
+
+51:54.860 --> 51:55.940
+Nó có xấu ở đoạn này
+
+51:55.940 --> 51:56.600
+Thế nhưng mà
+
+51:56.600 --> 51:57.360
+Target của ông Thọ
+
+51:57.360 --> 51:58.760
+Ông ấy vẫn chưa đến
+
+51:58.760 --> 51:59.840
+Cái điểm rủi ro
+
+51:59.840 --> 52:00.460
+Của thằng H4
+
+52:00.460 --> 52:01.300
+Thì lúc đấy
+
+52:01.300 --> 52:02.240
+Ông Thọ không được phép
+
+52:02.240 --> 52:03.200
+Cắt theo thằng H4
+
+52:03.200 --> 52:04.760
+Thì đây là cái vùng
+
+52:04.760 --> 52:05.620
+Khi mà mọi người
+
+52:05.620 --> 52:06.220
+Có thể là mọi người
+
+52:06.220 --> 52:07.280
+Vẫn chơi theo 15M
+
+52:07.280 --> 52:07.920
+Hoặc H1
+
+52:07.920 --> 52:08.620
+Mọi người bay ở đây
+
+52:08.620 --> 52:10.040
+Nhưng với target H4
+
+52:10.040 --> 52:10.460
+Của ông Thọ
+
+52:10.460 --> 52:11.300
+Thì đây là cái vùng
+
+52:11.300 --> 52:12.020
+Mà ông xem xét
+
+52:12.020 --> 52:12.480
+Ông thoát lận
+
+52:12.480 --> 52:14.560
+Thì đấy là target của H4
+
+52:14.560 --> 52:15.500
+Còn đây cái nhịp này
+
+52:15.500 --> 52:16.600
+Nó là một cái nhịp
+
+52:16.600 --> 52:17.000
+Cắt lên
+
+52:17.000 --> 52:17.880
+Của thằng H4
+
+52:17.880 --> 52:19.220
+Nhưng cái đoạn này
+
+52:19.220 --> 52:20.420
+Lo mà chúng ta phải lo
+
+52:20.420 --> 52:21.060
+Theo thằng H1
+
+52:21.060 --> 52:22.640
+Và thằng M15
+
+52:22.640 --> 52:23.560
+Thì mới đúng
+
+52:23.560 --> 52:24.780
+Ở cái giai đoạn này
+
+52:24.780 --> 52:25.140
+Thì mới đúng
+
+52:25.140 --> 52:25.720
+Cái giai đoạn này
+
+52:25.720 --> 52:26.800
+Đấy
+
+52:31.300 --> 52:32.060
+Thời điểm này
+
+52:32.060 --> 52:32.740
+Chẳng hạn
+
+52:32.740 --> 52:34.160
+Anh em có nhảy vào
+
+52:34.160 --> 52:35.800
+Long theo M15
+
+52:35.800 --> 52:36.560
+Long theo H1
+
+52:36.560 --> 52:37.220
+Thì lúc đó
+
+52:37.220 --> 52:38.420
+Em không có long nữa
+
+52:38.420 --> 52:39.720
+Mà em đánh theo H4
+
+52:39.720 --> 52:40.380
+Thì đoạn này
+
+52:40.380 --> 52:41.080
+Lúc đó
+
+52:41.080 --> 52:42.400
+Em chỉ nhìn M15
+
+52:42.400 --> 52:43.160
+Và nhìn H1
+
+52:43.160 --> 52:44.060
+Để em quản lý lệnh
+
+52:44.060 --> 52:44.660
+Cái đoạn này thôi
+
+52:44.660 --> 52:45.660
+Đó
+
+52:45.660 --> 52:46.960
+Thì em có thể nhìn thấy là
+
+52:46.960 --> 52:47.420
+À
+
+52:47.420 --> 52:47.980
+Cái đoạn này
+
+52:47.980 --> 52:48.440
+Khi mà
+
+52:48.440 --> 52:49.920
+Mình long ở cái vùng dưới này rồi
+
+52:49.920 --> 52:52.160
+Mình long ở cái vùng dưới này rồi
+
+52:52.160 --> 52:53.120
+Thì lên đến đây
+
+52:53.120 --> 52:53.960
+Bắt đầu nó một vòng
+
+52:53.960 --> 52:54.720
+Thằng M
+
+52:54.720 --> 52:55.180
+Thằng
+
+52:55.180 --> 52:55.960
+Thằng
+
+52:55.960 --> 52:57.240
+Khi mà
+
+52:57.240 --> 52:58.320
+Chẳng hạn là em nhìn đây
+
+52:58.320 --> 52:59.760
+Nó có một cái cản của thằng H4 ở đây
+
+52:59.760 --> 53:00.860
+Em đặt SL ở dưới này
+
+53:00.860 --> 53:01.960
+Thì ngày mai
+
+53:01.960 --> 53:02.560
+Mọi người sẽ hiểu
+
+53:02.560 --> 53:04.120
+Cái vùng mà chúng ta dịch SL
+
+53:04.120 --> 53:04.940
+Thì đoạn này
+
+53:04.940 --> 53:05.520
+Nó chưa dịch
+
+53:05.520 --> 53:06.660
+Nó chưa chạm cái SL
+
+53:06.660 --> 53:07.640
+Của khung H4 của em
+
+53:07.640 --> 53:09.360
+Nó chưa chạm cái SL
+
+53:09.360 --> 53:10.220
+Khung H4 của em
+
+53:10.220 --> 53:11.000
+Thì
+
+53:11.000 --> 53:11.860
+Khi đó
+
+53:11.860 --> 53:12.720
+Em chưa
+
+53:12.720 --> 53:13.340
+Em chưa
+
+53:13.340 --> 53:14.620
+Chưa có chốt cái lệnh đó
+
+53:14.620 --> 53:15.560
+Nhưng bắt đầu
+
+53:15.560 --> 53:16.360
+Thằng M15
+
+53:16.360 --> 53:17.280
+Thằng H1
+
+53:17.280 --> 53:18.480
+Nó cuộn thêm một nhịp nữa
+
+53:18.480 --> 53:19.500
+Đồng thuận tăng lên
+
+53:19.500 --> 53:20.380
+Thì lúc đó
+
+53:20.380 --> 53:21.580
+Em sẽ nhìn vào M15
+
+53:21.580 --> 53:22.440
+Và nhìn tới H1
+
+53:22.440 --> 53:23.620
+Để em quản lý cái lệnh này
+
+53:23.620 --> 53:24.780
+Giống như những người
+
+53:24.780 --> 53:26.100
+Họ vào lệnh theo M15
+
+53:26.100 --> 53:27.200
+Và họ nhìn 5M
+
+53:27.200 --> 53:28.280
+Để họ quản lý lệnh
+
+53:28.280 --> 53:29.540
+Giống kiểu kiểu như vậy
+
+53:29.540 --> 53:30.480
+Đơn giản là
+
+53:30.480 --> 53:32.000
+Em phóng to cái khung thời gian đó thôi
+
+53:32.000 --> 53:33.580
+Và cái target của em nó khác
+
+53:33.580 --> 53:34.260
+Ví dụ
+
+53:34.260 --> 53:36.080
+Em chơi cái thằng H4 này
+
+53:36.080 --> 53:37.560
+Thì không thể nào
+
+53:37.560 --> 53:38.520
+Ở cái nhịp này
+
+53:38.520 --> 53:40.180
+Cái thằng M15 nó xấu
+
+53:40.180 --> 53:42.260
+Mà em lại chốt cái lệnh H4 của em được cả
+
+53:42.260 --> 53:44.740
+Không thể nào M15 nó xấu
+
+53:44.740 --> 53:46.280
+Mà em lại chốt cái lệnh của H4 được cả
+
+53:46.280 --> 53:46.940
+Đấy
+
+53:46.940 --> 53:48.020
+Thì mình phải phân biệt rõ
+
+53:48.020 --> 53:49.120
+Cái target của mình
+
+53:49.120 --> 53:50.040
+Ở khung thời gian này
+
+53:50.040 --> 53:51.000
+Chẳng hạn là
+
+53:51.000 --> 53:51.600
+Ví dụ mình
+
+53:51.600 --> 53:52.520
+Có những người người ta chơi
+
+53:52.520 --> 53:53.560
+Ở khung thời gian 1D chẳng hạn
+
+53:53.560 --> 53:55.240
+1D thì chẳng mối trên
+
+53:55.240 --> 53:56.200
+Chứ chơi future
+
+53:56.200 --> 53:57.220
+Thì không chơi được 1D
+
+53:57.220 --> 53:58.480
+Bởi vì phí nó ghê lắm
+
+53:58.480 --> 54:00.060
+Chẳng hạn là
+
+54:00.060 --> 54:01.260
+Một con sóng H4 nhé
+
+54:01.260 --> 54:02.080
+Một con
+
+54:02.080 --> 54:02.760
+Mọi người cứ nhớ này
+
+54:02.760 --> 54:03.740
+Một con sóng H4
+
+54:03.740 --> 54:05.140
+Để nó đi xong
+
+54:05.140 --> 54:06.360
+Và nó hoàn thành một con sóng H4
+
+54:06.360 --> 54:07.840
+Thì anh em cứ xác định là
+
+54:07.840 --> 54:08.520
+Anh em phải
+
+54:08.520 --> 54:10.420
+Giữ
+
+54:10.420 --> 54:11.800
+Cái lệnh đó
+
+54:11.800 --> 54:12.860
+Nó phải tầm
+
+54:12.860 --> 54:14.420
+Ít nhất là
+
+54:14.420 --> 54:14.960
+Nửa tuần
+
+54:14.960 --> 54:16.020
+5-6 ngày
+
+54:16.020 --> 54:16.960
+Tầm đó
+
+54:16.960 --> 54:17.940
+Hay là ví dụ
+
+54:17.940 --> 54:18.620
+Ai mà vào
+
+54:18.620 --> 54:19.840
+Mà target theo con sóng 1D
+
+54:19.840 --> 54:21.400
+Ít nó phải tầm 1-2 tuần
+
+54:21.400 --> 54:21.840
+Nửa tháng
+
+54:21.840 --> 54:22.900
+Đó
+
+54:22.900 --> 54:24.320
+Cứ cái target như vậy thôi
+
+54:24.320 --> 54:24.920
+Chúng ta vào
+
+54:24.920 --> 54:25.780
+Nếu mà cái khung thời gian
+
+54:25.780 --> 54:26.400
+Là dưới H1
+
+54:26.400 --> 54:27.580
+Thì chỉ tầm trong ngày thôi
+
+54:27.580 --> 54:28.680
+Chúng ta có thể chốt được lệnh rồi
+
+54:28.680 --> 54:29.700
+Đó
+
+54:29.700 --> 54:31.940
+Thì trong ngày chúng ta chốt được lệnh rồi
+
+54:31.940 --> 54:34.520
+Phương còn thầy giải thích em
+
+54:34.520 --> 54:35.280
+Giúp em điểm vỏ lệnh
+
+54:35.280 --> 54:36.720
+Điểm vỏ lệnh thì nó có nhiều trường hợp lắm
+
+54:36.720 --> 54:37.780
+Cái này phải trải nghiệm thực tế
+
+54:37.780 --> 54:39.440
+Và thêm một cái buổi ngày mai nữa
+
+54:39.440 --> 54:41.100
+Những cái thứ ở trên cái đồ thi này nữa
+
+54:41.100 --> 54:42.240
+Cái đó là đi là cho chúng ta
+
+54:42.240 --> 54:43.680
+Cái thời điểm vỏ lệnh
+
+54:43.680 --> 54:45.520
+Còn ngày mai là chúng ta học thêm
+
+54:45.520 --> 54:46.380
+Một cái cung cụ nữa
+
+54:46.380 --> 54:47.000
+Để chúng ta xác định
+
+54:47.000 --> 54:48.100
+Các cái
+
+54:48.100 --> 54:50.580
+Dấu hiệu ở trên đồ thi
+
+54:50.580 --> 54:51.120
+Để chúng ta nhìn
+
+54:51.120 --> 54:51.900
+Chúng ta kết hợp thêm
+
+54:51.900 --> 54:54.200
+Rồi
+
+54:54.200 --> 54:54.880
+Hiểu chưa thọ
+
+54:54.880 --> 55:00.940
+Ok
+
+55:00.940 --> 55:02.980
+Tiếp tục câu hỏi nào
+
+55:07.420 --> 55:08.020
+Quỳnh Trang
+
+55:08.020 --> 55:09.200
+Anh hôm trước anh nói đến
+
+55:09.200 --> 55:10.140
+Khung mời mờ
+
+55:10.140 --> 55:10.900
+Có quan tinh tăng
+
+55:10.900 --> 55:11.920
+Có thể tăng mạnh
+
+55:11.920 --> 55:12.700
+Nhưng không bền vững
+
+55:12.700 --> 55:13.520
+Vì sao
+
+55:13.520 --> 55:15.680
+Là hôm nào không nhỉ
+
+55:15.680 --> 55:23.100
+À cái phần đó
+
+55:23.100 --> 55:23.780
+Thì phải ngày mai
+
+55:23.780 --> 55:25.320
+Cái phần đó là phải ngày mai
+
+55:25.320 --> 55:26.040
+Anh em mới học được
+
+55:26.040 --> 55:27.180
+Cái câu đấy anh nói
+
+55:27.180 --> 55:28.380
+Nhưng mà phải sang cái phần ngày mai
+
+55:28.380 --> 55:29.160
+Thì anh mới nói được
+
+55:29.160 --> 55:30.700
+Tiếp theo là
+
+55:30.700 --> 55:32.740
+Cái hiển hỏi công cụ đó đi
+
+55:32.740 --> 55:33.960
+Như thầy dạy mấy hôm nay
+
+55:33.960 --> 55:35.320
+Có áp dụng được cho sport không
+
+55:35.320 --> 55:36.340
+Nếu áp dụng thì như thế nào
+
+55:36.340 --> 55:37.540
+Sport ý
+
+55:37.540 --> 55:39.300
+Thì chúng ta chỉ chơi
+
+55:39.300 --> 55:40.180
+Không phải giá lớn thôi
+
+55:40.180 --> 55:42.020
+Sport áp dụng được
+
+55:42.020 --> 55:43.360
+Cái này bởi vì
+
+55:43.360 --> 55:44.020
+Đơn giản là gì
+
+55:44.020 --> 55:45.160
+Chúng nó vẫn
+
+55:45.160 --> 55:46.500
+Một cái nguyên lý phân tích là như vậy
+
+55:46.500 --> 55:47.620
+Từ khung bé nhất
+
+55:47.620 --> 55:48.380
+Cho đến khung lớn nhất
+
+55:48.380 --> 55:49.220
+Chúng ta vẫn phân tích
+
+55:49.220 --> 55:49.880
+Bởi vì
+
+55:49.880 --> 55:50.820
+Bản chất thị trường
+
+55:50.820 --> 55:51.960
+Không thời gian nào cũng vậy
+
+55:51.960 --> 55:53.280
+Bản chất thị trường
+
+55:53.280 --> 55:53.960
+Nó là
+
+55:53.960 --> 55:55.980
+Lực mua và lực bán mà thôi
+
+55:55.980 --> 55:57.400
+Thì không thời gian nào
+
+55:57.400 --> 55:58.240
+Chúng ta phân tích như vậy
+
+55:58.240 --> 55:59.340
+Và cái công cụ
+
+55:59.340 --> 56:00.460
+Chúng ta chơi nó là khác nhau
+
+56:00.460 --> 56:01.980
+Có người người ta chơi sport
+
+56:01.980 --> 56:02.980
+Có người người ta chơi
+
+56:02.980 --> 56:04.140
+Future
+
+56:04.140 --> 56:05.320
+Thế nhưng mà
+
+56:05.320 --> 56:06.100
+Chơi sport
+
+56:06.100 --> 56:07.260
+Thì khuyên mọi người là
+
+56:07.260 --> 56:08.000
+Cái việc mà
+
+56:08.000 --> 56:08.640
+Mua bán
+
+56:08.640 --> 56:09.540
+Thì chúng ta nên chơi
+
+56:09.540 --> 56:10.400
+Không thời gian lớn hơn
+
+56:13.360 --> 56:14.800
+Nếu mà chúng ta chơi sport
+
+56:14.800 --> 56:15.860
+Có nghĩa là chúng ta mua ít trên
+
+56:15.860 --> 56:16.680
+Thì nó giống như là
+
+56:16.680 --> 56:17.320
+Cái việc mà
+
+56:17.320 --> 56:17.920
+Thọ
+
+56:17.920 --> 56:18.660
+Bạn thọ
+
+56:18.660 --> 56:19.520
+Bạn ấy mua
+
+56:19.520 --> 56:20.320
+Không thời gian hát bốn
+
+56:20.320 --> 56:21.320
+Chẳng hạn là
+
+56:21.320 --> 56:22.560
+Nếu ông nào mua sport
+
+56:22.560 --> 56:23.400
+Thì ông canh canh
+
+56:23.400 --> 56:24.360
+Ông mua vào cái vùng này
+
+56:24.360 --> 56:25.780
+Ông canh ông mua vào
+
+56:25.780 --> 56:26.220
+Cái vùng này
+
+56:26.220 --> 56:27.580
+Đến bây giờ là
+
+56:27.580 --> 56:28.300
+Quản lý lợi
+
+56:28.300 --> 56:29.620
+Là ông tìm để bóng thoát ra rồi
+
+56:29.620 --> 56:30.420
+Chứ còn không
+
+56:30.420 --> 56:31.320
+Chơi sport
+
+56:31.320 --> 56:32.280
+Không ai đi mà đi chơi
+
+56:32.280 --> 56:33.440
+Ngắn ngắn như này cả
+
+56:33.440 --> 56:34.240
+Nó rất là mạnh
+
+56:34.240 --> 56:36.320
+Đó
+
+56:36.320 --> 56:41.780
+Tòa hỏi cho em hỏi
+
+56:41.780 --> 56:43.120
+Hôm qua em không nhìn ra
+
+56:43.120 --> 56:43.900
+Tín hiệu sớm
+
+56:43.900 --> 56:44.320
+Như anh
+
+56:44.320 --> 56:45.540
+Em thấy giá tăng
+
+56:45.540 --> 56:46.220
+Khung M15
+
+56:46.220 --> 56:47.140
+Em vào khung nhỏ
+
+56:47.140 --> 56:47.480
+Xem
+
+56:47.480 --> 56:48.520
+3M
+
+56:48.520 --> 56:49.020
+5M
+
+56:49.020 --> 56:49.860
+Đấy đi trên 80
+
+56:49.860 --> 56:50.620
+Có quán tinh tăng
+
+56:50.620 --> 56:51.280
+Khung M15
+
+56:51.280 --> 56:52.060
+Em đợi
+
+56:52.060 --> 56:52.860
+RSI vòng xuống
+
+56:52.860 --> 56:53.820
+Hoàn thành giai đoạn 2
+
+56:53.820 --> 56:54.740
+Em vào lệnh
+
+56:54.740 --> 56:55.340
+Thì lệnh này
+
+56:55.340 --> 56:56.080
+Quản lý thế nào
+
+56:56.080 --> 56:57.200
+Thì ví dụ nhé
+
+56:57.200 --> 56:57.800
+Cái đoạn
+
+56:57.800 --> 56:58.340
+Chẳng hạn
+
+56:58.340 --> 56:59.060
+Tòa hỏi
+
+56:59.060 --> 57:00.040
+Tòa hỏi anh là
+
+57:00.040 --> 57:00.360
+Cái đoạn
+
+57:00.360 --> 57:01.700
+Em vào lệnh
+
+57:01.700 --> 57:02.300
+Theo cái đoạn này
+
+57:02.300 --> 57:02.600
+Đúng không
+
+57:02.600 --> 57:03.780
+Có nghĩa là
+
+57:03.780 --> 57:04.840
+Anh thì anh vào từ đoạn này
+
+57:04.840 --> 57:06.040
+Bởi vì nó có sự đồng thuận
+
+57:06.040 --> 57:06.720
+Của thằng H1
+
+57:06.720 --> 57:08.320
+Thằng H4
+
+57:08.320 --> 57:09.040
+Của thằng H12
+
+57:09.040 --> 57:10.280
+Tòa hỏi thì lúc đó
+
+57:10.280 --> 57:11.340
+Là thấy thằng M15
+
+57:11.340 --> 57:12.300
+Có quán tinh tăng rồi
+
+57:12.300 --> 57:13.340
+Bắt đầu chờ đoạn 2
+
+57:13.340 --> 57:14.020
+Để vào đúng không
+
+57:14.020 --> 57:15.320
+Chờ cái đoạn 2
+
+57:15.320 --> 57:15.700
+Để vào
+
+57:15.700 --> 57:17.480
+Thì cái đoạn này
+
+57:17.480 --> 57:18.820
+Khi mà giá nó tăng lên rồi
+
+57:18.820 --> 57:19.400
+Quản lý lệnh
+
+57:19.400 --> 57:20.780
+Thì ở cái nhịp này này
+
+57:20.780 --> 57:22.200
+Ở cái nhịp này này
+
+57:22.200 --> 57:22.800
+Chúng ta
+
+57:22.800 --> 57:23.680
+Lại quản lý lệnh
+
+57:23.680 --> 57:24.240
+Tương tự thôi
+
+57:24.240 --> 57:25.340
+Chẳng hạn là
+
+57:25.340 --> 57:26.560
+Đây tuy rằng
+
+57:26.560 --> 57:27.820
+Nó là cái nhịp hoàn thành quán tính
+
+57:27.820 --> 57:28.800
+Từ đoạn trước này
+
+57:28.800 --> 57:30.000
+Nhưng mà chúng ta vẫn quản lý lệnh
+
+57:30.000 --> 57:30.340
+Bình thường
+
+57:30.340 --> 57:31.380
+Trong cái nhịp tăng này lên
+
+57:31.380 --> 57:32.320
+Chúng ta bật xem thằng
+
+57:32.320 --> 57:33.460
+Các thằng nhỏ
+
+57:33.460 --> 57:34.460
+Nó có quán tính
+
+57:34.460 --> 57:36.400
+Các cái thằng nhỏ
+
+57:36.400 --> 57:37.860
+Nó có cái quán tính
+
+57:37.860 --> 57:39.000
+Tăng hay không
+
+57:39.000 --> 57:40.280
+Thì rõ ràng là
+
+57:40.280 --> 57:41.260
+Cái nhịp đấy nó tăng lên
+
+57:41.260 --> 57:42.380
+Thì thằng 1M có
+
+57:42.380 --> 57:43.420
+Thằng 3M có không
+
+57:43.420 --> 57:46.440
+Thằng 3M không có
+
+57:46.440 --> 57:47.880
+Thằng 3M không có
+
+57:47.880 --> 57:48.300
+Thì rõ ràng
+
+57:48.300 --> 57:49.140
+Thằng 3M không có
+
+57:49.140 --> 57:50.720
+Thì 5M, 10M chắc chắn là không có
+
+57:50.720 --> 57:51.480
+Thì đấy
+
+57:51.480 --> 57:52.720
+Thì chúng ta sẽ quản lý lệnh
+
+57:52.720 --> 57:53.340
+Theo thằng 1M
+
+57:53.340 --> 57:54.300
+Thì khi đó
+
+57:54.300 --> 57:55.640
+Thằng 1M nó hoàn thành xong
+
+57:55.640 --> 57:57.440
+Thằng 1M nó hoàn thành xong quán tính
+
+57:57.440 --> 57:58.260
+Hoặc thằng 1M nó fail
+
+57:58.260 --> 57:59.100
+Thì chúng ta phải chốt liền
+
+57:59.100 --> 58:01.760
+Thì chúng ta phải chốt liền
+
+58:01.760 --> 58:02.220
+Đó
+
+58:16.860 --> 58:17.740
+Mình hỏi là
+
+58:17.740 --> 58:18.460
+Thầy cho em hỏi
+
+58:18.460 --> 58:19.460
+H4
+
+58:19.460 --> 58:22.880
+Ngày 5 tháng 8 đến 1 giờ sáng 6
+
+58:22.880 --> 58:24.020
+Khung H1 như vậy
+
+58:24.020 --> 58:25.000
+Đã hình thành 3 giai đoạn
+
+58:25.000 --> 58:25.780
+Của quán tính chưa
+
+58:25.780 --> 58:27.820
+H4 này
+
+58:27.820 --> 58:28.240
+H4
+
+58:28.260 --> 58:40.740
+H5 tháng 8 đến 1 giờ sáng 6 tháng 8
+
+58:40.740 --> 58:42.120
+Giai đoạn này đúng không
+
+58:42.120 --> 58:47.260
+Bật H1 ra
+
+58:47.260 --> 58:54.260
+Thằng H1 đoạn này
+
+58:54.260 --> 58:55.700
+Nó không đi theo một quy luật gì cả
+
+58:55.700 --> 58:57.380
+Thằng H1 đoạn này
+
+58:57.380 --> 58:58.060
+Nó không có quán tính
+
+58:58.060 --> 58:59.720
+Thì không phải là
+
+58:59.720 --> 59:01.340
+Hoàn thành quán tính
+
+59:01.340 --> 59:02.180
+Cái đoạn này
+
+59:02.180 --> 59:02.880
+Nó là một cái nhịp
+
+59:02.880 --> 59:03.640
+Giảm bất thường
+
+59:03.640 --> 59:04.900
+Một cái nhịp tăng bất thường
+
+59:04.900 --> 59:05.900
+Thì đây
+
+59:05.900 --> 59:06.640
+Đôi khi
+
+59:06.640 --> 59:07.440
+Cái đoạn này
+
+59:07.440 --> 59:08.140
+Nó là một cái đoạn
+
+59:08.140 --> 59:08.860
+Mọi người thấy là
+
+59:08.860 --> 59:09.640
+Đôi khi
+
+59:09.640 --> 59:11.240
+Cái trường hợp sắc xuất thấp
+
+59:11.240 --> 59:12.120
+Mọi người sẽ thấy là
+
+59:12.120 --> 59:12.620
+Trong thị trường
+
+59:12.620 --> 59:13.320
+Có những cái giai đoạn
+
+59:13.320 --> 59:13.720
+Mọi người thấy
+
+59:13.720 --> 59:15.080
+Nó không theo một quy luật gì cả
+
+59:15.080 --> 59:16.540
+Và rất lâu
+
+59:16.540 --> 59:17.840
+Nó sẽ gặp một cái trường hợp như này
+
+59:17.840 --> 59:18.620
+Thì đơn giản là gì
+
+59:18.620 --> 59:19.620
+Lúc đó chúng ta phải linh hoạt
+
+59:19.620 --> 59:21.260
+Thì chúng ta tìm một cái điểm vở lệnh
+
+59:21.260 --> 59:21.640
+Tiếp theo
+
+59:21.640 --> 59:22.520
+Cái giai đoạn sau này thôi
+
+59:22.520 --> 59:23.760
+Để cho cái giai đoạn này làm sao
+
+59:23.760 --> 59:25.140
+Cái đồ thí nó ổn định lại
+
+59:25.140 --> 59:26.140
+Cái quy luật của nó
+
+59:26.140 --> 59:27.460
+Bởi vì đoạn này
+
+59:27.460 --> 59:28.160
+Rõ ràng
+
+59:28.160 --> 59:29.540
+Trong một cái nhịp điều chỉnh này
+
+59:29.540 --> 59:30.160
+Bình thường
+
+59:30.160 --> 59:31.180
+Nó sẽ phải tụt như này
+
+59:31.180 --> 59:31.960
+Thế nhưng
+
+59:31.960 --> 59:33.080
+Có một đây
+
+59:33.080 --> 59:34.220
+Nó lại cái câu chuyện là gì
+
+59:34.220 --> 59:35.360
+Ông tỷ phú bắc cực mà thôi
+
+59:35.360 --> 59:36.540
+Nó có một cái lực mua
+
+59:36.540 --> 59:37.300
+Tham gia bất thường
+
+59:37.300 --> 59:37.980
+Một cái giai đoạn này
+
+59:37.980 --> 59:39.540
+Nó có một cái lực mua
+
+59:39.540 --> 59:40.180
+Tham gia bất thường
+
+59:40.180 --> 59:40.680
+Một cái giai đoạn này
+
+59:40.680 --> 59:41.720
+Thì rõ ràng là cái lực mua này
+
+59:41.720 --> 59:42.600
+Chúng ta không thể đoán được
+
+59:42.600 --> 59:43.520
+Đơn giản là gì
+
+59:43.520 --> 59:44.200
+Khi nó xuất hiện
+
+59:44.200 --> 59:44.720
+Và bắt đầu
+
+59:44.720 --> 59:46.360
+Cái giai đoạn mà nó gọi là
+
+59:46.360 --> 59:48.140
+Cái đồ thí nó đi không quy luật
+
+59:48.140 --> 59:49.740
+Thì chúng ta phải chờ nó ổn định lại
+
+59:49.740 --> 59:51.880
+Và khi đó chúng ta lại tìm cái điểm bài tiếp theo
+
+59:51.880 --> 59:52.880
+Đấy thế thôi
+
+59:52.880 --> 59:59.080
+Cái đoạn này không có quán tính
+
+59:59.080 --> 59:59.780
+Để mà hoàn thành nhé
+
+59:59.780 --> 01:00:01.200
+Bởi vì đấy
+
+01:00:01.200 --> 01:00:01.960
+Nó không lên đến 80
+
+01:00:11.720 --> 01:00:14.840
+Nhân hỏi là nếu
+
+01:00:14.840 --> 01:00:17.000
+Mà xuất hiện quán tính tăng
+
+01:00:17.000 --> 01:00:17.820
+Của khung M15
+
+01:00:17.820 --> 01:00:18.440
+H1
+
+01:00:18.440 --> 01:00:19.100
+Và đồng thuận
+
+01:00:19.100 --> 01:00:19.820
+Của khung thời gian
+
+01:00:19.820 --> 01:00:21.500
+Mà giá hiện đã
+
+01:00:21.500 --> 01:00:22.940
+Ngay gần kháng cự
+
+01:00:22.940 --> 01:00:24.060
+Của khung lớn hơn
+
+01:00:24.060 --> 01:00:26.280
+Như 1D
+
+01:00:26.280 --> 01:00:27.740
+Thì nên đợi break lên
+
+01:00:27.740 --> 01:00:28.940
+Hay là mình vẫn theo như thế
+
+01:00:28.940 --> 01:00:30.160
+Thì theo anh
+
+01:00:30.160 --> 01:00:31.220
+Đơn giản là gì
+
+01:00:31.220 --> 01:00:31.680
+Nếu
+
+01:00:31.680 --> 01:00:32.560
+Nó giống như cái
+
+01:00:32.560 --> 01:00:34.000
+Anh nói như thế này
+
+01:00:34.000 --> 01:00:37.060
+Nó giống như là
+
+01:00:37.060 --> 01:00:37.680
+Cái hình ảnh
+
+01:00:37.680 --> 01:00:38.460
+Cái đoàn tàu
+
+01:00:38.460 --> 01:00:40.280
+Mọi người nhớ này
+
+01:00:40.280 --> 01:00:41.500
+Cái đồ thí
+
+01:00:41.500 --> 01:00:41.700
+Của khung M15
+
+01:00:41.700 --> 01:00:43.080
+Cái đồ thí
+
+01:00:43.080 --> 01:00:43.940
+Của thằng
+
+01:00:43.940 --> 01:00:44.760
+RSI nhé
+
+01:00:44.760 --> 01:00:45.800
+Bây giờ anh em nhớ
+
+01:00:45.800 --> 01:00:46.280
+Cái phần này này
+
+01:00:46.280 --> 01:00:47.640
+Cái đồ thí của thằng RSI
+
+01:00:47.640 --> 01:00:49.180
+Nó đi theo cái mô hình
+
+01:00:49.180 --> 01:00:50.760
+Là mô hình hình sinh
+
+01:00:50.760 --> 01:00:51.280
+Giống như ngày xưa
+
+01:00:51.280 --> 01:00:52.240
+Chúng ta học toán
+
+01:00:52.240 --> 01:00:53.360
+Hồi cấp 2, cấp 3
+
+01:00:53.360 --> 01:00:54.460
+Chúng ta học về
+
+01:00:54.460 --> 01:00:55.520
+Cái mô hình hình sinh
+
+01:00:55.520 --> 01:00:56.060
+Có nghĩa là
+
+01:00:56.060 --> 01:00:56.740
+Cái mô hình hình sinh
+
+01:00:56.740 --> 01:00:57.560
+Là cái mô hình giao động
+
+01:00:57.560 --> 01:00:58.300
+Giữa bên trên
+
+01:00:58.300 --> 01:00:59.100
+Và bên dưới của đồ thí
+
+01:00:59.100 --> 01:01:00.500
+Giữa bên trên
+
+01:01:00.500 --> 01:01:01.160
+Và bên dưới của đồ thí
+
+01:01:01.160 --> 01:01:01.940
+Thì cái RSI này
+
+01:01:01.940 --> 01:01:02.900
+Nó cũng giao động
+
+01:01:02.900 --> 01:01:03.680
+Một cái kiểu như vậy
+
+01:01:03.680 --> 01:01:04.720
+Nghĩa là mọi người thấy
+
+01:01:04.720 --> 01:01:05.780
+Nó đi từ dưới lên lên trên
+
+01:01:05.780 --> 01:01:07.040
+Như hiện tại thằng H4
+
+01:01:07.040 --> 01:01:08.140
+Nó đã đi được một đoạn
+
+01:01:08.140 --> 01:01:08.780
+Rất là xa rồi
+
+01:01:08.780 --> 01:01:09.880
+Nó đi được mấy nhịp rồi
+
+01:01:09.880 --> 01:01:11.140
+Thì rõ ràng là
+
+01:01:11.140 --> 01:01:11.740
+Cái đoàn tàu
+
+01:01:11.740 --> 01:01:12.780
+Nó đã đi lên trên đỉnh
+
+01:01:12.780 --> 01:01:13.660
+Của cái hình sinh này rồi
+
+01:01:13.660 --> 01:01:15.600
+Đi trên đỉnh của hình sinh rồi
+
+01:01:15.600 --> 01:01:16.740
+Thì khi đó là
+
+01:01:16.740 --> 01:01:17.960
+Nếu có lên
+
+01:01:17.960 --> 01:01:19.300
+Nó không lên được xa nữa
+
+01:01:19.300 --> 01:01:20.340
+Vậy thì khi đó
+
+01:01:20.340 --> 01:01:21.420
+Nếu cái đoạn này
+
+01:01:21.420 --> 01:01:22.160
+Cái đoạn này
+
+01:01:22.160 --> 01:01:23.260
+Của thằng H4 nó như thế này
+
+01:01:23.260 --> 01:01:24.080
+Mà lúc
+
+01:01:24.080 --> 01:01:25.200
+Nó đã ở trên đỉnh
+
+01:01:25.200 --> 01:01:25.800
+Cái hình sinh rồi
+
+01:01:25.800 --> 01:01:27.320
+Mà giá nó lại
+
+01:01:27.320 --> 01:01:28.240
+Chạm vào cái kháng cự
+
+01:01:28.240 --> 01:01:29.100
+Ví dụ như kháng cự
+
+01:01:29.100 --> 01:01:30.100
+47, 48 nghìn
+
+01:01:30.100 --> 01:01:32.040
+À 46, 47 nghìn
+
+01:01:32.040 --> 01:01:33.280
+Của khung 1D như vậy
+
+01:01:33.280 --> 01:01:34.240
+Thì lúc đó
+
+01:01:34.240 --> 01:01:35.480
+Rõ ràng là chúng ta phải cẩn thận
+
+01:01:35.480 --> 01:01:37.420
+Rõ ràng là chúng ta phải cẩn thận
+
+01:01:37.420 --> 01:01:38.100
+Thế nhưng mà
+
+01:01:38.100 --> 01:01:39.300
+Nếu giá nó ở cái vùng này
+
+01:01:39.300 --> 01:01:40.160
+Nhưng lúc đó
+
+01:01:40.160 --> 01:01:40.860
+Chúng ta nhìn là
+
+01:01:40.860 --> 01:01:42.340
+À cái đó đi của khung thời gian
+
+01:01:42.340 --> 01:01:43.440
+Nó mới lên thôi
+
+01:01:43.440 --> 01:01:44.600
+Nó mới từ dưới này
+
+01:01:44.600 --> 01:01:45.460
+Nó bắt đầu lên đâu đó
+
+01:01:45.460 --> 01:01:46.160
+Lưng trừng này thôi
+
+01:01:46.160 --> 01:01:47.100
+Thì lúc đó
+
+01:01:47.100 --> 01:01:47.820
+Chúng ta vẫn có thể
+
+01:01:47.820 --> 01:01:49.320
+Xác định chúng ta
+
+01:01:49.320 --> 01:01:50.640
+Và quan trọng nhé
+
+01:01:50.640 --> 01:01:51.060
+Lúc đó
+
+01:01:51.060 --> 01:01:52.020
+Quán tính nó còn nhiều
+
+01:01:52.020 --> 01:01:53.000
+Thì chúng ta vẫn giữ được
+
+01:01:53.000 --> 01:01:54.140
+Hoặc là
+
+01:01:54.140 --> 01:01:55.120
+Giống như cái chiến thuật
+
+01:01:55.120 --> 01:01:56.080
+Mà Alan hay nói với anh em
+
+01:01:56.080 --> 01:01:56.440
+Nhóm cũ
+
+01:01:56.440 --> 01:01:57.720
+Để xử lý cái vấn đề tâm lý
+
+01:01:57.720 --> 01:01:58.920
+Nhưng ông nói là
+
+01:01:58.920 --> 01:01:59.380
+Ôi thầy ơi
+
+01:01:59.380 --> 01:02:00.320
+Sao thầy gồng được xa
+
+01:02:00.320 --> 01:02:01.580
+Nhiều khi là em vào
+
+01:02:01.580 --> 01:02:02.360
+Em cứ bồn trồn
+
+01:02:02.360 --> 01:02:03.300
+Em khó chịu
+
+01:02:03.300 --> 01:02:04.060
+Đơn giản là gì
+
+01:02:04.060 --> 01:02:04.860
+Khi mà
+
+01:02:04.860 --> 01:02:06.240
+Để Alan quản lý được
+
+01:02:06.240 --> 01:02:06.960
+Cái tâm lý của mình
+
+01:02:06.960 --> 01:02:08.560
+Là quan trọng nhất
+
+01:02:08.560 --> 01:02:09.940
+Trong cái nghề trader
+
+01:02:09.940 --> 01:02:11.400
+Trong cái việc chúng ta đầu tư
+
+01:02:11.400 --> 01:02:13.000
+Alan vẫn nói với anh em là gì
+
+01:02:13.000 --> 01:02:14.120
+Chúng ta phải biết đủ
+
+01:02:14.120 --> 01:02:15.200
+Nghĩa là
+
+01:02:15.200 --> 01:02:15.780
+Chẳng hạn là đến
+
+01:02:15.780 --> 01:02:16.480
+Một cái vùng nào đấy
+
+01:02:16.480 --> 01:02:17.000
+Nó rủi ro
+
+01:02:17.000 --> 01:02:18.220
+Và chúng ta cảm thấy
+
+01:02:18.220 --> 01:02:18.840
+Chúng ta không yên tâm
+
+01:02:18.840 --> 01:02:20.120
+Dù cho thị trường
+
+01:02:20.120 --> 01:02:21.140
+Nó còn cái đà quan tính
+
+01:02:21.140 --> 01:02:21.900
+Thì nó tiếp tục nó lên
+
+01:02:21.900 --> 01:02:22.960
+Thế nhưng mà
+
+01:02:22.960 --> 01:02:24.420
+Nếu cái kháng cự đấy
+
+01:02:24.420 --> 01:02:25.500
+Nó là một kháng cự quan trọng
+
+01:02:25.500 --> 01:02:26.220
+Mà chúng ta cảm thấy
+
+01:02:26.220 --> 01:02:27.060
+Là cái tâm lý chúng ta
+
+01:02:27.060 --> 01:02:28.140
+Bắt đầu xuất hiện sự bồn trồn
+
+01:02:28.140 --> 01:02:29.340
+À bây giờ
+
+01:02:29.340 --> 01:02:31.040
+Nó lên đến cái vùng kháng cự 1D
+
+01:02:31.040 --> 01:02:31.900
+Rồi liệu nó có
+
+01:02:31.900 --> 01:02:32.900
+Liệu cái quan tính
+
+01:02:32.900 --> 01:02:33.720
+Nó có fail hết hay không
+
+01:02:33.720 --> 01:02:35.340
+Chúng ta phải làm như nào
+
+01:02:35.340 --> 01:02:35.960
+Phải làm như kia
+
+01:02:35.960 --> 01:02:36.720
+Thì đơn giản là gì
+
+01:02:36.720 --> 01:02:37.900
+Chúng ta chốt một nửa
+
+01:02:37.900 --> 01:02:38.480
+Cái lệnh ấy ra
+
+01:02:38.480 --> 01:02:39.540
+Làm sao
+
+01:02:39.540 --> 01:02:41.060
+Đút một nửa cái số lãi
+
+01:02:41.060 --> 01:02:42.060
+Về túi nhà mình đã
+
+01:02:42.060 --> 01:02:43.320
+Yên tâm chắc cú
+
+01:02:43.320 --> 01:02:44.460
+Là mình có tiền rồi đã
+
+01:02:44.460 --> 01:02:45.240
+Còn
+
+01:02:45.240 --> 01:02:46.760
+Một nửa còn lại
+
+01:02:46.760 --> 01:02:48.480
+Mình dịch SL hòa vốn
+
+01:02:48.480 --> 01:02:49.760
+Và gồng cho đến khi nào
+
+01:02:49.760 --> 01:02:51.560
+Nó hoàn thành hết quan tính đi thôi
+
+01:02:51.560 --> 01:02:52.480
+Lúc đó chúng ta chốt hết
+
+01:02:52.480 --> 01:02:53.460
+Đơn giản là như vậy
+
+01:02:53.460 --> 01:02:54.560
+Và khi chúng ta
+
+01:02:54.560 --> 01:02:56.120
+Giải toàn được cái vấn đề tâm lý
+
+01:02:56.120 --> 01:02:57.120
+Chúng ta biết đủ
+
+01:02:57.120 --> 01:02:59.420
+Thì chúng ta chơi nó cực kỳ thoải mái
+
+01:02:59.420 --> 01:03:00.840
+Chơi nó cực kỳ thoải mái
+
+01:03:00.840 --> 01:03:02.720
+Và mọi người cũng phải nhớ
+
+01:03:02.720 --> 01:03:04.300
+Cho được một cái yếu tố như này
+
+01:03:04.300 --> 01:03:05.720
+Là kháng cự hỗ trợ
+
+01:03:05.720 --> 01:03:06.380
+Thì rõ ràng
+
+01:03:06.380 --> 01:03:07.600
+Nó là một cái thứ
+
+01:03:07.600 --> 01:03:08.660
+Có thể cản lại giá
+
+01:03:08.660 --> 01:03:09.520
+Nhưng
+
+01:03:09.520 --> 01:03:10.760
+Kháng cự hỗ trợ
+
+01:03:10.760 --> 01:03:11.380
+Nó cũng không
+
+01:03:11.380 --> 01:03:12.300
+Không có nghĩa là
+
+01:03:12.300 --> 01:03:12.940
+Nó không thể phá
+
+01:03:12.940 --> 01:03:14.780
+Kháng cự hỗ trợ
+
+01:03:14.780 --> 01:03:15.420
+Không có nghĩa là
+
+01:03:15.420 --> 01:03:15.980
+Nó không thể phá
+
+01:03:15.980 --> 01:03:17.720
+Nên là nếu có sự đồng thuận này
+
+01:03:17.720 --> 01:03:18.580
+Có lực mua
+
+01:03:18.580 --> 01:03:19.400
+Quay trở lại thị trường này
+
+01:03:19.400 --> 01:03:19.960
+Chúng ta cứ bay
+
+01:03:19.960 --> 01:03:20.960
+Đó
+
+01:03:20.960 --> 01:03:26.100
+Thọ là vậy
+
+01:03:26.100 --> 01:03:26.720
+H4
+
+01:03:26.720 --> 01:03:27.460
+Một sóng
+
+01:03:27.460 --> 01:03:28.820
+Nó đi 5 ngày đến 1 tuần
+
+01:03:28.820 --> 01:03:29.840
+Nên H4 1D
+
+01:03:29.840 --> 01:03:31.020
+Thì mình chơi X trên
+
+01:03:31.020 --> 01:03:31.440
+Hả thầy
+
+01:03:31.440 --> 01:03:33.240
+Em chơi X trên cũng được
+
+01:03:33.240 --> 01:03:34.380
+Mà em chơi
+
+01:03:34.380 --> 01:03:35.420
+Future cũng được
+
+01:03:35.420 --> 01:03:36.080
+Nói chung là
+
+01:03:36.080 --> 01:03:37.320
+Lợi future dưới 1 tuần
+
+01:03:37.320 --> 01:03:37.760
+Vẫn ok
+
+01:03:37.760 --> 01:03:38.720
+Đó
+
+01:03:39.520 --> 01:03:43.320
+Dạy sao mua vùng đấy
+
+01:03:43.320 --> 01:03:44.400
+Vậy thành vùng đấy là vùng nào
+
+01:03:44.400 --> 01:03:49.580
+Mình mở bước
+
+01:03:49.580 --> 01:03:50.580
+Anh có nói đến đoạn nhiễu
+
+01:03:50.580 --> 01:03:51.020
+Về RSI
+
+01:03:51.020 --> 01:03:52.500
+Ví dụ những cái đoạn như này
+
+01:03:52.500 --> 01:03:53.500
+Nó là những cái đoạn nhiễu này
+
+01:03:53.500 --> 01:03:54.200
+Bởi vì
+
+01:03:54.200 --> 01:03:55.260
+Em phải hiểu này
+
+01:03:55.260 --> 01:03:56.820
+Ví dụ những cái đoạn
+
+01:03:56.820 --> 01:03:57.560
+Mà như thế này
+
+01:03:57.560 --> 01:03:58.480
+Chẳng hạn là
+
+01:03:58.480 --> 01:03:59.240
+Những cái giai đoạn này
+
+01:03:59.240 --> 01:04:00.240
+Em thấy kể cả thằng
+
+01:04:00.240 --> 01:04:01.040
+Cùng thời gian H4
+
+01:04:01.040 --> 01:04:02.940
+Là thằng nó cũng khá to rồi
+
+01:04:02.940 --> 01:04:03.980
+Thế nhưng mà em thấy
+
+01:04:03.980 --> 01:04:05.640
+RSI nó đi
+
+01:04:05.640 --> 01:04:06.760
+Ở trong một cái biên độ
+
+01:04:06.760 --> 01:04:08.120
+40-60
+
+01:04:08.120 --> 01:04:08.780
+Nó cứ cắt lên
+
+01:04:08.780 --> 01:04:09.400
+Cắt xuống như này
+
+01:04:09.400 --> 01:04:10.240
+Thì đây là cái vùng
+
+01:04:10.240 --> 01:04:10.900
+Nhiễu
+
+01:04:10.900 --> 01:04:11.880
+Và đây là cái vùng giá
+
+01:04:11.880 --> 01:04:13.180
+Sideways của cái khung thời gian này
+
+01:04:13.180 --> 01:04:14.660
+Bởi vì khi đó làm sao
+
+01:04:14.660 --> 01:04:16.320
+Các cái khung thời gian nhỏ này
+
+01:04:16.320 --> 01:04:17.540
+Thì mỗi khung thời gian nhỏ
+
+01:04:17.540 --> 01:04:18.240
+Chúng ta đại diện cho
+
+01:04:18.240 --> 01:04:19.240
+Một nhóm nhà đầu tư khác nhau
+
+01:04:19.240 --> 01:04:19.500
+Đúng không
+
+01:04:19.500 --> 01:04:21.180
+Mỗi khung thời gian
+
+01:04:21.180 --> 01:04:22.080
+Nó đại diện cho
+
+01:04:22.080 --> 01:04:23.140
+Một nhóm nhà đầu tư khác nhau
+
+01:04:23.140 --> 01:04:24.880
+Và khi các cái khung nhỏ
+
+01:04:24.880 --> 01:04:26.600
+Nó đã đi hết cái
+
+01:04:26.600 --> 01:04:27.940
+Xu hướng của nó rồi
+
+01:04:27.940 --> 01:04:29.320
+Nó đi hết cái sóng của nó rồi
+
+01:04:29.320 --> 01:04:30.760
+Nó hoàn thành hết quan tính của nó rồi
+
+01:04:30.760 --> 01:04:31.500
+Thì bắt đầu
+
+01:04:31.500 --> 01:04:32.920
+Nó sinh ra cái hiện tượng là
+
+01:04:32.920 --> 01:04:34.120
+Nó sideways
+
+01:04:34.120 --> 01:04:35.700
+Để nó nhường sự quyết định
+
+01:04:39.400 --> 01:04:39.960
+Đây
+
+01:04:39.960 --> 01:04:42.120
+Trực quan chúng ta sẽ nhìn vào cái
+
+01:04:42.120 --> 01:04:43.480
+Cái lệnh ngày hôm qua của chúng ta
+
+01:04:43.480 --> 01:04:45.760
+Trực quan chúng ta sẽ nhìn vào cái điểm này
+
+01:04:45.760 --> 01:04:47.320
+Anh em sẽ thấy một cái
+
+01:04:47.320 --> 01:04:47.820
+Cái
+
+01:04:47.820 --> 01:04:49.560
+Cái
+
+01:04:49.560 --> 01:04:50.620
+Cái minh chứng rất là rõ
+
+01:04:50.620 --> 01:04:51.260
+Cho cái đoạn đó
+
+01:04:51.260 --> 01:04:52.480
+Chúng ta sẽ bật
+
+01:04:52.480 --> 01:04:54.160
+Cái khung thời gian từ nhỏ lên
+
+01:04:54.160 --> 01:04:54.920
+Mọi người sẽ thấy đây
+
+01:04:54.920 --> 01:04:57.200
+Giai đoạn đầu của xu hướng nhé
+
+01:04:57.200 --> 01:04:57.640
+Thì
+
+01:04:57.640 --> 01:04:58.600
+Các khung nhỏ
+
+01:04:58.600 --> 01:04:59.620
+Từ cái khung nhỏ nhất
+
+01:04:59.620 --> 01:05:00.540
+Thì thằng 1M, 3M
+
+01:05:00.540 --> 01:05:01.300
+Nó sẽ đẩy giá lên
+
+01:05:01.300 --> 01:05:02.420
+Thế nhưng mà bắt đầu
+
+01:05:02.420 --> 01:05:03.340
+Cái thằng này nó hoàn thành
+
+01:05:03.340 --> 01:05:04.240
+Xong cái sóng của nó rồi
+
+01:05:04.240 --> 01:05:05.860
+Nó sẽ bước vào cái giai đoạn sideways
+
+01:05:05.860 --> 01:05:07.620
+Để nó nhường sự quyết định cho thằng 5M
+
+01:05:07.620 --> 01:05:09.440
+5M hoàn thành sóng sóng
+
+01:05:09.440 --> 01:05:10.040
+Nó sẽ hoạt
+
+01:05:10.040 --> 01:05:11.220
+Nó sẽ bước vào giai đoạn sideways
+
+01:05:11.220 --> 01:05:12.780
+Nó nhường sự quyết định cho thằng 10M
+
+01:05:12.780 --> 01:05:13.600
+Cứ
+
+01:05:13.600 --> 01:05:14.020
+Xong
+
+01:05:14.020 --> 01:05:15.080
+Xong lại nhường cho những thằng lớn
+
+01:05:15.080 --> 01:05:16.860
+Và lần lượt hết như vậy
+
+01:05:16.860 --> 01:05:17.600
+15M
+
+01:05:17.600 --> 01:05:18.440
+Xong sóng
+
+01:05:18.440 --> 01:05:19.380
+Nó nhường cho thằng H1
+
+01:05:19.380 --> 01:05:20.900
+H1 xong sóng nhường cho thằng H4
+
+01:05:20.900 --> 01:05:22.700
+H4 xong sóng nhường cho thằng H12
+
+01:05:22.700 --> 01:05:24.120
+Và thằng 12
+
+01:05:24.120 --> 01:05:25.160
+Nó xong sóng của nó
+
+01:05:25.160 --> 01:05:26.360
+Nó đi vào dạng sideways
+
+01:05:26.360 --> 01:05:27.900
+Để nó nhường sự quyết định
+
+01:05:27.900 --> 01:05:28.940
+Cho những khung thời gian
+
+01:05:28.940 --> 01:05:30.480
+Lớn hơn
+
+01:05:30.480 --> 01:05:31.160
+Như những khung thời gian
+
+01:05:31.160 --> 01:05:31.700
+Như thế này
+
+01:05:31.700 --> 01:05:32.480
+Thì
+
+01:05:32.480 --> 01:05:34.160
+Chẳng hạn là thằng H
+
+01:05:34.160 --> 01:05:34.900
+Thằng 1M
+
+01:05:34.900 --> 01:05:35.360
+Nó sideways
+
+01:05:35.360 --> 01:05:36.260
+Thì ok
+
+01:05:36.260 --> 01:05:37.960
+Có khi là mấy chục cái nến 1M
+
+01:05:37.960 --> 01:05:39.360
+Thì nó cũng chỉ là
+
+01:05:39.360 --> 01:05:40.140
+Cùng lắm là
+
+01:05:40.140 --> 01:05:42.000
+30 phút 1 tiếng
+
+01:05:42.000 --> 01:05:43.480
+Thế nhưng mà mọi người tưởng tượng
+
+01:05:43.480 --> 01:05:44.080
+Cái câu chuyện là
+
+01:05:44.080 --> 01:05:44.720
+Khi mà thằng
+
+01:05:44.720 --> 01:05:46.160
+12M
+
+01:05:46.160 --> 01:05:47.400
+À thằng 12 giờ
+
+01:05:47.400 --> 01:05:48.560
+Mà nó sideways
+
+01:05:48.560 --> 01:05:50.020
+Thì nó sideways trong bao lâu
+
+01:05:50.020 --> 01:05:51.920
+Rõ ràng có khi phải cả tháng
+
+01:05:51.920 --> 01:05:52.980
+Thì đấy
+
+01:05:52.980 --> 01:05:53.900
+Là một người
+
+01:05:53.900 --> 01:05:54.860
+Lý do tại sao
+
+01:05:54.860 --> 01:05:55.520
+Mọi người thấy là có
+
+01:05:55.520 --> 01:05:56.180
+Giai đoạn đồ thị
+
+01:05:56.180 --> 01:05:57.700
+Nó đi sideways cả tháng trời
+
+01:05:57.700 --> 01:05:58.740
+Đó là khi
+
+01:05:58.740 --> 01:06:00.120
+Tất cả khung nhỏ này
+
+01:06:00.120 --> 01:06:01.500
+Từ những cái thằng này
+
+01:06:01.500 --> 01:06:01.680
+Đó là khi
+
+01:06:01.680 --> 01:06:02.880
+Nó ở giai đoạn sideways
+
+01:06:02.880 --> 01:06:03.900
+Và nó nhường sự quyết định
+
+01:06:03.900 --> 01:06:04.560
+Cho khung thời gian
+
+01:06:04.560 --> 01:06:06.100
+Lớn hơn
+
+01:06:06.100 --> 01:06:07.420
+Thì nó giống như là
+
+01:06:07.420 --> 01:06:08.160
+Cái đoạn vừa rồi này
+
+01:06:08.160 --> 01:06:09.720
+Giống như cái đoạn này này
+
+01:06:09.720 --> 01:06:11.200
+Giống như cái đoạn này
+
+01:06:11.200 --> 01:06:13.260
+Nó nhường sự quyết định
+
+01:06:13.260 --> 01:06:13.960
+Cho khung thời gian
+
+01:06:13.960 --> 01:06:15.360
+3D
+
+01:06:15.360 --> 01:06:16.980
+Bởi vì cái mô hình này này
+
+01:06:16.980 --> 01:06:18.220
+Bắt đầu cuộn lên này
+
+01:06:18.220 --> 01:06:19.120
+Cái giai đoạn này
+
+01:06:19.120 --> 01:06:20.300
+Rõ ràng với khung 3D
+
+01:06:20.300 --> 01:06:21.480
+Nó cũng là bình thường rồi
+
+01:06:21.480 --> 01:06:23.060
+Hay thậm chí với khung 1 tuần
+
+01:06:23.060 --> 01:06:24.840
+Với khung 1 tuần
+
+01:06:24.840 --> 01:06:25.480
+Rõ ràng đoạn này
+
+01:06:25.480 --> 01:06:26.300
+Nó chả là cái gì cả
+
+01:06:26.300 --> 01:06:27.100
+Thế nhưng mà
+
+01:06:27.100 --> 01:06:28.620
+Với những khung thời gian nhỏ này
+
+01:06:28.620 --> 01:06:29.540
+Anh em thấy
+
+01:06:29.540 --> 01:06:30.160
+Nó sideways
+
+01:06:30.160 --> 01:06:31.160
+Những cả 2 tháng trời
+
+01:06:31.160 --> 01:06:32.520
+Đó
+
+01:06:32.520 --> 01:06:33.500
+Thì đấy là khi mà
+
+01:06:33.500 --> 01:06:34.500
+Nó nhường sự quyết định
+
+01:06:34.500 --> 01:06:35.280
+Cho những nhà đầu tư
+
+01:06:35.280 --> 01:06:35.740
+Ở khung lớn
+
+01:06:35.740 --> 01:06:36.700
+Họ quyết định thị trường
+
+01:06:36.700 --> 01:06:38.120
+Và nó cứ
+
+01:06:38.120 --> 01:06:39.200
+Luân phiên như vậy
+
+01:06:39.200 --> 01:06:40.440
+Và khung lớn
+
+01:06:40.440 --> 01:06:41.680
+Khi bắt đầu nó quyết định xong
+
+01:06:41.680 --> 01:06:42.600
+Thì thằng nhỏ
+
+01:06:42.600 --> 01:06:43.260
+Nó lại đu theo
+
+01:06:43.260 --> 01:06:45.340
+Anh em phải tập trung
+
+01:06:45.340 --> 01:06:46.580
+Và xem lại cái đoạn này nhé
+
+01:06:46.580 --> 01:06:46.960
+Có nghĩa là
+
+01:06:46.960 --> 01:06:47.480
+Khi mà
+
+01:06:47.480 --> 01:06:48.920
+Khung nhỏ
+
+01:06:48.920 --> 01:06:50.000
+Nó đi hết sóng của nó
+
+01:06:50.000 --> 01:06:50.640
+Đoạn này
+
+01:06:50.640 --> 01:06:52.580
+Nó đi hết sóng khung nhỏ đoạn này
+
+01:06:52.580 --> 01:06:53.260
+Bắt đầu khung nhỏ
+
+01:06:53.260 --> 01:06:53.700
+Nó sideways
+
+01:06:53.700 --> 01:06:54.840
+Nó nhường sự quyết định
+
+01:06:54.840 --> 01:06:56.140
+Cho khung đoạn lớn
+
+01:06:56.140 --> 01:06:56.860
+Thế đến khi thằng
+
+01:06:56.860 --> 01:06:57.340
+Khung
+
+01:06:57.340 --> 01:06:58.660
+Thì khi đoạn này
+
+01:06:58.660 --> 01:06:59.360
+Là khung nhỏ sideways
+
+01:06:59.360 --> 01:07:00.300
+Thì khung lớn
+
+01:07:00.300 --> 01:07:01.060
+Nó bắt đầu quyết định
+
+01:07:01.060 --> 01:07:01.920
+Thị trường ra đoạn này là
+
+01:07:01.920 --> 01:07:03.220
+À ta quyết định là sẽ đi lên
+
+01:07:03.220 --> 01:07:04.160
+Thì bắt đầu
+
+01:07:04.160 --> 01:07:04.940
+Đoạn này đi lên
+
+01:07:04.940 --> 01:07:06.240
+Là nó sẽ kéo theo
+
+01:07:06.240 --> 01:07:07.080
+Thằng nhỏ đi theo
+
+01:07:07.080 --> 01:07:09.180
+Đó là 1 cái vòng
+
+01:07:09.180 --> 01:07:10.020
+Đó là 1 cái vòng
+
+01:07:10.020 --> 01:07:10.660
+Trong thị trường ấy
+
+01:07:10.660 --> 01:07:12.000
+Anh em phải hiểu được cái này nhé
+
+01:07:12.000 --> 01:07:13.400
+Anh em phải hiểu được cái này
+
+01:07:13.400 --> 01:07:14.560
+Thì mọi người phân tích sẽ rất là tốt
+
+01:07:14.560 --> 01:07:15.960
+Khung lớn đẩy lên
+
+01:07:15.960 --> 01:07:16.760
+Nó sẽ kéo theo thằng nhỏ
+
+01:07:16.760 --> 01:07:17.460
+Thằng nhỏ
+
+01:07:17.460 --> 01:07:18.780
+Thằng nhỏ lại đi hết đoạn này
+
+01:07:18.780 --> 01:07:20.580
+Thằng nhỏ lại đi hết đoạn này
+
+01:07:20.580 --> 01:07:21.220
+Bao giờ
+
+01:07:21.220 --> 01:07:22.180
+Thằng nhỏ nó
+
+01:07:22.180 --> 01:07:22.840
+sideways
+
+01:07:22.840 --> 01:07:24.320
+Thì nó lại mất 1 cái đoạn đâu đó
+
+01:07:24.320 --> 01:07:24.660
+Đoạn này
+
+01:07:24.660 --> 01:07:25.720
+Nó cho thằng lớn
+
+01:07:25.720 --> 01:07:26.440
+Nó quyết định thị trường
+
+01:07:26.440 --> 01:07:27.700
+Thằng lớn quyết định xong
+
+01:07:27.700 --> 01:07:28.460
+Lại đẩy thằng nhỏ tiếp
+
+01:07:28.460 --> 01:07:29.940
+Nó cứ là 1 cái vòng lặng như vậy
+
+01:07:29.940 --> 01:07:32.440
+Nó cứ vòng lặng cuốn chiếu như vậy
+
+01:07:32.440 --> 01:07:33.240
+Đây
+
+01:07:33.240 --> 01:07:33.900
+Thì chúng ta sẽ
+
+01:07:33.900 --> 01:07:34.760
+Quay trở lại
+
+01:07:34.760 --> 01:07:35.960
+Cái đoạn ngày hôm qua
+
+01:07:35.960 --> 01:07:37.060
+Mọi người sẽ thấy rất rõ
+
+01:07:37.060 --> 01:07:37.740
+Cái điều đấy
+
+01:07:37.740 --> 01:07:38.920
+Ở bất kỳ không thời gian này
+
+01:07:38.920 --> 01:07:40.480
+Bất kỳ không thời gian này
+
+01:07:40.480 --> 01:07:41.900
+Đây chúng ta sẽ nhìn như thế này
+
+01:07:41.900 --> 01:07:44.200
+Chúng ta sẽ nhìn ở đây
+
+01:07:44.200 --> 01:07:46.960
+Này bắt đầu 15 mời chạy nha
+
+01:07:46.960 --> 01:07:47.320
+Cái đoạn
+
+01:07:47.320 --> 01:07:47.940
+Đây
+
+01:07:47.940 --> 01:07:50.180
+Đây là cái đoạn ngày hôm qua
+
+01:07:50.180 --> 01:07:50.640
+Nên vòng lặng
+
+01:07:50.640 --> 01:07:51.860
+Thì bắt đầu mọi người quan sát nè
+
+01:07:51.860 --> 01:07:53.420
+Mọi người quan sát nha
+
+01:07:53.420 --> 01:07:58.240
+À không không phải đoạn này
+
+01:07:58.240 --> 01:07:59.780
+Đoạn sau đoạn sau đoạn sau
+
+01:07:59.780 --> 01:08:04.720
+Đây từ từ
+
+01:08:04.720 --> 01:08:05.420
+Đây nha
+
+01:08:05.420 --> 01:08:06.420
+Bắt đầu nó đẩy lên này
+
+01:08:06.420 --> 01:08:07.880
+Bắt đầu đẩy lên là
+
+01:08:07.880 --> 01:08:08.360
+Cái đoạn này
+
+01:08:08.360 --> 01:08:09.920
+Cứ coi như tụi ta nhìn cũng nhỏ đấy nhé
+
+01:08:09.920 --> 01:08:10.600
+Thì đoạn này
+
+01:08:10.600 --> 01:08:11.200
+Là
+
+01:08:11.200 --> 01:08:13.200
+Ở cả cái đoạn này này
+
+01:08:13.200 --> 01:08:14.060
+Chúng ta phân tích
+
+01:08:14.060 --> 01:08:15.700
+Ở từng cái khoảng
+
+01:08:15.700 --> 01:08:17.020
+Time frame khác nhau nhé
+
+01:08:17.020 --> 01:08:18.260
+Ở đây đang phân tích
+
+01:08:18.260 --> 01:08:19.260
+Từ thằng 1M
+
+01:08:19.260 --> 01:08:20.120
+Đến thằng H1 chẳng hạn
+
+01:08:20.120 --> 01:08:21.560
+Thì cả cái đoạn này
+
+01:08:21.560 --> 01:08:23.660
+Hay là cái đoạn này
+
+01:08:23.660 --> 01:08:25.240
+Nó là cái đoạn sideways
+
+01:08:25.240 --> 01:08:27.060
+Của tất cả những thằng dưới H1
+
+01:08:27.060 --> 01:08:28.780
+Cả cái đoạn này
+
+01:08:28.780 --> 01:08:29.760
+Nó là cái đoạn sideways
+
+01:08:29.760 --> 01:08:31.120
+Của tất cả những thằng dưới H1
+
+01:08:31.120 --> 01:08:31.880
+Để
+
+01:08:31.880 --> 01:08:33.340
+Nó chờ sự quyết định
+
+01:08:33.340 --> 01:08:35.820
+Của thằng H1 ở đây
+
+01:08:35.820 --> 01:08:37.840
+À thằng H1 quyết định lên
+
+01:08:37.840 --> 01:08:39.160
+Thì khi thằng H1 lên
+
+01:08:39.160 --> 01:08:40.060
+Thì bắt đầu
+
+01:08:40.060 --> 01:08:40.960
+Những thằng nhỏ này nó theo
+
+01:08:40.960 --> 01:08:41.880
+Đầu tiên
+
+01:08:41.880 --> 01:08:43.060
+Nhìn thằng 1M
+
+01:08:43.060 --> 01:08:43.840
+Thì
+
+01:08:44.060 --> 01:08:46.220
+Thì đoạn này bắt đầu nó lên đúng không
+
+01:08:46.220 --> 01:08:47.080
+Thì là gì
+
+01:08:47.080 --> 01:08:48.760
+Thằng 1M nó có quan tính tăng
+
+01:08:48.760 --> 01:08:50.480
+Thì là bắt đầu nó chạy xu hướng
+
+01:08:50.480 --> 01:08:51.120
+Của thằng 1M
+
+01:08:51.120 --> 01:08:52.900
+Thì 1M nó chạy này
+
+01:08:52.900 --> 01:08:56.880
+Hoàn thành quan tính rồi nhé
+
+01:08:56.880 --> 01:08:58.040
+Hoàn thành quan tính rồi nhé
+
+01:08:59.620 --> 01:09:00.400
+Thì bắt đầu là gì
+
+01:09:00.400 --> 01:09:01.700
+Khi mà cái khung này
+
+01:09:01.700 --> 01:09:02.580
+Nó đã mất quan tính rồi
+
+01:09:02.580 --> 01:09:04.560
+Thì chúng ta sẽ không thể nhìn
+
+01:09:04.560 --> 01:09:05.360
+Với cái khung thời gian đó
+
+01:09:05.360 --> 01:09:06.240
+Để đoán là thị trường nó
+
+01:09:06.240 --> 01:09:07.280
+Đi lên hay đi xuống nữa
+
+01:09:07.280 --> 01:09:10.240
+Đây là thêm một nhịp nữa này
+
+01:09:10.240 --> 01:09:13.140
+Thì bắt đầu
+
+01:09:13.140 --> 01:09:13.920
+Lát nữa mọi người
+
+01:09:13.920 --> 01:09:14.040
+Sẽ thấy
+
+01:09:14.040 --> 01:09:14.860
+Mọi người sẽ thấy là khung 1M
+
+01:09:14.860 --> 01:09:15.760
+Nó sẽ rơi vào dạng xe hồi
+
+01:09:15.760 --> 01:09:20.040
+Tụt tụt tụt tụt
+
+01:09:20.040 --> 01:09:27.180
+Cái nhịp này là nhịp liên tục
+
+01:09:27.180 --> 01:09:28.520
+Của thằng 3M rồi
+
+01:09:28.520 --> 01:09:29.720
+Đoạn này thằng của thằng 3M
+
+01:09:29.720 --> 01:09:31.760
+Thằng 3M nó kéo lên rồi
+
+01:09:31.760 --> 01:09:33.960
+Đoạn này của thằng 3M nó kéo lên rồi
+
+01:09:33.960 --> 01:09:34.880
+Thì mọi người thấy này
+
+01:09:34.880 --> 01:09:37.060
+Khi mà kể cả từ những khung nhỏ này
+
+01:09:37.060 --> 01:09:38.980
+Bắt đầu nó hoàn thành xong cái đài của nó
+
+01:09:38.980 --> 01:09:40.320
+À tao xong nhiệm vụ rồi
+
+01:09:40.320 --> 01:09:41.560
+Tao xong nhiệm vụ rồi
+
+01:09:41.560 --> 01:09:42.360
+Bắt đầu nó điều chỉnh
+
+01:09:42.360 --> 01:09:42.940
+Của những khung nhỏ
+
+01:09:42.940 --> 01:09:43.900
+Thế đấy là cái nhịp này
+
+01:09:43.900 --> 01:09:44.520
+Cái nhịp điều chỉnh
+
+01:09:44.520 --> 01:09:45.760
+Tụt của những khung nhỏ này
+
+01:09:45.760 --> 01:09:46.760
+Nó cũng là nhịp điều chỉnh
+
+01:09:46.760 --> 01:09:47.460
+Ở giai đoạn 2
+
+01:09:47.460 --> 01:09:48.860
+Của những khung thời gian lớn hơn nó
+
+01:09:48.860 --> 01:09:50.320
+Là cái giai đoạn 2
+
+01:09:50.320 --> 01:09:51.160
+Khung thời gian lớn hơn nó
+
+01:09:51.160 --> 01:09:52.620
+Thì đấy mọi người thấy này
+
+01:09:52.620 --> 01:09:54.080
+Nó không hề có sự tham gia
+
+01:09:54.080 --> 01:09:54.680
+Của lực bán
+
+01:09:54.680 --> 01:09:55.880
+Từ những khung thời gian nhỏ nhất
+
+01:09:55.880 --> 01:09:57.460
+Như thằng 1M chẳng hạn
+
+01:09:57.460 --> 01:09:59.460
+Nó tụt đến vùng 40
+
+01:09:59.460 --> 01:10:00.780
+Là nó không tụt được nữa
+
+01:10:00.780 --> 01:10:01.340
+Nó phải lên rồi
+
+01:10:01.340 --> 01:10:02.300
+Bởi vì
+
+01:10:02.300 --> 01:10:03.440
+Nó không hề có sự tham gia
+
+01:10:03.440 --> 01:10:03.940
+Của lực bán
+
+01:10:03.940 --> 01:10:05.780
+Bởi vì tụt trong dưới vùng này
+
+01:10:05.780 --> 01:10:06.760
+Bắt đầu là có sự tham gia
+
+01:10:06.760 --> 01:10:07.360
+Của lực bán cơ
+
+01:10:07.360 --> 01:10:08.680
+Thế nên bắt đầu là
+
+01:10:08.680 --> 01:10:10.100
+Đây là cái nhịp của
+
+01:10:10.100 --> 01:10:11.360
+Những thằng này nó lên
+
+01:10:11.360 --> 01:10:12.740
+Thì nó cứ cuốn chiếu như vậy
+
+01:10:12.740 --> 01:10:13.520
+Trong một xu hướng mạnh
+
+01:10:13.520 --> 01:10:14.540
+Nó cứ sẽ cuốn chiếu như vậy
+
+01:10:14.540 --> 01:10:16.220
+Đây 1M nó hình thành
+
+01:10:16.220 --> 01:10:16.980
+Những con tinh tăng này
+
+01:10:16.980 --> 01:10:18.580
+Nhưng mà sẽ đến một lúc
+
+01:10:18.580 --> 01:10:19.400
+Mọi người sẽ thấy là
+
+01:10:19.400 --> 01:10:21.620
+Thằng 1M nó sẽ đi vào sideways
+
+01:10:21.620 --> 01:10:30.340
+Đây đây đây
+
+01:10:30.340 --> 01:10:32.100
+Anh em thấy chưa
+
+01:10:32.100 --> 01:10:33.720
+Nó thấy thấy thấy
+
+01:10:33.720 --> 01:10:34.940
+Nó lòng hoàng ở cái đoạn giữa này chưa
+
+01:10:36.760 --> 01:10:38.980
+Đấy nó không có một xu hướng gì cả
+
+01:10:38.980 --> 01:10:39.520
+Đấy
+
+01:10:39.520 --> 01:10:40.860
+Anh em sẽ thấy đây này
+
+01:10:40.860 --> 01:10:41.920
+Có nghĩa là
+
+01:10:41.920 --> 01:10:43.320
+Nó đi xong cái nhiệm vụ của nó rồi
+
+01:10:43.320 --> 01:10:44.060
+Đoạn này thì không
+
+01:10:44.060 --> 01:10:45.620
+Đoạn này nó không phải đoạn lên của 1M
+
+01:10:45.620 --> 01:10:46.540
+Đoạn này nó đoạn lên
+
+01:10:46.540 --> 01:10:47.220
+Cái giai đoạn 2
+
+01:10:47.220 --> 01:10:48.280
+Của thằng 3M
+
+01:10:48.280 --> 01:10:48.780
+Thằng 5M
+
+01:10:48.780 --> 01:10:50.300
+Thì đây đoạn này bắt đầu là
+
+01:10:50.300 --> 01:10:51.820
+Thằng 1M nó đi vào cái biên độ này chưa
+
+01:10:51.820 --> 01:10:53.540
+Có nghĩa là
+
+01:10:53.540 --> 01:10:53.840
+À
+
+01:10:53.840 --> 01:10:54.960
+Những thằng đang
+
+01:10:54.960 --> 01:10:55.840
+Những thằng trader
+
+01:10:55.840 --> 01:10:56.900
+Ở khung thời gian 1M
+
+01:10:56.900 --> 01:10:57.780
+Nó bảo là
+
+01:10:57.780 --> 01:10:59.560
+À tao chơi xong mục tiêu của tao rồi
+
+01:10:59.560 --> 01:11:00.900
+Tao chơi xong xu hướng
+
+01:11:00.900 --> 01:11:02.040
+Của cái khung thời gian của tao rồi
+
+01:11:02.040 --> 01:11:03.140
+Bây giờ nhường những thằng 5M
+
+01:11:03.140 --> 01:11:04.440
+Thằng 15M quyết định thị trường đi
+
+01:11:04.440 --> 01:11:05.600
+Bây giờ đến lượt chúng mày chơi đi
+
+01:11:05.600 --> 01:11:07.300
+Hoặc là nó chờ sự quyết định
+
+01:11:07.300 --> 01:11:07.980
+Của thằng 5M
+
+01:11:07.980 --> 01:11:08.420
+15M
+
+01:11:08.420 --> 01:11:09.940
+Hoặc là nó nhảy sang khung
+
+01:11:09.940 --> 01:11:10.800
+5M
+
+01:11:10.800 --> 01:11:11.500
+15M nó chơi
+
+01:11:11.500 --> 01:11:12.380
+Thì đây
+
+01:11:12.380 --> 01:11:13.740
+Rõ ràng là đoạn này
+
+01:11:13.740 --> 01:11:15.720
+Khung 1M nó đi vào cái khung sideways đúng không
+
+01:11:15.720 --> 01:11:17.380
+Thế nhưng mà chúng ta nhìn xem là
+
+01:11:17.380 --> 01:11:19.040
+Bây giờ là thằng nào nó quyết định thị trường nhé
+
+01:11:19.760 --> 01:11:23.200
+Ủa
+
+01:11:23.200 --> 01:11:26.440
+Anh em có bị mất hình không
+
+01:11:32.040 --> 01:11:35.800
+Anh em bị mất hình à
+
+01:11:35.800 --> 01:11:39.920
+Ơ sao nhỉ
+
+01:11:39.920 --> 01:11:49.380
+À từ từ
+
+01:11:49.380 --> 01:11:50.980
+Anh em đợi 1 phút
+
+01:11:50.980 --> 01:11:51.940
+Đợi 1 chút nhé
+
+01:11:51.940 --> 01:11:56.740
+Cái
+
+01:11:56.740 --> 01:12:00.120
+Màn hình của anh em nó đang bị
+
+01:12:00.120 --> 01:12:01.220
+Restart
+
+01:12:02.040 --> 01:12:06.640
+Vẫn đang mất hình đúng không
+
+01:12:06.640 --> 01:12:24.000
+Rồi anh em thấy trở lại chưa
+
+01:12:24.000 --> 01:12:26.760
+Ok chưa
+
+01:12:26.760 --> 01:12:28.140
+Thấy tên trở lại chưa
+
+01:12:28.140 --> 01:12:30.420
+Ok
+
+01:12:30.420 --> 01:12:31.240
+Rồi rồi
+
+01:12:31.240 --> 01:12:32.020
+Mọi người không có mất hình
+
+01:12:32.020 --> 01:12:33.820
+Tập trung chúng ta nói tiếp nhé
+
+01:12:33.820 --> 01:12:37.460
+Thì cái 1M này
+
+01:12:37.460 --> 01:12:38.680
+Vừa rồi này
+
+01:12:38.680 --> 01:12:40.800
+Nó quay trở lại cái đoạn kia rồi
+
+01:13:02.020 --> 01:13:10.980
+Từ từ xem thằng H1 với anh em nhóm xem nào
+
+01:13:10.980 --> 01:13:13.800
+Nói nói chung là đoạn này
+
+01:13:13.800 --> 01:13:15.580
+Đoạn này chưa long chưa short thì đừng cãi nhé
+
+01:13:15.580 --> 01:13:16.360
+Anh em cũng cứ nhé
+
+01:13:16.360 --> 01:13:17.900
+Đoạn này chưa long chưa short kệ nó đi
+
+01:13:17.900 --> 01:13:19.180
+Cứ để cho nó chạy
+
+01:13:19.180 --> 01:13:20.460
+Khi mà cái khung nó loạn ấy
+
+01:13:20.460 --> 01:13:22.500
+Thì có nghĩa là đoàn tàu nó đang bơm nhiên liệu
+
+01:13:22.500 --> 01:13:24.300
+Đoàn tàu nó bơm nhiên liệu xong
+
+01:13:24.300 --> 01:13:25.820
+Nó đi tiếp hoặc nó đi xuống
+
+01:13:25.820 --> 01:13:26.860
+Thì lúc đấy chúng ta sẽ biết
+
+01:13:26.860 --> 01:13:28.140
+Không đoán
+
+01:13:28.140 --> 01:13:31.460
+Thì đoạn này quay trở lại nè
+
+01:13:31.460 --> 01:13:34.920
+Quay trở lại cái đoạn hôm qua nhé
+
+01:13:34.920 --> 01:13:36.720
+Để trực quan cho anh em nhé
+
+01:13:36.720 --> 01:13:39.260
+Hôm nay anh em nhóm cũ
+
+01:13:39.260 --> 01:13:41.460
+Được ôn lại bài hơi kỹ nhé
+
+01:13:41.460 --> 01:13:47.820
+Đây
+
+01:13:47.820 --> 01:13:50.340
+Quay trở lại cái đoạn H11M ngày hôm qua
+
+01:13:50.340 --> 01:13:55.640
+Cho nó chạy
+
+01:14:01.460 --> 01:14:05.300
+Thêm bắt đầu vào đoạn sideways của H11M
+
+01:14:05.300 --> 01:14:08.620
+Bây giờ là những ông H11M là xong mục tiêu này
+
+01:14:08.620 --> 01:14:11.440
+Những ông H11M là ông xong mục tiêu này
+
+01:14:11.440 --> 01:14:13.500
+Thôi tao không chơi nữa chúng mày chơi đi
+
+01:14:13.500 --> 01:14:14.780
+Mấy thằng lớn hơn chơi đi
+
+01:14:14.780 --> 01:14:16.300
+Đây cho nó xong rồi
+
+01:14:16.300 --> 01:14:19.380
+Xem là cái đoạn này là bắt đầu đến cái sự quyết định của thằng nào nhé
+
+01:14:19.380 --> 01:14:25.520
+Đoạn này nó bắt đầu rơi vào sự quyết định của thằng 3M mọi người thấy không
+
+01:14:25.520 --> 01:14:29.360
+Thằng 3M và thằng 5M
+
+01:14:29.360 --> 01:14:31.420
+Đấy thì bắt đầu thằng 3M nó lại
+
+01:14:31.460 --> 01:14:33.000
+Bắt đầu quyết định thị trường này
+
+01:14:33.000 --> 01:14:34.540
+Cuộn lên này
+
+01:14:34.540 --> 01:14:36.320
+Cái đoạn này
+
+01:14:36.320 --> 01:14:37.340
+Đoạn này nó fail này
+
+01:14:37.340 --> 01:14:39.660
+Thì bắt đầu là nó lại nhường sự quyết định cho thằng 5
+
+01:14:39.660 --> 01:14:40.680
+Đoạn này 5M
+
+01:14:40.680 --> 01:14:42.720
+Đoạn này 5M vẫn đảm bảo tính chất nhé
+
+01:14:42.720 --> 01:14:49.120
+Đấy 5M nó không kéo nó lên thị trường
+
+01:14:49.120 --> 01:14:50.660
+Thì nó bắt đầu lại rơi vào đoạn sideways
+
+01:14:50.660 --> 01:14:52.200
+Anh em thấy nó rơi vào đoạn sideways không
+
+01:14:52.200 --> 01:14:53.980
+Dùng vùng 40-60
+
+01:14:53.980 --> 01:14:56.300
+Thì đoạn này nó nhường sự quyết định cho thằng
+
+01:14:56.300 --> 01:14:58.340
+10M
+
+01:14:58.340 --> 01:14:59.880
+Anh em thấy cái mô hình này không
+
+01:14:59.880 --> 01:15:01.420
+Nó nhường sự quyết định cho thằng 10M
+
+01:15:01.460 --> 01:15:02.740
+Và thằng 15M
+
+01:15:02.740 --> 01:15:05.240
+10M, 15M thì nó gần như là 1
+
+01:15:05.240 --> 01:15:06.300
+Nó gần như là 1
+
+01:15:06.300 --> 01:15:09.640
+Thì đấy đơn giản thôi
+
+01:15:09.640 --> 01:15:11.240
+Có nghĩa là các khung thời gian
+
+01:15:11.240 --> 01:15:12.280
+Nó sẽ lần lượt
+
+01:15:12.280 --> 01:15:15.520
+Nó đi xong cái target của nó
+
+01:15:15.520 --> 01:15:17.480
+Nó đi xong cái đả giá của nó
+
+01:15:17.480 --> 01:15:19.200
+Và khi nó đi xong rồi
+
+01:15:19.200 --> 01:15:21.600
+Nó nghỉ ngơi và nó nhường sự quyết định
+
+01:15:21.600 --> 01:15:22.920
+Cho cái khung thời gian liền kẻ
+
+01:15:22.920 --> 01:15:25.260
+Và nếu những thằng liền kẻ nó cũng không quyết định
+
+01:15:25.260 --> 01:15:27.580
+Thị trường nữa, nó sẽ nhường cho những thằng lớn hơn
+
+01:15:27.580 --> 01:15:29.900
+Thì đấy nó là sự vận động của thị trường
+
+01:15:29.900 --> 01:15:31.360
+Và đấy nó là cái vòng lặp liên tục
+
+01:15:31.460 --> 01:15:31.840
+Thị trường
+
+01:15:31.840 --> 01:15:35.080
+Thì bây giờ cái giai đoạn mà thị trường nó đang đi
+
+01:15:35.080 --> 01:15:36.520
+Một cái xu hướng rất là mạnh như thế này
+
+01:15:36.520 --> 01:15:37.820
+Thì mọi người sẽ thấy là
+
+01:15:37.820 --> 01:15:40.620
+Các cái sự quyết định thị trường nó xảy ra liên tục
+
+01:15:40.620 --> 01:15:42.120
+Ở các khung thời gian nhỏ như thế này
+
+01:15:42.120 --> 01:15:44.340
+Nhưng đến khi những cái thằng này nó đi hết
+
+01:15:44.340 --> 01:15:47.700
+Thằng 1H, thằng 4H, thằng 12H
+
+01:15:47.700 --> 01:15:48.120
+Nó đi hết
+
+01:15:48.120 --> 01:15:49.920
+Khung 12H, khung 1D nó đi hết
+
+01:15:49.920 --> 01:15:52.420
+Thì lúc đấy nó lại rơi vào đoạn sideways của những khung
+
+01:15:52.420 --> 01:15:54.220
+12H, khung 1D
+
+01:15:54.220 --> 01:15:57.360
+Thì khi đó mọi người sẽ lại chứng kiến một giai đoạn thị trường là
+
+01:15:57.360 --> 01:16:00.160
+À có thể là cả tháng trời mình không vào được lợi nhạc
+
+01:16:00.160 --> 01:16:02.000
+Bởi vì những khung dưới này nó sideways hết rồi
+
+01:16:02.000 --> 01:16:03.760
+Ví dụ khung H1 nó sideways
+
+01:16:03.760 --> 01:16:05.900
+Có thể là chúng ta chỉ mất 1-2 ngày để chờ đợi
+
+01:16:05.900 --> 01:16:06.580
+Có một cái lệnh thôi
+
+01:16:06.580 --> 01:16:09.480
+Khung H4 nó sideways, có thể phải mất 4-5 ngày
+
+01:16:09.480 --> 01:16:10.920
+Để chúng ta có một điểm vào lệnh
+
+01:16:10.920 --> 01:16:14.080
+Nhưng đến khung 1D nó sideway, có thể là mất cả tháng trời
+
+01:16:14.080 --> 01:16:15.200
+Để chúng ta có điểm vào lệnh
+
+01:16:15.200 --> 01:16:16.940
+Thì đấy khi mọi người hiểu được cái việc đấy
+
+01:16:16.940 --> 01:16:19.240
+Thì chúng ta sẽ có một cái tâm lý rất là vững
+
+01:16:19.240 --> 01:16:20.940
+Có tâm lý rất là vững
+
+01:16:20.940 --> 01:16:23.680
+Rồi xem anh em còn cái câu hỏi gì nữa không nào
+
+01:16:23.680 --> 01:16:27.740
+Đoạn nhiễu
+
+01:16:27.740 --> 01:16:29.740
+Không ai sideway vô nhỏ được nhiều lần như thế nào
+
+01:16:29.740 --> 01:16:30.140
+Đó
+
+01:16:30.140 --> 01:16:36.000
+Đây này, có nghĩa là cái giai đoạn này này
+
+01:16:36.000 --> 01:16:37.040
+Cái giai đoạn mà
+
+01:16:37.040 --> 01:16:38.060
+Minh hỏi là với
+
+01:16:38.060 --> 01:16:41.000
+Chơi volume nhỏ để nhử là như thế nào
+
+01:16:41.000 --> 01:16:42.100
+Có nghĩa là cái đoạn này
+
+01:16:42.100 --> 01:16:45.600
+Cái đoạn này là những cái đoạn mà thị trường
+
+01:16:45.600 --> 01:16:46.720
+Nó sideway, không gian lớn
+
+01:16:46.720 --> 01:16:49.740
+Kể cả khung 1D và khung 12H
+
+01:16:49.740 --> 01:16:51.980
+Em nhìn cái RID nó không có một cái xu hướng gì
+
+01:16:51.980 --> 01:16:52.580
+Ở cái giai đoạn này
+
+01:16:52.580 --> 01:16:55.420
+Đây thằng 12H, cái RID của nó còn
+
+01:16:55.420 --> 01:16:57.780
+Cắm lên cắm xuống ở cái đoạn 50 như thế này
+
+01:16:57.780 --> 01:16:58.840
+Thì đây là cái giai đoạn mà
+
+01:16:58.840 --> 01:16:59.800
+Nó không có xu hướng
+
+01:16:59.800 --> 01:17:00.120
+Thị trường
+
+01:17:00.120 --> 01:17:02.040
+Khi mà thằng lớn nó không
+
+01:17:02.040 --> 01:17:03.660
+Có nghĩa là thằng lớn, thằng đội trưởng
+
+01:17:03.660 --> 01:17:06.460
+Thằng đội trưởng nó không phất cờ là chúng mày lên hay xuống
+
+01:17:06.460 --> 01:17:07.860
+Thì những thằng nhỏ nó vẫn là
+
+01:17:07.860 --> 01:17:10.260
+Nó nín thở, nó đợi lệnh của thằng đội trưởng
+
+01:17:10.260 --> 01:17:12.900
+Hoặc là nó chỉ ở trong một cái biên đội nhỏ của nó thôi
+
+01:17:12.900 --> 01:17:14.700
+Trong một biên đội nhỏ nó thôi
+
+01:17:14.700 --> 01:17:16.140
+Thì cái đoạn này, cái đoạn sideway không lớn
+
+01:17:16.140 --> 01:17:18.300
+Thì lúc đó mình sẽ chờ một cái sự quyết định rõ ràng
+
+01:17:18.300 --> 01:17:19.900
+Của thị trường để mình tham gia vào
+
+01:17:19.900 --> 01:17:22.000
+Thì đoạn này, cái chiến thuật anh vẫn nói là gì
+
+01:17:22.000 --> 01:17:23.740
+Một là đánh volume nhỏ để nhử
+
+01:17:23.740 --> 01:17:24.680
+Để tìm xu hướng
+
+01:17:24.680 --> 01:17:27.120
+Hai là đứng ngoài cho đến khi xu hướng rõ ràng
+
+01:17:27.120 --> 01:17:29.520
+Đấy, chứ bình thường
+
+01:17:29.520 --> 01:17:31.540
+Mọi người thấy này, chơi ở những
+
+01:17:31.540 --> 01:17:33.940
+Giai đoạn có xu hướng, chơi nó rất là dễ
+
+01:17:33.940 --> 01:17:36.100
+Đơn giản là gì, mình tìm cái sự đồng thuận
+
+01:17:36.100 --> 01:17:38.020
+Khung nhỏ, nó hết
+
+01:17:38.020 --> 01:17:39.640
+Cái đà, nó ở giai đoạn
+
+01:17:39.640 --> 01:17:41.800
+Bơm nhiên liệu, thì nó đồng thuận lên
+
+01:17:41.800 --> 01:17:43.500
+Mình lại vào, chơi rất là dễ
+
+01:17:43.500 --> 01:17:45.360
+Giai đoạn này, anh em nhóm cũ trải nghiệm thì sẽ thấy
+
+01:17:45.360 --> 01:17:47.460
+Thế nhưng mà đa phần mọi người lỗ
+
+01:17:47.460 --> 01:17:49.420
+Mọi người bị cái tâm lý tiêu cực
+
+01:17:49.420 --> 01:17:51.420
+Và cháy tài khoản là ở những cái giai đoạn như thế này
+
+01:17:51.420 --> 01:17:53.340
+Bởi vì sóng nó giật lên, giật xuống
+
+01:17:53.340 --> 01:17:55.000
+Nó không có sự quyết định xu hướng
+
+01:17:55.000 --> 01:17:57.360
+Thì khi đó, bắt đầu mình vào mình giao dịch
+
+01:17:57.360 --> 01:17:59.340
+Rõ ràng là, mình cảm thấy như là
+
+01:17:59.340 --> 01:18:01.100
+Hình như cái hệ thống giao dịch của mình
+
+01:18:01.100 --> 01:18:02.940
+Hình như là cái công cụ của mình nó bị sai rồi ấy
+
+01:18:02.940 --> 01:18:04.940
+Nó không còn hiệu quả rồi ấy
+
+01:18:04.940 --> 01:18:06.560
+Hay là cá mập nó phát hiện ra cái
+
+01:18:06.560 --> 01:18:09.000
+Hiệu quả của cái công cụ của mình là bây giờ
+
+01:18:09.000 --> 01:18:11.500
+Nó fix đồ thị, nó không cho
+
+01:18:11.500 --> 01:18:13.260
+Mình kiếm ăn nữa, không phải như vậy
+
+01:18:13.260 --> 01:18:15.360
+Bởi vì cái giai đoạn này, công cụ nào
+
+01:18:15.360 --> 01:18:16.740
+Cũng sẽ sai, bởi vì
+
+01:18:16.740 --> 01:18:19.000
+Nó không tìm được sự tranh lệch, chữ lực mua, lực bán
+
+01:18:19.000 --> 01:18:21.100
+Ở đó, đây cái đoạn đấy nó ở vùng 50
+
+01:18:21.100 --> 01:18:23.140
+Chứng tỏ là gì, thằng mua và thằng bán
+
+01:18:23.140 --> 01:18:24.140
+Số lượng nó đang bằng nhau
+
+01:18:24.140 --> 01:18:27.340
+Và khi đó, đơn giản là gì
+
+01:18:27.340 --> 01:18:28.680
+Mình phải đứng ngoài chờ đợi
+
+01:18:28.680 --> 01:18:31.260
+Cho đến khi, có một thằng nào đấy phất cờ đi lên
+
+01:18:31.260 --> 01:18:33.160
+Thì lúc đó, mình mới đi theo
+
+01:18:33.160 --> 01:18:34.520
+Cái thằng đó, đơn giản là gì
+
+01:18:34.520 --> 01:18:36.220
+Mình đừng có đoán, mình follow thị trường thôi
+
+01:18:36.220 --> 01:18:38.360
+Hoặc là, mình xác định được là
+
+01:18:38.360 --> 01:18:40.120
+Cái kịch bản nào nó có tỷ lệ
+
+01:18:40.120 --> 01:18:42.260
+Xảy ra cao hơn, thì khi đó
+
+01:18:42.260 --> 01:18:44.780
+Mình chủ động hơn trong cái việc
+
+01:18:44.780 --> 01:18:46.360
+Follow kịch bản đấy
+
+01:18:46.360 --> 01:19:01.620
+Nếu khung lớn nhất
+
+01:19:01.620 --> 01:19:03.180
+Có quán tính là 15M
+
+01:19:03.180 --> 01:19:04.740
+Thì em chỉ được chơi theo
+
+01:19:04.740 --> 01:19:06.860
+Khung sát nhất 15M là 30M
+
+01:19:06.860 --> 01:19:08.920
+Không phải Hiển ơi, có nghĩa là
+
+01:19:08.920 --> 01:19:10.700
+Em vào lệnh ở một khung thời gian
+
+01:19:10.700 --> 01:19:12.980
+Thì khi mà cái khung đó nó chạy sóng
+
+01:19:12.980 --> 01:19:14.620
+Thì bắt đầu các khung nhỏ nó mới xuất hiện
+
+01:19:14.620 --> 01:19:16.260
+Quán tính chứ, đúng không
+
+01:19:16.260 --> 01:19:18.420
+Thì các khung nhỏ nó mới xuất hiện quán tính
+
+01:19:18.420 --> 01:19:20.300
+Ví dụ, chẳng hạn là cái lệnh ngày hôm qua
+
+01:19:20.300 --> 01:19:22.500
+Rõ ràng là cái đoạn này là anh vào theo H1
+
+01:19:22.500 --> 01:19:24.620
+Thì phải thằng H1 này bắt đầu nó chạy
+
+01:19:24.620 --> 01:19:26.180
+Thì nó mới xuất hiện quán tính những thằng nhỏ đấy chứ
+
+01:19:26.180 --> 01:19:28.080
+Có nghĩa là cái việc em xác định
+
+01:19:28.080 --> 01:19:29.920
+Cái khung thời gian vào lệnh là cái điều đầu tiên
+
+01:19:29.920 --> 01:19:32.480
+Và sau đó, quản lý lệnh là em mới
+
+01:19:32.480 --> 01:19:33.840
+Quản lý theo những cái thằng nhỏ hơn
+
+01:19:33.840 --> 01:19:36.140
+Chứ, ví dụ nhá, đây
+
+01:19:36.140 --> 01:19:38.660
+Chẳng hạn là anh lấy ví dụ, có thể là
+
+01:19:38.660 --> 01:19:40.560
+Em vào lệnh theo khung thời gian là
+
+01:19:40.560 --> 01:19:41.420
+Khung H1
+
+01:19:41.420 --> 01:19:44.100
+Anh ấy ví dụ có thể là em vừa lệnh
+
+01:19:44.100 --> 01:19:45.400
+Theo khung thời gian H1 chẳng hạn
+
+01:19:45.400 --> 01:19:47.500
+Thế nhưng mà lúc đó, ví dụ thằng H4
+
+01:19:47.500 --> 01:19:49.100
+Ở trên lớn hơn nó
+
+01:19:49.100 --> 01:19:51.060
+Nó cũng có quán tính tăng
+
+01:19:51.060 --> 01:19:53.860
+Thì em không thể nào em vào theo thằng H1
+
+01:19:53.860 --> 01:19:56.600
+Và em lại quản lý lệnh
+
+01:19:56.600 --> 01:19:57.400
+Theo thằng H4 được
+
+01:19:57.400 --> 01:19:59.520
+Bởi vì trong cái sóng, ví dụ
+
+01:19:59.520 --> 01:20:01.160
+Cái sóng này là sóng của thằng H4
+
+01:20:01.160 --> 01:20:03.180
+Cái sóng này là sóng của thằng H4
+
+01:20:03.180 --> 01:20:05.200
+Và sóng H1 của em là sóng ở trong nó
+
+01:20:05.200 --> 01:20:07.020
+Thì ví dụ em
+
+01:20:07.020 --> 01:20:09.220
+Vào cái lệnh
+
+01:20:09.220 --> 01:20:10.320
+Theo thằng H1 ở đây
+
+01:20:10.320 --> 01:20:13.180
+Thì hoàn toàn trong cái sóng điều chỉnh của H4
+
+01:20:13.180 --> 01:20:15.280
+Nó có thể giật tung cái SL của em
+
+01:20:15.280 --> 01:20:17.040
+Ở thằng H1, và sau đó nó mới chạy sóng
+
+01:20:17.040 --> 01:20:18.840
+Vào thằng H4, thì đấy là cái
+
+01:20:18.840 --> 01:20:21.200
+Mà mình, khi mà mình
+
+01:20:21.200 --> 01:20:22.900
+Vào theo khung nào, chẳng hạn H1 chẳng hạn
+
+01:20:22.900 --> 01:20:25.260
+Thì khi mình quản lý cái lệnh H1 đấy của mình
+
+01:20:25.260 --> 01:20:26.860
+Mình SL, mình TP
+
+01:20:26.860 --> 01:20:29.300
+Ở cái khung thời gian H1 đấy, thì mình phải quản lý
+
+01:20:29.300 --> 01:20:31.240
+Theo SL, thì đương nhiên là
+
+01:20:31.240 --> 01:20:32.080
+Mình SL theo H1
+
+01:20:32.080 --> 01:20:34.820
+Hoặc là đôi khi ngày mai, khi anh em học một cái lý thuyết
+
+01:20:34.820 --> 01:20:37.380
+Của cái đường trung bình ngày mai, thì mọi người sẽ biết cách là
+
+01:20:37.380 --> 01:20:38.660
+Làm sao nhé
+
+01:20:38.660 --> 01:20:40.640
+Mình SL thì SL không nhỏ
+
+01:20:40.640 --> 01:20:43.440
+Mà mình ăn lại ăn theo cái target của khung lớn
+
+01:20:43.440 --> 01:20:44.720
+Thì anh em trong cũ đi học rồi
+
+01:20:44.720 --> 01:20:46.620
+Nó có thể là cái nhiều
+
+01:20:46.620 --> 01:20:48.760
+Anh em có bao giờ nghe đến cái tỷ lệ
+
+01:20:48.760 --> 01:20:49.460
+RISK REWARD
+
+01:20:49.460 --> 01:20:52.440
+Mà nó lên đến 10 lần, 20 lần chứ
+
+01:20:52.440 --> 01:20:54.460
+Anh em đánh một cái phương pháp nào
+
+01:20:54.460 --> 01:20:57.320
+Mà cái tỷ lệ RISK REWARD, nó đánh lên 10 lần, 20 lần chứ
+
+01:20:57.320 --> 01:20:58.600
+Có nghĩa là nếu mất 1
+
+01:20:58.600 --> 01:20:59.400
+Ăn thì ăn 10
+
+01:20:59.400 --> 01:21:02.460
+Bây giờ hỏi mấy ông trong cũ xem
+
+01:21:02.460 --> 01:21:04.760
+Có phương pháp đấy đấy
+
+01:21:04.760 --> 01:21:06.180
+Có phương pháp đấy đấy
+
+01:21:06.180 --> 01:21:08.640
+SL thì 1 lần, mà ăn thì ăn 10 lần
+
+01:21:08.640 --> 01:21:14.520
+Ăn thì ăn 10 lần
+
+01:21:14.520 --> 01:21:18.600
+Khung trường nó bảo ăn đừng 999
+
+01:21:18.600 --> 01:21:20.560
+Ăn đừng vàng 4 số 9
+
+01:21:20.560 --> 01:21:26.160
+Không, phải học công cụ ngày mai mới giải thích được
+
+01:21:26.160 --> 01:21:28.800
+Đấy, tiếp tục này
+
+01:21:28.800 --> 01:21:33.920
+Xin phép anh em là buổi học ngày hôm nay sẽ kết thúc trong vòng khoảng 10 phút nữa nhé
+
+01:21:33.920 --> 01:21:35.620
+Nếu mà còn câu hỏi thì sẽ dịch trong buổi sau
+
+01:21:35.620 --> 01:21:36.620
+Xin chào
+
+01:21:38.640 --> 01:21:43.560
+Tiếp theo, còn câu hỏi nào không?
+
+01:21:45.320 --> 01:21:46.600
+Hiện là nếu không chỉ trích
+
+01:21:46.600 --> 01:21:48.500
+Đấy, thì vừa trả lời câu hỏi của Hiền rồi nhé
+
+01:21:48.500 --> 01:21:51.960
+Là mình vào lệnh là mình xác định cái khung thời gian mình vào lệnh đầu tiên
+
+01:21:51.960 --> 01:21:54.060
+Và sau đấy thì nó mới xuất hiện
+
+01:21:54.060 --> 01:21:55.600
+Khi mà cái khung thời gian đấy nó chạy sóng
+
+01:21:55.600 --> 01:21:58.000
+Thì nó mới xuất hiện cái quán tính
+
+01:21:58.000 --> 01:21:59.380
+Ở khung gian nhỏ hơn
+
+01:21:59.380 --> 01:22:01.300
+Chứ không phải là cái quán tính nó xuất hiện trước
+
+01:22:01.300 --> 01:22:02.840
+Thì chúng ta mới vào lệnh
+
+01:22:02.840 --> 01:22:03.520
+Không phải
+
+01:22:08.640 --> 01:22:16.760
+Có căn cứ vào volume để vào lệnh theo H1 không?
+
+01:22:17.040 --> 01:22:18.500
+Không, không, không nhé, quyết nhé
+
+01:22:18.500 --> 01:22:21.020
+Volume chúng ta nó chỉ là một tín hiệu tham khảo
+
+01:22:21.020 --> 01:22:23.460
+Và volume trong thị trường chúng ta chỉ dùng
+
+01:22:23.460 --> 01:22:25.180
+Ở cái khung thời gian từ 1D trở lên thôi
+
+01:22:25.180 --> 01:22:27.600
+Chứ không dùng volume cho những khung gian nhỏ
+
+01:22:27.600 --> 01:22:31.680
+Hiện hỏi là giả sử H4 có quán tính
+
+01:22:31.680 --> 01:22:33.020
+Phong cuộn lên đẹp
+
+01:22:33.020 --> 01:22:35.960
+Ta thấy kéo được quán tính lên đến khung
+
+01:22:35.960 --> 01:22:37.660
+M5
+
+01:22:37.660 --> 01:22:38.440
+Như vậy, quán tính nó xuất hiện trước đó nhé
+
+01:22:38.440 --> 01:22:38.620
+Quán tính nó xuất hiện trước đó nhé
+
+01:22:38.640 --> 01:22:39.800
+M5 là thầy
+
+01:22:39.800 --> 01:22:41.700
+Nếu nó không kéo được khung lớn hơn
+
+01:22:41.700 --> 01:22:43.260
+Chính xác, kể cả từ H4
+
+01:22:43.260 --> 01:22:45.520
+Chẳng hạn là cái đà của thằng H4 nó lên
+
+01:22:45.520 --> 01:22:47.840
+Mà rõ ràng mọi người xác định là
+
+01:22:47.840 --> 01:22:50.080
+Một cái sóng của khung thời gian H4 nó lên
+
+01:22:50.080 --> 01:22:52.020
+Nếu nó lên thật, nó phải cực kỳ mạnh
+
+01:22:52.020 --> 01:22:54.660
+Ít nó phải kéo được cái quán tính lên được khung 30M
+
+01:22:54.660 --> 01:22:56.480
+Hoặc là thậm chí là
+
+01:22:56.480 --> 01:22:58.500
+Nhiều khi nó kéo được cái quán tính lên đến khung H1
+
+01:22:58.500 --> 01:23:00.780
+Thế nhưng mà thằng H4 nó lên
+
+01:23:00.780 --> 01:23:02.660
+Mà đến thằng 5M
+
+01:23:02.660 --> 01:23:04.660
+Nó chỉ đến thằng 5M có quán tính thôi
+
+01:23:04.660 --> 01:23:06.020
+Mà thậm chí 15M không có
+
+01:23:06.020 --> 01:23:07.860
+Thì rõ ràng là cái con sóng H4 này có vấn đề
+
+01:23:07.860 --> 01:23:10.560
+Thì khi đó chúng ta chờ thằng 5M nó hoàn thành xong
+
+01:23:10.560 --> 01:23:12.000
+Mà tụt là chúng ta phải chốt
+
+01:23:12.000 --> 01:23:13.600
+Đấy, đơn giản thôi
+
+01:23:23.800 --> 01:23:24.120
+Rồi
+
+01:23:24.120 --> 01:23:25.500
+Bữa học ngày hôm nay đến đây rồi nhé
+
+01:23:25.500 --> 01:23:28.500
+Anh em thấy hôm nay mọi người có vỡ ra được nhiều thứ không?
+
+01:23:28.840 --> 01:23:30.160
+Và mọi người có thấy buổi hôm nay nó hay không?
+
+01:23:30.900 --> 01:23:32.980
+Thật ra là anh em nói là hôm nay không có kiến thức gì mới
+
+01:23:32.980 --> 01:23:34.120
+Nhưng nó có rất nhiều kiến thức mới
+
+01:23:34.120 --> 01:23:36.000
+Đó
+
+01:23:36.000 --> 01:23:36.280
+Đúng không?
+
+01:23:37.860 --> 01:23:38.940
+Hôm nay có rất nhiều kiến thức mới
+
+01:23:38.940 --> 01:23:43.640
+Thật ra không
+
+01:23:43.640 --> 01:23:45.240
+Cứ nói là không có kiến thức mới
+
+01:23:45.240 --> 01:23:47.160
+Nhưng mà chúng ta vẫn nói về rồi đấy đi
+
+01:23:47.160 --> 01:23:49.540
+Nhưng mà chúng ta có rất nhiều kiến thức mới về rồi đấy đi
+
+01:23:49.540 --> 01:23:53.900
+Ok, về đi Trang ơi
+
+01:23:53.900 --> 01:23:54.640
+Không thì lỡ tàu
+
+01:24:00.640 --> 01:24:04.040
+Mấy ông nhóm cũ lại nhảy thang ôn lại bài
+
+01:24:06.000 --> 01:24:13.460
+Ông Đồng cũng bảo là sao em như vậy
+
+01:24:13.460 --> 01:24:15.260
+Em phải xem lại nhé Đồng nha
+
+01:24:15.260 --> 01:24:30.820
+Tại hỏi mấy anh Tháng đánh được bao nhiêu phần trăm kìa
+
+01:24:30.820 --> 01:24:32.360
+Mấy ông trả lời cho ông Tại ông nghe
+
+01:24:32.360 --> 01:24:34.940
+Đừng dọa nha
+
+01:24:34.940 --> 01:24:35.840
+Đừng dọa như kiểu ông Tại ông nghe
+
+01:24:35.840 --> 01:24:35.860
+Đừng dọa như kiểu ông Tại ông nghe
+
+01:24:35.860 --> 01:24:37.860
+Nói chung ông bảo 300% một tháng nha
+
+01:24:37.860 --> 01:24:44.920
+Ok nhé chị ơi
+
+01:24:44.920 --> 01:24:46.560
+Anh sẽ gửi cho anh em
+
+01:24:46.560 --> 01:24:51.040
+Tài khoản đầu của Tán bây giờ hơn 200%
+
+01:24:51.040 --> 01:24:54.200
+Đấy ông Việt Anh âm 80 kìa
+
+01:25:05.860 --> 01:25:13.000
+Đó hiểu hơn rồi đúng không?
+
+01:25:16.420 --> 01:25:17.320
+Đấy nói chung là
+
+01:25:17.320 --> 01:25:22.100
+Cái cảm xúc và kỷ luật những buổi sau khi mọi người học kiến thức xong ấy
+
+01:25:22.100 --> 01:25:23.320
+Mọi người học về phần tâm lý ấy
+
+01:25:23.320 --> 01:25:27.360
+Mọi người sẽ hiểu đôi khi chỉ cần một phút lơ là thôi
+
+01:25:27.360 --> 01:25:29.160
+Chỉ một khoảnh khắc lơ là
+
+01:25:29.160 --> 01:25:31.540
+Mình không quản lý cái tâm lý của mình
+
+01:25:31.540 --> 01:25:34.980
+Nhiều khi "của thiên trả địa" ngay lập tức
+
+01:25:34.980 --> 01:25:39.960
+trong quá trình một trader có thành công hay không không quyết định trong đường giá là
+
+01:25:39.960 --> 01:25:44.520
+người ta có giữ được mức lợi nhuận đều đặn hay không, người ta có kiểm soát được cái kỷ
+
+01:25:44.520 --> 01:25:51.240
+luật và bản thân của mình nhiều hay không thì khi đó mình mới có thể giữ được sự chiến thắng đó và
+
+01:25:51.240 --> 01:25:57.060
+cái tài sản mình gia tăng một cách đều đặn bởi vì cái bài học anh trải qua rồi đây là cả nửa năm cả
+
+01:25:57.060 --> 01:26:03.120
+năm trời anh chơi lãi liên tục ngày xưa nửa năm cả năm trời 6 tháng 7 tháng 8 tháng trời chơi lãi
+
+01:26:03.120 --> 01:26:07.500
+liên tục nhưng mà chỉ nhớ đúng trong một cái buổi tối thôi khi mà mình phá kỷ luật khi mà mình để
+
+01:26:07.500 --> 01:26:14.040
+cái cảm xúc của mình nó lấn át lý trí bắt đầu lòng tham và cái sự sợ hãi nó nổi lên thì tất cả những
+
+01:26:14.040 --> 01:26:18.600
+cái sự cố gắng trong vòng 8 tháng trời đó nó cuốn đi xuống sông xuống bể hết thì đấy là cái bài học
+
+01:26:18.600 --> 01:26:22.740
+của anh đừng làm sao mà anh em luôn luôn phải kiểm soát còn cái giai đoạn đầu khi mà mọi người đã
+
+01:26:22.740 --> 01:26:30.180
+đã đã đã đã xử lý mà mọi người học mọi người hiểu được cái kiến thức rồi thì sau đó là quá trình rất
+
+01:26:30.180 --> 01:26:33.100
+là dài chúng ta phải kiểm soát được cái cảm xúc của mình chúng ta luyện được cái tâm lý và sức khỏe
+
+01:26:33.100 --> 01:26:39.820
+của sự kỷ luật của mình đó thì đấy là cái bài học còn chia sẻ với anh em và đến bây giờ thì có
+
+01:26:39.820 --> 01:26:43.960
+thể là nhờ những cái có thể là những cái chia sẻ của anh đừng những cái kinh nghiệm của anh đừng nó
+
+01:26:43.960 --> 01:26:49.840
+sẽ giúp anh em tiết kiệm thời gian so với anh được ngày xưa rất là nhiều, thế nhưng mà đương nhiên
+
+01:26:49.840 --> 01:26:54.700
+là cái sự tiết kiệm về mặt kiến thức và những kinh nghiệm để xử lý về mặt tâm lý, thế nhưng
+
+01:26:54.700 --> 01:26:58.840
+mà rõ ràng chúng ta phải thừa nhận với nhau một câu chuyện rằng là thị trường nó được sinh ra để
+
+01:26:58.840 --> 01:27:03.100
+nó đi ngược lại những cái cảm xúc những cái tâm lý tự nhiên nhất của một con người thì cái quá trình
+
+01:27:03.100 --> 01:27:08.920
+để chúng ta cải thiện được cái tâm tâm lý và cái cảm xúc đó nó cần một cái thời gian có thể là ví
+
+01:27:08.920 --> 01:27:14.560
+dụ ông nào cũng hỏi được một câu là thầy ơi em hay bị chốt non em không cầu được lãi hay là em hay bị
+
+01:27:14.560 --> 01:27:19.120
+sợ hãi hay là như thế nào đó đã gọi đến cái lỗi tâm lý chúng ta gặp phải trong quá trình chúng ta
+
+01:27:19.120 --> 01:27:25.600
+trading và giao dịch trên thị trường thì anh sẽ đưa ra cho mọi người các công thức, cái mẹo để áp dụng
+
+01:27:25.600 --> 01:27:30.280
+làm sao để mọi người hiểu được cái phản ứng tâm lý của mình cái phản ứng tâm lý hành vi nó
+
+01:27:30.280 --> 01:27:33.080
+xảy ra trong cái trường hợp đó thì mọi người sẽ biết cách để mọi người xử lý tâm lý tâm lý của mình
+
+01:27:33.080 --> 01:27:38.060
+tâm lý nhưng rõ ràng từ lúc chúng ta biết được cái cách đó để chú đến lúc chúng ta luyện tập để
+
+01:27:38.060 --> 01:27:51.920
+làm quen cái tâm lý đó nó cũng cần một khoảng thời gian đó à à à à à à à à à à à à à à à à à à à à ờ ờ ờ
+
+01:27:51.920 --> 01:28:00.840
+chúng ta sẽ kết thúc cái buổi ngày hôm nay nhé nhóm cũ tại đợt này không rõ kiến thức rồi thì
+
+01:28:00.840 --> 01:28:03.060
+từ ngày buổi ngày mai sẽ cho con nhóm cũ
+
+01:28:03.060 --> 01:28:08.760
+vào cho hóng ướt đấy hôm nay bảo là like trong không cứ đu vào ạ ừ ừ
+
+01:28:08.760 --> 01:28:21.900
+rồi anh em về nhóm thì để lại cho được một cái đánh giá nhé anh ra về cái buổi ngày hôm nay anh
+
+01:28:21.900 --> 01:28:26.340
+em nhóm cũ nhóm mới và sau cái giai đoạn kiến thức của anh em nhóm mới ra lần sẽ áp những anh
+
+01:28:26.340 --> 01:28:31.380
+em nhóm mới và nhóm cũ và chung một nhóm để làm sao mà có thể là anh em nhóm cũ khi mà mọi người
+
+01:28:31.380 --> 01:28:36.780
+đã hiểu kiến thức rồi mọi người đã hiểu kiến thức rồi và đứng trên cái thế giới quan của anh em thì
+
+01:28:36.780 --> 01:28:40.620
+mọi người giải thích cho anh em nhóm mới mọi người có thể là để anh em nhóm mới tiến bộ nhanh hơn
+
+01:28:40.620 --> 01:28:47.340
+rồi Cảm ơn mọi người Cảm ơn anh em chúc mọi người lần nữa ngủ ngon và chúng ta sẽ hẹn nhau vào 20
+
+01:28:47.340 --> 01:28:58.680
+ngày mai nha Cảm ơn anh em Ok sẽ có video làm cho mọi người
+
